@@ -1,0 +1,2176 @@
+[
+    {
+        "description": "", 
+        "dpci": "226-11-1747", 
+        "brand": "Cook's", 
+        "tcin": "47849504", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47849504", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47849504"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Cook's Corned Beef - price per lb.", 
+        "url": "/p/cook-s-corned-beef-price-per-lb/-/A-47849504", 
+        "release_date": "", 
+        "upc": "217471000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> flat iron steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Whether you're feeding a family or want to make sure you have steak on hand for yourself, make sure you have Sutton & Dodge\u0099 Sirloin Steaks on hand. Enjoy the taste of high-quality Angus beef and feel good knowing there's no artificial ingredients. Grilled, broiled, or slow cooked, these steaks are sure to hit the spot.", 
+        "dpci": "268-11-1426", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827740", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827740"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Top Sirloin Steak - 16oz - Sutton & Dodge&#153;", 
+        "url": "/p/top-sirloin-steak-16oz-sutton-dodge-153/-/A-14827740", 
+        "release_date": "", 
+        "upc": "085239114261", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Great cut for grilling or stir fry", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "If you're craving steak but want to keep things on the lighter side, cook up some Sutton & Dodge\u0099 Petite Sirloin Steaks. Smaller than a T-bone or tenderloin, these petite steaks still pack a punch of protein, and cook up nice and tender. Grill them up and enjoy with your favorite sides, or slice them up and use in tacos or stir fry.", 
+        "dpci": "268-11-1421", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827738", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827738"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Petite Sirloin Steak - 12oz - Sutton & Dodge&#153;", 
+        "url": "/p/petite-sirloin-steak-12oz-sutton-dodge-153/-/A-14827738", 
+        "release_date": "", 
+        "upc": "085239142103", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Great cut for grilling or stir fry", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-11-1117", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827731", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827731"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Chuck Tender Steak 18 oz - Sutton & Dodge&#153;", 
+        "url": "/p/chuck-tender-steak-18-oz-sutton-dodge-153/-/A-14827731", 
+        "release_date": "", 
+        "upc": "085239268179", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Making a batch of your favorite beef stew just got easier with Sutton & Dodge\u0099 Stew Meat. Avoid the hassle of cutting up and prepping meat \u2014 just throw these bits of steak into the slow cooker or pot with your favorite veggies and seasonings and you're ready to go. You'll love the savory taste of this high-quality Angus beef.", 
+        "dpci": "268-11-1727", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827741", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827741"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Stew Meat 18 oz - Sutton & Dodge&#153;", 
+        "url": "/p/stew-meat-18-oz-sutton-dodge-153/-/A-14827741", 
+        "release_date": "", 
+        "upc": "085239117279", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Makes cooking beef stew easier", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Create countless dinners with this Boneless Chuck Roast from Sutton & Dodge\u0099. Put this chuck roast into the slow cooker along with some savory spices to create a versatile, tender option for sandwiches, salads and soups.", 
+        "dpci": "226-11-1081", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14933841", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14933841"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Boneless Chuck Roast - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/boneless-chuck-roast-price-per-lb-sutton-dodge-153/-/A-14933841", 
+        "release_date": "", 
+        "upc": "928749375022", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural", 
+                "Choice Angus beef", 
+                "Minimally processed"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Serve up a hearty stew full of this delicious Stew Meat from Sutton & Dodge\u0099. This natural, choice Angus beef is minimally processed and also tastes amazing marinated and grilled up on a skewer with your favorite vegetables.", 
+        "dpci": "268-11-1728", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827742", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827742"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Stew Meat - Sutton & Dodge&#153;", 
+        "url": "/p/stew-meat-sutton-dodge-153/-/A-14827742", 
+        "release_date": "", 
+        "upc": "085239117286", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural", 
+                "Choice Angus beef", 
+                "Minimally processed"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Serve up a hearty meal with Sutton & Dodge\u0099 Strip Steak at the center of it. This high-quality Angus beef cooks up tender for a taste and texture you'll love. A perfect cut for grilling, this steak is sure to please.", 
+        "dpci": "268-11-1404", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827729", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827729"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Strip Steak 10 oz - Sutton & Dodge&#153;", 
+        "url": "/p/strip-steak-10-oz-sutton-dodge-153/-/A-14827729", 
+        "release_date": "", 
+        "upc": "085239114049", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Great cut for grilling or stir fry", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Delicious and artistic, you\u2019ll love these Garlic Beef Pin Wheels 13 oz from Archer Farms. These garlic herb butter and spinach beef pinwheel steaks are great on the grill for a special dinner for two.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "268-12-2705", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "18758135", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "18758135"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Garlic Beef Pin Wheels 13 oz - Archer Farms&#153;", 
+        "url": "/p/garlic-beef-pin-wheels-13-oz-archer-farms-153/-/A-18758135", 
+        "release_date": "", 
+        "upc": "085239227053", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "13 oz beef pinwheels", 
+                "Garlic herb butter and spinach", 
+                "Cooks in 35 minutes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> flank steak", 
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Treat your family to a hearty meal with a Sutton & Dodge\u0099 Chuck Tender Roast at the core. This choice Angus beef is tender and cooks up nicely. Throw this beef roast in a slow cooker with veggies and your favorite seasonings for an easy-to-make dinner.", 
+        "dpci": "226-11-1115", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14915349", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14915349"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Chuck Tender Roast - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/chuck-tender-roast-price-per-lb-sutton-dodge-153/-/A-14915349", 
+        "release_date": "", 
+        "upc": "928749375473", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;A great cut for slow cooking", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Spaghetti night is so much easier when you buy these Italian-Style Meatballs 28 oz from Market Pantry. These fully cooked meatballs can be heated in a pot along with your sauce for a quick topping to your spaghetti.<br><br>Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "210-02-0037", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13379453", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13379453"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Italian-Style Meatballs 28 oz - Market Pantry&#153;", 
+        "url": "/p/italian-style-meatballs-28-oz-market-pantry-153/-/A-13379453", 
+        "release_date": "", 
+        "upc": "085239037027", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "50 or more meatballs", 
+                "240 calories per serving", 
+                "Fully cooked"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-11-1118", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827730", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827730"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Chuck Tender Steak 8 pk - Sutton & Dodge&#153;", 
+        "url": "/p/chuck-tender-steak-8-pk-sutton-dodge-153/-/A-14827730", 
+        "release_date": "", 
+        "upc": "085239111185", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy a tasty meal for two with the Bacon Wrapped Petite Sirloin 16 oz from Archer Farms. These angus beef sirloin steaks cook up in just 35 minutes from grill to table.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "268-12-0502", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "17294001", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17294001"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Bacon Wrapped Petite Sirloin - 16oz - Archer Farms&#153;", 
+        "url": "/p/bacon-wrapped-petite-sirloin-16oz-archer-farms-153/-/A-17294001", 
+        "release_date": "", 
+        "upc": "085239685020", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "16 oz steaks", 
+                "Angus beef", 
+                "Bacon-wrapped steaks"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Making hearty, delicious steak sandwiches is easy with Sutton & Dodge\u0099 Beef Steak for Sandwiches. Made from thinly sliced choice Angus beef, this meat cooks up easily and tenderly. Just flavor with your favorite seasonings and top with tasty condiments for a sandwich that'll keep you satisfied.", 
+        "dpci": "226-11-1200", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911561", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911561"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Beef Steak for Sandwiches - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/beef-steak-for-sandwiches-price-per-lb-sutton-dodge-153/-/A-14911561", 
+        "release_date": "", 
+        "upc": "928749375503", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Thinly sliced for easy sandwich making", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Light up the grill and get ready to treat yourself with these Archer Farms Angus Bacon Wrapped Medallions 14.24 oz These bacon-wrapped sirloins medallions made from angus beef are a delicious main dish that goes well with sweet corn or grilled asparagus.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "268-12-0503", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "50542027", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50542027"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Angus Bacon Wrapped Medallions - 14.24oz - Archer Farms&#153;", 
+        "url": "/p/angus-bacon-wrapped-medallions-14-24oz-archer-farms-153/-/A-50542027", 
+        "release_date": "", 
+        "upc": "492681205032", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Bacon-wrapped sirloin medallions", 
+                "Angus beef", 
+                "Cooks in 30 minutes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1203", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911562", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911562"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Boneless Ribeye Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/boneless-ribeye-steak-price-per-lb-sutton-dodge-153/-/A-14911562", 
+        "release_date": "", 
+        "upc": "928749375183", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-11-0001", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "50030806", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50030806"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Beef Steak Strips - 14oz - Sutton & Dodge&#153;", 
+        "url": "/p/beef-steak-strips-14oz-sutton-dodge-153/-/A-50030806", 
+        "release_date": "", 
+        "upc": "492681100016", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Whip up a sub or spaghetti with these Fully Cooked Meatballs Italian Style 12oz from Archer Farms. These Italian-style Meatballs skip the messy prep step and are seasoned for a delicious meal.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "216-34-0221", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "17413067", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17413067"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Fully Cooked Meatballs Italian Style 12oz - Archer Farms&#153;", 
+        "url": "/p/fully-cooked-meatballs-italian-style-12oz-archer-farms-153/-/A-17413067", 
+        "release_date": "", 
+        "upc": "085239342213", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fully cooked", 
+                "Keep refrigerated", 
+                "Italian-style"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cuisine Type:</B> Italian inspired", 
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-0001", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "52001635", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52001635"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Ribeye Value Pack - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/ribeye-value-pack-price-per-lb-sutton-dodge-153/-/A-52001635", 
+        "release_date": "", 
+        "upc": "214901000001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> ribeye", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-11-0002", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827732", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827732"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Petite Sirloin Steak - Sutton & Dodge&#153;", 
+        "url": "/p/petite-sirloin-steak-sutton-dodge-153/-/A-14827732", 
+        "release_date": "", 
+        "upc": "085239268025", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Serve up a hearty dinner with delectable Sutton & Dodge\u0099 Tenderloin Steak. This high-quality Angus beef cooks up nice and tender for a satisfying steak that you'll love. Prepare with your favorite seasonings and then grill it up or broil for a high-protein meal.", 
+        "dpci": "226-11-1388", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911565", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911565"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Tenderloin Steak - Sutton & Dodge&#153;", 
+        "url": "/p/tenderloin-steak-sutton-dodge-153/-/A-14911565", 
+        "release_date": "", 
+        "upc": "211388000005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Tender filet cut", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> loin", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-12-0011", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "48625783", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "48625783", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "48625783"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Asian BBQ Beef Skewers - 18oz - Archer Farms&#153;", 
+        "url": "/p/asian-bbq-beef-skewers-18oz-archer-farms-153/-/A-48625783", 
+        "release_date": "", 
+        "upc": "085239120118", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Stick them on wooden skewers to grill or fry up in the pan these delectable Teriyaki Beef Strips 16 oz from Archer Farms. These teriyaki beef sirloin strips are marinated with up to 14% teriyaki sauce.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "268-12-0021", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "51308349", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51308349"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Teriyaki Beef Strips - 16oz - Archer Farms&#153;", 
+        "url": "/p/teriyaki-beef-strips-16oz-archer-farms-153/-/A-51308349", 
+        "release_date": "", 
+        "upc": "492681200211", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Teriyaki seasoned", 
+                "Beef sirloin strips", 
+                "Cooks on stovetop in 15 minutes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Grill up some goodness when you have Sutton & Dodge\u0099 T-Bone Steak on hand for your barbecue. This high-quality Angus beef comes to you still on the bone for extra flavor. Add your favorite seasonings then sear on the grill for a meal you can sink your teeth into.", 
+        "dpci": "226-11-1368", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911563", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911563"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "T-Bone Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/t-bone-steak-price-per-lb-sutton-dodge-153/-/A-14911563", 
+        "release_date": "", 
+        "upc": "928749375305", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Delicious bone-in steak is perfect for grilling", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Serve up a hearty dinner with delectable Sutton & Dodge\u0099 Flank Steak. This high-quality Angus beef cooks up nice and tender for a satisfying steak that you'll love. Prepare with your favorite seasonings and then grill it, or cut it up and use in tacos or stir fry.", 
+        "dpci": "226-11-1581", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911556", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911556"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Flank Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/flank-steak-price-per-lb-sutton-dodge-153/-/A-14911556", 
+        "release_date": "", 
+        "upc": "928749375442", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Great cut for grilling or stir fry", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1551", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14915739", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14915739", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14915739"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Top Round Roast - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/top-round-roast-price-per-lb-sutton-dodge-153/-/A-14915739", 
+        "release_date": "", 
+        "upc": "928749375381", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1370", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911564", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911564"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "T-Bone Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/t-bone-steak-price-per-lb-sutton-dodge-153/-/A-14911564", 
+        "release_date": "", 
+        "upc": "928749375343", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Heat up this Angus Roast Beef by the pound from Archer Farms for delicious sandwiches. Cut the meat off this seasoned black angus roast beef and keep it in the slow cooker so guests can help themselves.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "227-16-0014", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "15013534", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "15013534", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013534"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Angus Roast Beef by the pound - Archer Farms&#153;", 
+        "url": "/p/angus-roast-beef-by-the-pound-archer-farms-153/-/A-15013534", 
+        "release_date": "", 
+        "upc": "085239190142", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Seasoned black angus", 
+                "Roast beef", 
+                "Fully cooked"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> paper or cardboard"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "216-34-0088", 
+        "brand": "Jack Daniel's", 
+        "tcin": "14932093", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14932093"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Jack Daniel's Seasoned, Cooked & Sliced Beef Brisket 16 oz", 
+        "url": "/p/jack-daniel-s-seasoned-cooked-sliced-beef-brisket-16-oz/-/A-14932093", 
+        "release_date": "", 
+        "upc": "895334001126", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1553", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911559", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911559"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Top Round Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/top-round-steak-price-per-lb-sutton-dodge-153/-/A-14911559", 
+        "release_date": "", 
+        "upc": "928749375350", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Treat yourself to a hearty pulled beef sandwich without all the hassle of cooking, prepping and seasoning with Jack Daniel's\u00ae Seasoned and Cooked Pulled Beef. Marinated and cooked in an enticing blend of barbecue sauce and whiskey, you'll love sinking your teeth into this delectable beef. Already fully cooked, all you need to do to is pop it in the oven or microwave to warm it up.", 
+        "dpci": "216-34-0046", 
+        "brand": "Jack Daniel's", 
+        "tcin": "14929075", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14929075"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Jack Daniel's Season and Cooked Pulled Beef 16 oz", 
+        "url": "/p/jack-daniel-s-season-and-cooked-pulled-beef-16-oz/-/A-14929075", 
+        "release_date": "", 
+        "upc": "895334001164", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Cooked in Jack Daniel's&#174; whiskey and barbecue sauce", 
+                "&nbsp;Perfect for sandwiches or on its own", 
+                "&nbsp;Ready to eat &mdash;&nbsp;just warm in the oven or microwave"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Whether you're feeding a family or want to make sure you have steak on hand for yourself, grab a four-pack of Sutton & Dodge\u0099 Sirloin Steaks. Enjoy the taste of high-quality Angus beef and feel good knowing there's no artificial ingredients. Grilled, broiled, or slow cooked, these steaks are sure to hit the spot.", 
+        "dpci": "268-11-1424", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14827739", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14827739"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Sirloin Steak 4 pk - Sutton & Dodge&#153;", 
+        "url": "/p/sirloin-steak-4-pk-sutton-dodge-153/-/A-14827739", 
+        "release_date": "", 
+        "upc": "085239142417", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;Great cut for grilling or stir fry", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1577", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911557", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911557"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Cube Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/cube-steak-price-per-lb-sutton-dodge-153/-/A-14911557", 
+        "release_date": "", 
+        "upc": "928749375459", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1608", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14911555", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14911555"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Skirt Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/skirt-steak-price-per-lb-sutton-dodge-153/-/A-14911555", 
+        "release_date": "", 
+        "upc": "928749375497", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "HandCrafted and Competition style Slow Smoked USDA Choice Beef Brisket.  Pulled to perfection and topped with the natural juices retained during the 10-18 hour cooking process..  The Wolf family takes great pride in their minimally processed no artificial ingredients added real hard wood smoked meats. No Junk. No Joke.", 
+        "dpci": "216-34-0354", 
+        "brand": "Wolf Family", 
+        "tcin": "51419299", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51419299"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Wolf Family Smoked Chopped Brisket Marinated with Apple Juice and Spices 16 oz", 
+        "url": "/p/wolf-family-smoked-chopped-brisket-marinated-with-apple-juice-and-spices-16-oz/-/A-51419299", 
+        "release_date": "", 
+        "upc": "658756602001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-12-0073", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "50542141", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "50542141", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50542141"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Skirt Steak for Carne Asada - 19.84oz - Archer Farms&#153;", 
+        "url": "/p/skirt-steak-for-carne-asada-19-84oz-archer-farms-153/-/A-50542141", 
+        "release_date": "", 
+        "upc": "492681200730", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> skirt steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Whether you're getting ready for an afternoon barbecue or taco night, grab some Sutton & Dodge\u0099 Chuck Steak and do it right. This choice Angus beef has no artificial ingredients \u2014\u00a0just delicious, high-quality beef. You and your family will love the taste this brings to your table.", 
+        "dpci": "226-11-1158", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14933842", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14933842"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Chuck Steak - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/chuck-steak-price-per-lb-sutton-dodge-153/-/A-14933842", 
+        "release_date": "", 
+        "upc": "928749375145", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "100% natural beef", 
+                "&nbsp;A great cut for grilling or cubing for kabobs", 
+                "&nbsp;Minimally processed with no artificial ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1102", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "14915740", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14915740", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14915740"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Beef Chuck Eye Steak - Sutton & Dodge&#153;", 
+        "url": "/p/beef-chuck-eye-steak-sutton-dodge-153/-/A-14915740", 
+        "release_date": "", 
+        "upc": "928749375152", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> chuck steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-1119", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "47134950", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47134950", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134950"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Tri Tip Roast - price per lb. - Sutton & Dodge&#153;", 
+        "url": "/p/tri-tip-roast-price-per-lb-sutton-dodge-153/-/A-47134950", 
+        "release_date": "", 
+        "upc": "928749375480", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> tri tip steak", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "In Korea, this Savory Beef is called \"Bulgogi\" (bool\u2011GO\u2011ghee). It\u2019s a centuries\u2011old family tradition of marinating lean meat in a blend of soy, fruit pur\u00e9e, vinegar, and sesame oil for a perfect blend of sweet and tangy flavors. Uses only 100% USDA Choice Beef and all natural ingredients.", 
+        "dpci": "216-34-0295", 
+        "brand": "Suji's Korean Cuisine", 
+        "tcin": "51308416", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51308416"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Suji's Korean Cuisine Savory Beef BBQ 12 oz", 
+        "url": "/p/suji-s-korean-cuisine-savory-beef-bbq-12-oz/-/A-51308416", 
+        "release_date": "", 
+        "upc": "850303006083", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> ribeye", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Make a scrumptious meal with this pack of ground bison from Great Range Brand\u00ae. Made from bison raised without antibiotics and no added hormones, this ground meat is minimally processed and has no artificial ingredients. This ground bison is great for making delicious curries, burgers and spaghetti.", 
+        "dpci": "268-02-0024", 
+        "brand": "Great Range Brand Bison", 
+        "tcin": "51427215", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51427215", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51427215"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Great Range Ground Bison 90/10 16 oz", 
+        "url": "/p/great-range-ground-bison-90-10-16-oz/-/A-51427215", 
+        "release_date": "", 
+        "upc": "164471009068", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ground bison", 
+                "No added hormones", 
+                "Raised without antibiotics", 
+                "Single pack of 16 oz."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-0079", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "51270863", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51270863", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51270863"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Flanken Style Beef Short Ribs - Sutton & Dodge&#153;", 
+        "url": "/p/flanken-style-beef-short-ribs-sutton-dodge-153/-/A-51270863", 
+        "release_date": "", 
+        "upc": "219700000009", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> short ribs", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-11-0010", 
+        "brand": "Sutton & Dodge&#153;", 
+        "tcin": "51270849", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51270849"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Top Blade Steak 1 lb - Sutton & Dodge&#153;", 
+        "url": "/p/top-blade-steak-1-lb-sutton-dodge-153/-/A-51270849", 
+        "release_date": "", 
+        "upc": "492681100108", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> flat iron steak", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.", 
+        "dpci": "226-11-0300", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50988608", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50988608"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Grass Fed Ribeye - Simply Balanced&#153;", 
+        "url": "/p/grass-fed-ribeye-simply-balanced-153/-/A-50988608", 
+        "release_date": "", 
+        "upc": "212611000007", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> ribeye", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced \u00a0Organic Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.\u00a0\u00a0", 
+        "dpci": "226-11-0006", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50997432", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50997432"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Organic Grass Fed Ribeye - Simply Balanced&#153;", 
+        "url": "/p/organic-grass-fed-ribeye-simply-balanced-153/-/A-50997432", 
+        "release_date": "", 
+        "upc": "211106000003", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> ribeye", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Make a hit sandwich with this fully cooked and seasoned Pastrami from Archer Farms. This sliced pastrami has been slow roasted to medium rare and is great warmed or served straight from the fridge.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "216-26-0006", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "49105703", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "49105703"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Pastrami - Archer Farms&#153;", 
+        "url": "/p/pastrami-archer-farms-153/-/A-49105703", 
+        "release_date": "", 
+        "upc": "085239051665", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Sliced pastrami", 
+                "Slow roasted to medium rare", 
+                "Caramel color added"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> cutlets", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.", 
+        "dpci": "226-11-0302", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50989439", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50989439"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Grass Fed Top Sirloin - Simply Balanced&#153;", 
+        "url": "/p/grass-fed-top-sirloin-simply-balanced-153/-/A-50989439", 
+        "release_date": "", 
+        "upc": "210302000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> New York strip steak", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced \u00a0Organic Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.\u00a0\u00a0", 
+        "dpci": "226-11-0003", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50545001", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50545001"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Organic Grass Fed NY Strip - Simply Balanced&#153;", 
+        "url": "/p/organic-grass-fed-ny-strip-simply-balanced-153/-/A-50545001", 
+        "release_date": "", 
+        "upc": "211103000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> chuck steak", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.", 
+        "dpci": "226-11-0301", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50989440", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50989440"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Grass Fed NY Strip - Simply Balanced&#153;", 
+        "url": "/p/grass-fed-ny-strip-simply-balanced-153/-/A-50989440", 
+        "release_date": "", 
+        "upc": "211126000007", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> New York strip steak", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced \u00a0Organic Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.\u00a0\u00a0", 
+        "dpci": "226-11-0005", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50997417", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50997417"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Organic Grass Fed Top Sirloin - Simply Balanced&#153;", 
+        "url": "/p/organic-grass-fed-top-sirloin-simply-balanced-153/-/A-50997417", 
+        "release_date": "", 
+        "upc": "211105000004", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> loin", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced \u00a0Organic Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.\u00a0\u00a0", 
+        "dpci": "226-11-0010", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50997479", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50997479"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Organic Grass Fed Tenderloin - Simply Balanced&#153;", 
+        "url": "/p/organic-grass-fed-tenderloin-simply-balanced-153/-/A-50997479", 
+        "release_date": "", 
+        "upc": "211110000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> tenderloin", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Simply Balanced Grass Fed beef is 100% grass fed and grass finished. The cattle are never fed grains, are never administered \u00a0antibiotics or growth hormones, and are free to roam on open pastures.", 
+        "dpci": "226-11-0305", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50989587", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50989587"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Grass Fed Tenderloin - Simply Balanced&#153;", 
+        "url": "/p/grass-fed-tenderloin-simply-balanced-153/-/A-50989587", 
+        "release_date": "", 
+        "upc": "210305000005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> tenderloin", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> Polyurethane"
+        ]
+    }, 
+    {
+        "description": "Storage: Keep frozen. Directions: Heat and serve. Heating: For best results, thaw beef and sauce in refrigerator overnight or until thawed. Heat and serve. Do not boil. Stove Top: Thaw product completely. Place contents of container in a small saucepan. Heat approximately 5 minutes over medium heat until temp reaches 165 degrees F, stirring occasionally. Do not boil. Microwave Oven: Thawed: Thaw product completely. Place contents of container in a microwavable container and heat. Microwave product on high 2 minutes, stir. Microwave 2-4 minutes longer or until thoroughly heated and product temp reaches 165 degrees F. Stir well and serve. Frozen: Place contents of container in a microwaveable container. Thaw on defrost cycle for 10 minutes according to manufacturer's directions. (Microwave on high for 2 minutes or until thoroughly heated and product temp reaches 165 degrees F.) Stir well and serve.", 
+        "dpci": "210-02-0006", 
+        "brand": "PAPA CHARLIE'S", 
+        "tcin": "47134908", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134908"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Papa Charlie Italian Beef Tub 24 oz", 
+        "url": "/p/papa-charlie-italian-beef-tub-24-oz/-/A-47134908", 
+        "release_date": "", 
+        "upc": "763335030240", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> chuck roast", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-08-0009", 
+        "brand": "Abeles & Heymann", 
+        "tcin": "52610997", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52610997_Alt01", 
+                    "52610997_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52610997_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52610997_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52610997", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52610997"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Abeles & Heymann Beef Salami - 14oz", 
+        "url": "/p/abeles-heymann-beef-salami-14oz/-/A-52610997", 
+        "release_date": "", 
+        "upc": "653694935303", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Try our NEW tender and juicy Classic Bistro Santa Maria Brand Beef Tri Tip.  It is seasoned and marinated to perfection - a cut above all the rest.  There are 20 grams of protein in every tender 4 oz serving. They are Made in the USA by American Custom Meats in Tracy, CA.  You can serve it with garlic bread and a simple green salad, or slice and use it as the center of a delicious and juicy sandwich.  However you decide to serve this, it will soon become a regular staple to your meal plan.", 
+        "dpci": "226-06-0012", 
+        "brand": "Classic Bistro", 
+        "tcin": "52281630", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52281630_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52281630"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Classic Bistro Santa Maria Tri Tip Roast - 1.5lbs", 
+        "url": "/p/classic-bistro-santa-maria-tri-tip-roast-1-5lbs/-/A-52281630", 
+        "release_date": "", 
+        "upc": "211200000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Seasoned and Marinated to Perfection!  &hellip;a cut above the rest! 20g of Protein per 4 oz serving, Made in the USA", 
+                "Produced by American Custom Meats in Tracy, CA", 
+                "1.5 lb. Average Vacuum Packed Cryovac Rollstock", 
+                "Santa Maria Brand Beef Tri Tip", 
+                "Classic Bistro Santa Maria Brand Beef Tri Tip. Seasoned and Marinated to Perfection and a cut above the rest.  High in Protein per serving (20 Grams) and Made in the USA!"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> tri tip roast", 
+            "<B>Cuisine Type:</B> American inspired", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "268-08-0020", 
+        "brand": "Meal Mart", 
+        "tcin": "52611146", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52611146_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52611146_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52611146", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52611146"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Meal Mart Beef Salami - 6oz", 
+        "url": "/p/meal-mart-beef-salami-6oz/-/A-52611146", 
+        "release_date": "", 
+        "upc": "051328104024", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Storage: Cooking Guidelines:<br>Directions: Oven: Preheat oven to 375 degrees F. Arrange frozen chicken breasts in a single layer in a shallow roasting pan. Bake uncovered for 35 to 40 minutes, or until chicken can be easily pierced with a fork and juices run clear. Let stand 3 to 5 minutes before serving. Oven temperatures may vary. Adjust cooking times accordingly. Meat thermometer inserted into the thickest part of the breast should reach 170 degrees F. For pan frying in a skillet or grilling, thaw chicken first. Defrosting: For best results defrost chicken breast pieces in the refrigerator overnight. Always cook until the internal temperature reaches 170 degrees F. Skillet: Heat 1 tablespoon oil in a heavy skillet. Add thawed breast pieces and cook over medium high heat for approximately 4 to 5 minutes per side or until chicken can be easily pierced with a fork and juices run clear. Meat thermometer inserted into the thickest part of the breast should reach 170 degrees F Grill: Brush grill rack with cooking oil. Heat grill to medium-high. Place thawed breast pieces on grill rack. Cover and cook for 3 minutes. Turn breasts over and replace grill cover. Cook an additional 3 to 5 minutes or until chicken can be easily pierced with a fork and juices run clear. Meat thermometer inserted into the thickest part of the breast should reach 170 degrees F. Safe Handling Instructions: This product was prepared from inspected and passed meat and/or poultry. Some food products may contain bacteria that could cause illness if the product is mishandled or cooked improperly. For your protection, follow these safe handling instructions. Keep refrigerated or frozen. Thaw in refrigerator or microwave. Keep raw meat and poultry separate from other foods. Wash working surfaces (including cutting boards), utensils, and hands after touching raw meat or poultry. Cook thoroughly. Keep hot foods hot. Refrigerate leftovers immediately or discard. Keep frozen.", 
+        "dpci": "268-08-0063", 
+        "brand": "Empire", 
+        "tcin": "47135335", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47135335"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Empire Kosher Chicken Cutlets 2 lb", 
+        "url": "/p/empire-kosher-chicken-cutlets-2-lb/-/A-47135335", 
+        "release_date": "", 
+        "upc": "071627018396", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Individually frozen.", 
+                "Made from chicken that is - never ever administered antibiotics; fed an all vegetarian diet.", 
+                "Kosher for Passover.", 
+                "Inspected by USDA.", 
+                "Empire's strict kosher standards are certified by the most highly regarded agencies in the world.", 
+                "Kashrus assured only if seal is intact.", 
+                "Kosher L'mehadrin. Soaked, salted and rinsed.", 
+                "Hatched, raised, and harvested in the USA."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> cutlets", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> polystyrene foam"
+        ]
+    }, 
+    {
+        "description": "Coated with caramel color & spices. Smoked flavor added. Vacuum packed. Packed under HACCP Quality guidelines. Est. 1698.<br><br>Directions:<br><br>Keep refrigerated or frozen.", 
+        "dpci": "268-08-1037", 
+        "brand": "Meal Mart", 
+        "tcin": "47135446", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47135446", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47135446"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Meal Mart Sliced Pastrami 6 oz", 
+        "url": "/p/meal-mart-sliced-pastrami-6-oz/-/A-47135446", 
+        "release_date": "", 
+        "upc": "051328705443", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> brisket", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Heat up a delicious and filling meal of handcrafted Smoked Brisket from Wolf Family. Seasoned and topped with Wayne J's Sweet Heat Sauce, your tasty brisket is full of savory flavor best joined along or in a sandwich. Made with USDA choice beef and no artificial ingredients, you can feel good enjoying this tasty meal.", 
+        "dpci": "216-34-0355", 
+        "brand": "Wolf Family", 
+        "tcin": "51462352", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51462352"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Wolf Family Chopped Brisket in WayneJ Sweet Heat Sauce 14 oz", 
+        "url": "/p/wolf-family-chopped-brisket-in-waynej-sweet-heat-sauce-14-oz/-/A-51462352", 
+        "release_date": "", 
+        "upc": "658756602018", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with USDA choice beef", 
+                "Fully cooked and minimally processed", 
+                "No artificial ingredients added"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase by Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Celebrate with a delicious meal on the grill such as Angus Beef Kabobs 14 oz from Archer Farms. These beef kabobs on wooden skewers include bell peppers and onions for a perfect harmony of flavors.<br><br>Whoever said you can't guarantee happiness clearly has never tried Archer Farms\u0099. We promise you'll love every little bit, bite and sip.", 
+        "dpci": "268-12-0261", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "18758138", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "18758138"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Angus Beef Kabobs - 14oz - Archer Farms&#153;", 
+        "url": "/p/angus-beef-kabobs-14oz-archer-farms-153/-/A-18758138", 
+        "release_date": "", 
+        "upc": "085239202616", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "14 oz kabobs", 
+                "Angus beef", 
+                "Bell peppers and onions"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Archer Farms\u0099 Ancho Chile Beef Kabobs come ready to go straight into the oven or onto the grill. The smoky-sweet flavor of the ancho chiles perfectly complements the fresh cuts of sirloin steak and crisp vegetable medley. These bold-flavored kabobs make for a quick and easy addition to any backyard BBQ \u2014 so sit back, relax and enjoy.", 
+        "dpci": "268-12-0030", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "51945483", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51945483"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "beef"
+        ], 
+        "title": "Ancho Chile Beef Kabob - 16oz - Archer Farms&#153;", 
+        "url": "/p/ancho-chile-beef-kabob-16oz-archer-farms-153/-/A-51945483", 
+        "release_date": "", 
+        "upc": "085239007068", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "The sweet and smoky ancho chile dry rub creates bold flavor", 
+                "A medley of fresh vegetables and savory bites of beef make these kabobs light, flavorful and delicious", 
+                "Can be broiled in under 25 minutes or thrown on the grill for added flavor"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> sirloin steak", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

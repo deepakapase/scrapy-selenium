@@ -1,0 +1,140 @@
+[
+    {
+        "description": "Wasabi coated green peas.", 
+        "dpci": "212-30-0351", 
+        "brand": "Hapi", 
+        "tcin": "13479020", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13479020"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "dried beans, grains & rice", 
+            "dried peas"
+        ], 
+        "title": "Hapi Wasabi Green Peas 9.9 oz", 
+        "url": "/p/hapi-wasabi-green-peas-9-9-oz/-/A-13479020", 
+        "release_date": "", 
+        "upc": "011152851716", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "A festive treat", 
+                "Vacuum packed", 
+                "Product of Thailand"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Contains:</B> wheat", 
+            "<B>May Contain:</B> tree nuts, shellfish, peanuts, Milk, fish, soy"
+        ]
+    }, 
+    {
+        "description": "Add some heat to your day with these Hapi\u00ae Hot Wasabi Peas. These wasabi coated green peas come together with crunch and fiery flavor. A great snack for your busy day. Just grab a handful and you'll be all set to snack.", 
+        "dpci": "212-30-0133", 
+        "brand": "Hapi", 
+        "tcin": "14846447", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14846447"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "dried beans, grains & rice", 
+            "dried peas"
+        ], 
+        "title": "Hapi Hot Wasabi Peas 4.23 oz", 
+        "url": "/p/hapi-hot-wasabi-peas-4-23-oz/-/A-14846447", 
+        "release_date": "", 
+        "upc": "011152226125", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Wasabi peas", 
+                "&nbsp;Resealable bag for freshness", 
+                "&nbsp;Wasabi coated green peas for hot flavor"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Contains:</B> wheat, sunflower", 
+            "<B>May Contain:</B> shellfish, tree nuts, peanuts, Milk, fish"
+        ]
+    }, 
+    {
+        "description": "Chili garlic coated green peas.", 
+        "dpci": "212-30-1143", 
+        "brand": "Hapi", 
+        "tcin": "13478708", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13478708"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "dried beans, grains & rice", 
+            "dried peas"
+        ], 
+        "title": "Hapi Sriracha Peas 9.9 oz", 
+        "url": "/p/hapi-sriracha-peas-9-9-oz/-/A-13478708", 
+        "release_date": "", 
+        "upc": "011152145952", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "A festive treat", 
+                "Vacuum packed", 
+                "Product of Thailand"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Contains:</B> wheat", 
+            "<B>May Contain:</B> peanuts, tree nuts, soy, shellfish, fish, Milk"
+        ]
+    }, 
+    {
+        "description": "Using only the highest quality ingredients; we believe our products will help align one's body into a perfect balance.", 
+        "dpci": "212-30-1144", 
+        "brand": "Karo", 
+        "tcin": "13027446", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13027446"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "dried beans, grains & rice", 
+            "dried peas"
+        ], 
+        "title": "Feng Shui Lightly Salted Roasted Edamame 4.4 oz", 
+        "url": "/p/feng-shui-lightly-salted-roasted-edamame-4-4-oz/-/A-13027446", 
+        "release_date": "", 
+        "upc": "041224837409", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "gluten free", 
+            "<B>Contains:</B> soy", 
+            "<B>May Contain:</B> soy"
+        ]
+    }
+]

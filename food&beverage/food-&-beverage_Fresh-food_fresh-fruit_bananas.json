@@ -1,0 +1,140 @@
+[
+    {
+        "description": "For a healthier snack that you can take anywhere, grab these Chiquita Fresh Bananas. Bananas are a great breakfast option when you're in a hurry, and they make a tasty pick-me-up during your midday lull. If they ripen fast, just make delicious homemade banana bread out of them!", 
+        "dpci": "267-00-8011", 
+        "brand": "", 
+        "tcin": "15013944", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013944"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "bananas"
+        ], 
+        "title": "Banana - 1ct", 
+        "url": "/p/banana-1ct/-/A-15013944", 
+        "release_date": "", 
+        "upc": "208011000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Great for breakfast on the go", 
+                "Tasty on their own or added into smoothies, oatmeal or desserts", 
+                "Makes a quick and easy snack"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "For a healthier snack that you can take anywhere, grab these Chiquita Bananas. Bananas are a great breakfast option when you're in a hurry, and they make a tasty pick-me-up during your midday lull. If they ripen fast, just make delicious homemade banana bread out of them!", 
+        "dpci": "267-00-4011", 
+        "brand": "", 
+        "tcin": "15013941", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013941"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "bananas"
+        ], 
+        "title": "Bananas per lb", 
+        "url": "/p/bananas-per-lb/-/A-15013941", 
+        "release_date": "", 
+        "upc": "492670040118", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Great for breakfast on the go", 
+                "Tasty on their own or added into smoothies, oatmeal or desserts", 
+                "Makes a quick and easy snack"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "267-06-4236", 
+        "brand": "", 
+        "tcin": "15013957", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013957"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "bananas"
+        ], 
+        "title": "Chiquita Plantain Bananas", 
+        "url": "/p/chiquita-plantain-bananas/-/A-15013957", 
+        "release_date": "", 
+        "upc": "204235000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "267-00-4012", 
+        "brand": "", 
+        "tcin": "15013942", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013942"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "bananas"
+        ], 
+        "title": "Fresh Ripe Bananas", 
+        "url": "/p/fresh-ripe-bananas/-/A-15013942", 
+        "release_date": "", 
+        "upc": "492670040125", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

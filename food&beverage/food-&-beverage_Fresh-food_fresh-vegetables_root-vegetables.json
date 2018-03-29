@@ -1,0 +1,114 @@
+[
+    {
+        "description": "Radishes are often overlooked in salads, side dishes and even main courses, despite bringing a great dose of nutritional value to our bodies. The pungent and sweet vegetable is juicy and crunchy, making it a great addition to salads. Pickle them and enjoy alongside your favorite Asian-inspired dish for added flavor and sweetness, or roast them alongside other veggies for a unique twist.", 
+        "dpci": "224-21-4089", 
+        "brand": "", 
+        "tcin": "15031236", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15031236"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "root vegetables"
+        ], 
+        "title": "Red Radish ea.", 
+        "url": "/p/red-radish-ea/-/A-15031236", 
+        "release_date": "", 
+        "upc": "204089000009", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Great source of Vitamin C and fiber keeps your body feeling great", 
+                "Add to salads or pickle them for an Asian-inspired flavor", 
+                "One cup of raw, sliced radishes contains about 19 calories"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "Oftentimes confused for carrots, Parsnips offer a delicious, earthy flavor, making them a tasty addition to a variety of meals. Chop them up and add them to a pot of soup or roast them to enhance their flavor even more.", 
+        "dpci": "211-21-0033", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919616", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919616"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "root vegetables"
+        ], 
+        "title": "Parsnips 16oz", 
+        "url": "/p/parsnips-16oz/-/A-14919616", 
+        "release_date": "", 
+        "upc": "851953003057", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Parsnips bring an earthy, nutty taste to your meal", 
+                "&nbsp;Roast to enhance their flavor or add them to soups for a flavorful twist"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient, ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Branch out with your dinner plans this week and find a delicious way to incorporate some Rutabaga to your meal. Whether you add it into your favorite soup recipe or you slice it up and make some fries, you\u2019ll love every bite.", 
+        "dpci": "224-21-4747", 
+        "brand": "", 
+        "tcin": "15028480", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15028480"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "root vegetables"
+        ], 
+        "title": "Rutabaga per lb", 
+        "url": "/p/rutabaga-per-lb/-/A-15028480", 
+        "release_date": "", 
+        "upc": "492242147474", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fresh rutabaga adds a great flavor to your meals", 
+                "Slightly sweet flavor can be enjoyed in savory meals or in a fruit-based dish"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat, ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

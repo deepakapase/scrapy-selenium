@@ -1,0 +1,93 @@
+[
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "Angel Soft", 
+        "tcin": "53401696", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53401696_Alt01", 
+                    "53401696_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53401696", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53401696_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53401696_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53401696"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Toilet paper", 
+            "Angel Soft"
+        ], 
+        "title": "Angel Soft Toilet Paper - Double Rolls", 
+        "url": "/p/angel-soft-toilet-paper-double-rolls/-/A-53401696", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 12", 
+            "<B>Sheets Per Roll:</B> 264", 
+            "<B>Scent:</B> Unscented", 
+            "<B>Features:</B> Sewer and Septic Safe, Double Rolls, Unprinted, Two-Ply"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "Angel Soft", 
+        "tcin": "53401801", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53401801_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53401801_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53401801", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53401801"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Toilet paper", 
+            "Angel Soft"
+        ], 
+        "title": "Angel Soft Toilet Paper- Mega Rolls", 
+        "url": "/p/angel-soft-toilet-paper-mega-rolls/-/A-53401801", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 12", 
+            "<B>Sheets Per Roll:</B> 484", 
+            "<B>Scent:</B> Unscented", 
+            "<B>Features:</B> Sewer and Septic Safe, Two-Ply, Unprinted, mega roll"
+        ]
+    }
+]

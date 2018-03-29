@@ -1,0 +1,43 @@
+[
+    {
+        "description": "Market Pantry Original Vanilla Nutrition Shakes provide balanced, complete nutrition for everyday health. A perfect pick for busy lifestyles, these meal replacement shakes are a convenient and quick way to be sure you're getting the nutrition you need every single day.", 
+        "dpci": "094-08-0823", 
+        "brand": "market pantry&#153;", 
+        "tcin": "50486381", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50486381"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Beverages", 
+            "protein shakes", 
+            "Orgain"
+        ], 
+        "title": "Original Nutritional Shake - Vanilla - 6ct - Market Pantry&#153;", 
+        "url": "/p/original-nutritional-shake-vanilla-6ct-market-pantry-153/-/A-50486381", 
+        "release_date": "", 
+        "upc": "070030628659", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "9 grams of protein", 
+                "26 essentials vitamins and minerals", 
+                "220 calories", 
+                "Lactose free", 
+                "Gluten free", 
+                "Great taste", 
+                "6 bottles, 8 fl. oz. each"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Containers per Package:</B> 6", 
+            "<B>Form:</B> liquid", 
+            "<B>Flavor:</B> vanilla,"
+        ]
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "description": "Amy's Kitchen's Split Pea Soup is a traditional American favorite made from organic split peas and vegetables has a surprisingly light, delicate flavor.", 
+        "dpci": "212-18-0944", 
+        "brand": "Amy's", 
+        "tcin": "14771612", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14771612"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Amy's&#174; Organic Low Fat Split Pea Soup 14.1 oz", 
+        "url": "/p/amy-s-174-organic-low-fat-split-pea-soup-14-1-oz/-/A-14771612", 
+        "release_date": "", 
+        "upc": "042272005055", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }, 
+    {
+        "description": "When youre hungry, you need Chunky. The soup that eats like a meal.\u00ae Chunky soup is on a mission to fill you up, without weighing you down. Choose from over 30 flavors filled with big pieces of meat and vegetables. Chunky soup is the easy, delicious way to fill your NFL-size hunger.- Campbells\u00ae Chunky Healthy Request\u00ae soups are certified heart-healthy by the American Heart Association, so you can enjoy the bold, hearty flavor Chunky soups with less sodium than our regular varieties.- Campbells\u00ae Chunky Microwavable soups let you take your favorite variety to work, school or anywhere when you are on the go!- Chunky Chili varieties give you hearty goodness with every spoonful.", 
+        "dpci": "212-18-0579", 
+        "brand": "Campbell's", 
+        "tcin": "14933835", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14933835_Alt01", 
+                    "14933835_Alt02", 
+                    "14933835_Alt03", 
+                    "14933835_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14933835", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14933835_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14933835_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14933835_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14933835_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14933835"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Campbell's&#174; Chunky&#153; Split Pea with Ham Soup 19 oz", 
+        "url": "/p/campbell-s-174-chunky-153-split-pea-with-ham-soup-19-oz/-/A-14933835", 
+        "release_date": "", 
+        "upc": "051000005649", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }, 
+    {
+        "description": "Progresso Traditional Split Pea with Ham Soup 19oz. Can. No Artificial Flavors. No Colors from Artificial Sources. Gluten Free. Good Source of Fiber. No MSG Added. MADE IN THE USA. For over 100 years, our kitchens have crafted honest, soul-satisfying recipes with real ingredients you're proud to serve. Visit progresso.com for even more coziness", 
+        "dpci": "212-18-0386", 
+        "brand": "PROGRESSO", 
+        "tcin": "50291048", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "50291048_Alt01", 
+                    "50291048_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "50291048_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50291048", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50291048_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "50291048"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Progresso&#174; Traditional Split Pea with Ham Soup 19 oz", 
+        "url": "/p/progresso-174-traditional-split-pea-with-ham-soup-19-oz/-/A-50291048", 
+        "release_date": "", 
+        "upc": "041196010954", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "No Artificial Flavors", 
+                "No Colors from Artificial Sources", 
+                "Gluten Free", 
+                "Good Source of Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }, 
+    {
+        "description": "Count on this classic to satisfy your stomach. Enjoy Progresso\u00ae Split Pea soup with the tasteful blend of fresh split peas and bits of bacon. It's perfect on its own or alongside your favorite sandwich. Quick and easy to prepare, it makes for a quick and easy meal that the whole family will love.", 
+        "dpci": "212-18-0351", 
+        "brand": "PROGRESSO", 
+        "tcin": "47414781", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47414781"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Progresso&#174; Vegetable Classics Green Split Pea Soup 19 oz", 
+        "url": "/p/progresso-174-vegetable-classics-green-split-pea-soup-19-oz/-/A-47414781", 
+        "release_date": "", 
+        "upc": "041196010510", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Split pea soup with bacon flavor", 
+                "Easy to prepare", 
+                "Made with no artificial flavors"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }, 
+    {
+        "description": "We create our Campbells\u00ae Condensed soups by adding less water right from the start, so theres more room for flavor. We start with quality, farm-grown ingredients and cook them to perfection. Over the years, weve grown along with you. Not only do we have your favorite classic flavors, like Chicken Noodle, Tomato and Cream of Mushroom, but were always coming up with new flavors and varieties to delight your senses. And when you need to cook to impress, Campbells\u00ae Condensed soup is the secret ingredient to your latest wow-winning dish. No matter where you are or who youre with, we make sure our classic products always fit into your lifestyle.Classic FavoritesWith delicious ingredients and a variety of mouth-watering flavors, Campbells\u00ae Condensed soups have the great taste everyone loves.Fun Favorites Fun Favorites soups combine the fun your kids want and taste they love. They are low in cholesterol, low in saturated fat, and come with kid-pleasing characters and fun shapes. Healthy and DeliciousWith Campbells\u00ae Condensed Healthy Request\u00ae soups, eating right and exceptional flavor are never compromised. The full line of delicious Healthy Request\u00ae soups proudly display the American Heart Association Heart-Check mark. Great for Cooking Did you know that many of our Condensed soups are great for cooking? Put them to use in your kitchen to make family-pleasing meals in no time.", 
+        "dpci": "212-18-0101", 
+        "brand": "Campbell's", 
+        "tcin": "14847346", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14847346_Alt01", 
+                    "14847346_Alt02", 
+                    "14847346_Alt03", 
+                    "14847346_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14847346"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Campbell's&#174; Condensed Split Pea with Ham & Bacon Soup 11.5 oz", 
+        "url": "/p/campbell-s-174-condensed-split-pea-with-ham-bacon-soup-11-5-oz/-/A-14847346", 
+        "release_date": "", 
+        "upc": "051000014672", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }, 
+    {
+        "description": "Amy's Kitchen's Light in Sodium Split Pea Soup contains 330mg of sodium compared to 570 mg in Amy's regular Split Pea soup.", 
+        "dpci": "212-18-1119", 
+        "brand": "Amy's", 
+        "tcin": "47111616", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47111616"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "canned, jarred & packaged foods", 
+            "soups, chili, stocks & broth", 
+            "split pea soups"
+        ], 
+        "title": "Amy's&#174; Organic Soups Split Pea Low Fat Light In Sodium - 14.1oz", 
+        "url": "/p/amy-s-174-organic-soups-split-pea-low-fat-light-in-sodium-14-1oz/-/A-47111616", 
+        "release_date": "", 
+        "upc": "042272005840", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>State Of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> metal"
+        ]
+    }
+]

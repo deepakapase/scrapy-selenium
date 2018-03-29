@@ -1,0 +1,177 @@
+[
+    {
+        "description": "", 
+        "dpci": "267-04-4050", 
+        "brand": "", 
+        "tcin": "15013939", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013939"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "melons"
+        ], 
+        "title": "Cantaloupe Melon per lb", 
+        "url": "/p/cantaloupe-melon-per-lb/-/A-15013939", 
+        "release_date": "", 
+        "upc": "492670440505", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "267-04-4362", 
+        "brand": "", 
+        "tcin": "15013938", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013938"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "melons"
+        ], 
+        "title": "Personal Watermelon", 
+        "url": "/p/personal-watermelon/-/A-15013938", 
+        "release_date": "", 
+        "upc": "033383402437", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "For a refreshing summer treat that always hits the spot, reach for this Whole Seedless Watermelon. The sweet and juicy fruit makes a great snack or addition to your lunch. Make a fruit basket out of the rind and mix up a fruit salad to put inside during parties and get-togethers.", 
+        "dpci": "267-04-4032", 
+        "brand": "", 
+        "tcin": "15013952", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013952"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "melons"
+        ], 
+        "title": "Seedless Watermelon Whole", 
+        "url": "/p/seedless-watermelon-whole/-/A-15013952", 
+        "release_date": "", 
+        "upc": "204032000001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Seedless", 
+                "&nbsp;Sweet and juicy", 
+                "Great snack option by itself or added into fruit salads"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "For a refreshing summer treat that always tastes great, reach for this Honeydew Melon. Simple and easy to cut up, take it with you as an on-the-go snack or have it as a side with breakfast. Just as delicious on their own, they are great to put into fruit salads along with all of your other favorite fruits.", 
+        "dpci": "267-04-4034", 
+        "brand": "", 
+        "tcin": "15013940", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013940"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "melons"
+        ], 
+        "title": "Honeydew Melon per lb", 
+        "url": "/p/honeydew-melon-per-lb/-/A-15013940", 
+        "release_date": "", 
+        "upc": "492670440345", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Sweet, juicy and full of flavor", 
+                "Great on its own or in fruit salad", 
+                "Perfect side to eat with breakfast"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "When you need a tasty, refreshing snack, just cut up this Seeded Watermelon. Full of juicy flavor with every bite, it's delicious on its own and just as good mixed in fruit salads. When you're done cutting it up, make a fruit bowl out of the watermelon rind for a fun way to serve your fruit.", 
+        "dpci": "267-04-4031", 
+        "brand": "", 
+        "tcin": "47098729", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47098729"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "melons"
+        ], 
+        "title": "Seeded Watermelon by ea", 
+        "url": "/p/seeded-watermelon-by-ea/-/A-47098729", 
+        "release_date": "", 
+        "upc": "492670440314", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Refreshing snack", 
+                "Delicious on its own or mixed in fruit salads"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

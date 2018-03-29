@@ -1,0 +1,120 @@
+[
+    {
+        "description": "", 
+        "dpci": "226-08-3301", 
+        "brand": "Hormel", 
+        "tcin": "47134862", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47134862", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134862"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "lamb"
+        ], 
+        "title": "Hormel Spiral-Cut Bone-In Ham - price per lb.", 
+        "url": "/p/hormel-spiral-cut-bone-in-ham-price-per-lb/-/A-47134862", 
+        "release_date": "", 
+        "upc": "213301000000", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> ham", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-11-8001", 
+        "brand": "Chiappetti", 
+        "tcin": "50446134", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "50446134", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50446134"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "lamb"
+        ], 
+        "title": "Thomas Farms Australian Lamb Shoulder Chops - price per lb.", 
+        "url": "/p/thomas-farms-australian-lamb-shoulder-chops-price-per-lb/-/A-50446134", 
+        "release_date": "", 
+        "upc": "211180000005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> chops", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Thick and hearty, Lamb Loin Chops from Thomas Farms are simply delicious. They are small in size but their flavor is larger than life. The lamb chop bone adds a nice touch of flavor for cooking. Baste the lamb chops with clarified grass-fed butter for a dining experience worth repeating.", 
+        "dpci": "226-11-8013", 
+        "brand": "Thomas Farms", 
+        "tcin": "50446191", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "50446191", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50446191"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "lamb"
+        ], 
+        "title": "Thomas Farms Lamb Loin Chops - price per lb.", 
+        "url": "/p/thomas-farms-lamb-loin-chops-price-per-lb/-/A-50446191", 
+        "release_date": "", 
+        "upc": "218013000003", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lamb loin Chops", 
+                "All natural", 
+                "Rich in essential nutrients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> chops", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

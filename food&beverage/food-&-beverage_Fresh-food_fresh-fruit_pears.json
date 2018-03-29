@@ -1,0 +1,113 @@
+[
+    {
+        "description": "", 
+        "dpci": "267-05-4425", 
+        "brand": "", 
+        "tcin": "47736971", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47736971", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47736971"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "pears"
+        ], 
+        "title": "Large Anjou Pear - Price Per lb", 
+        "url": "/p/large-anjou-pear-price-per-lb/-/A-47736971", 
+        "release_date": "", 
+        "upc": "492670544258", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "267-05-4409", 
+        "brand": "", 
+        "tcin": "47736932", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47736932", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47736932"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "pears"
+        ], 
+        "title": "Bartlett Pear - Price per lb", 
+        "url": "/p/bartlett-pear-price-per-lb/-/A-47736932", 
+        "release_date": "", 
+        "upc": "204409000009", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "When you start craving a sweet treat, grab an Anjou Pear and snack away. This tasty fruit is a great option to enjoy on its own, but you can also bake it into an easy pear crisp or chop it up and add it to your salad for lunch.", 
+        "dpci": "266-05-3015", 
+        "brand": "Pure", 
+        "tcin": "21548369", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21548369"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "pears"
+        ], 
+        "title": "Anjou Pear per each", 
+        "url": "/p/anjou-pear-per-each/-/A-21548369", 
+        "release_date": "", 
+        "upc": "203015000007", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Anjou pears make a great snack or dessert", 
+                "Easy to toss in your bag or take for breakfast"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

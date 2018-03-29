@@ -1,0 +1,2808 @@
+[
+    {
+        "description": "", 
+        "dpci": "212-02-0163", 
+        "brand": "Bonne Maman", 
+        "tcin": "13022339", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13022339"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Bonne Maman&#174; Strawberry Preserves - 13oz", 
+        "url": "/p/bonne-maman-174-strawberry-preserves-13oz/-/A-13022339", 
+        "release_date": "", 
+        "upc": "088702015607", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 13.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "For a fruit spread like your grandma made, reach for Raspberry Preserves from Bonne Maman\u00ae. With no preservatives and no artificial colors, you can enjoy the natural raspberry flavor. Use it to sweeten your homemade barbecue sauce recipe, or mix it with olive oil to create a delicious salad dressing.", 
+        "dpci": "212-02-0164", 
+        "brand": "Bonne Maman", 
+        "tcin": "13022486", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13022486"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Bonne Maman&#174; Raspberry Preserves - 13oz", 
+        "url": "/p/bonne-maman-174-raspberry-preserves-13oz/-/A-13022486", 
+        "release_date": "", 
+        "upc": "088702015652", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "No high fructose corn syrup", 
+                "Add to breakfast biscuits, toast or croissants", 
+                "Swap out your usual jelly and use this in your next PB & J"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 13.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Make the perfect peanut butter and jelly sandwich with Welch's\u00ae Concord Grape Jelly Squeeze. Made from fresh North American-grown Concord grapes with no artificial flavors or coloring, this classic spread comes in a convenient, kid-friendly squeeze package that makes minimal mess. Whether you put a scoop or two on top of your morning bagel or use as a filling for your favorite dessert, this Concord grape jelly will deliver a deliciously sweet taste that won't let you down.", 
+        "dpci": "212-02-0122", 
+        "brand": "Welch's", 
+        "tcin": "13283813", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13283813"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Squeeze Concord Grape Jelly - 22oz", 
+        "url": "/p/welch-s-squeeze-concord-grape-jelly-22oz/-/A-13283813", 
+        "release_date": "", 
+        "upc": "041800000197", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Classic grape jelly makes the perfect peanut butter and jelly sandwich", 
+                "&nbsp;Made from fresh North American-grown Concord grapes", 
+                "No artificial colors or flavors"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 22.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With its bright red color and robust sweetness, Smucker\u2019s\u00ae Squeeze\u0099 Strawberry Fruit Spread will quickly become a favorite with kids and adults alike. Sweeten up anything from toast and pastries to fruit and ice cream \u2014 this fruit spread offers you the strawberry flavor you love in the convenience of a squeeze bottle.", 
+        "dpci": "212-02-0297", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300237", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300237"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Squeeze Strawberry Fruit Spread - 20oz", 
+        "url": "/p/smucker-s-174-squeeze-strawberry-fruit-spread-20oz/-/A-13300237", 
+        "release_date": "", 
+        "upc": "051500057223", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "All natural strawberry spread made without any preservatives", 
+                "Tastes great on bread or crackers", 
+                "Easy squeeze bottle for convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 28", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0095", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13276012", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "13276012", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276012"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Seedless Strawberry Jam - 18oz", 
+        "url": "/p/smucker-s-174-seedless-strawberry-jam-18oz/-/A-13276012", 
+        "release_date": "", 
+        "upc": "051500012291", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0293", 
+        "brand": "SMUCKER'S", 
+        "tcin": "14711085", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14711085", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711085"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Strawberry Preserves - 17.25oz", 
+        "url": "/p/smucker-s-174-natural-strawberry-preserves-17-25oz/-/A-14711085", 
+        "release_date": "", 
+        "upc": "051500141304", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0358", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300523", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300523"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Simply Fruit&#174; Strawberry Seedless Spreadable Fruit - 10oz", 
+        "url": "/p/smucker-s-174-simply-fruit-174-strawberry-seedless-spreadable-fruit-10oz/-/A-13300523", 
+        "release_date": "", 
+        "upc": "051500025710", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0092", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13273822", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "13273822", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13273822"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Strawberry Jam - 32oz", 
+        "url": "/p/smucker-s-174-strawberry-jam-32oz/-/A-13273822", 
+        "release_date": "", 
+        "upc": "051500001639", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 45", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Make the perfect peanut butter and jelly sandwich with Welch's\u00ae Concord Grape Jelly. Made from fresh North American-grown Concord grapes with no artificial flavors or coloring, this classic spread delivers a deliciously sweet taste that won't let you down. Put on top of your morning waffle or use as a filling for your favorite dessert for a timeless treat the whole family will love.", 
+        "dpci": "212-02-0225", 
+        "brand": "Welch's", 
+        "tcin": "13283760", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13283760"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Concord Grape Jelly - 32oz", 
+        "url": "/p/welch-s-concord-grape-jelly-32oz/-/A-13283760", 
+        "release_date": "", 
+        "upc": "041800501502", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Sugar-free strawberry preserves are great as a spread", 
+                "80% fewer calories than regular preserves", 
+                "Sweetened with Splenda&#174;"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 32.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0165", 
+        "brand": "Bonne Maman", 
+        "tcin": "13022487", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13022487"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Bonne Maman Wild Blueberry Preserves - 13oz", 
+        "url": "/p/bonne-maman-wild-blueberry-preserves-13oz/-/A-13022487", 
+        "release_date": "", 
+        "upc": "088702015669", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blueberries", 
+            "<B>Servings Per Container:</B> 13.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With its deep purple color and robust sweetness, Concord Grape Spread from Welch's\u00ae is the quintessential jelly of the beloved peanut butter and jelly sandwich. The staple among families everywhere, this concord grape jelly lets parents feel good about making a tasty choice \u2014 without any preservatives, artificial colors or flavors.", 
+        "dpci": "212-02-0419", 
+        "brand": "Welch's", 
+        "tcin": "14711078", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14711078", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711078"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Natural Concord Grape Spread - 18oz", 
+        "url": "/p/welch-s-natural-concord-grape-spread-18oz/-/A-14711078", 
+        "release_date": "", 
+        "upc": "041800501694", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "All natural strawberry spread made without any preservatives", 
+                "Tastes great on bread or crackers", 
+                "Easy squeeze bottle for convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 31.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "The Organic Strawberry Fruit Spread 16.5 oz from Simply Balanced is the perfect match for your morning toast. This all-natural strawberry jam will get your day off to a sweet start.<br><br>The Simply Balanced promise means taking the guesswork out of eating well; 100% satisfaction guaranteed or your money back.", 
+        "dpci": "212-02-0276", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50446791", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50446791"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Organic Strawberry Fruit Spread - 16.5oz - Simply Balanced&#153;", 
+        "url": "/p/organic-strawberry-fruit-spread-16-5oz-simply-balanced-153/-/A-50446791", 
+        "release_date": "", 
+        "upc": "492120202769", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "USDA organic strawberry fruit spread", 
+                "Great for sandwiches or as a topping", 
+                "Resealable jar&ndash;refrigerate after opening"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 24", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Strawberry Preserves from Smucker\u2019s\u00ae make an excellent addition to your breakfast routine. Made from large pieces of fruit suspended in a firm jelly or syrupy base, preserves are chunky in texture and rich in flavor. Spread it onto to toast, enjoy with your favorite pastries or sweeten up a cheesecake when you need a sweet fix.", 
+        "dpci": "212-02-0086", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13264419", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "13264419", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13264419"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Strawberry Preserves - 18oz", 
+        "url": "/p/smucker-s-174-strawberry-preserves-18oz/-/A-13264419", 
+        "release_date": "", 
+        "upc": "051500006863", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Apricot fruit spread tastes great on toast or pastries", 
+                "40 calories per tbsp", 
+                "Sweetened with fruit syrup from juice concentrate"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With its deep purple color and robust sweetness, the Reduced Sugar Squeezable Concord Grape Jelly from Welch's\u00ae is the quintessential jelly of the beloved peanut butter and jelly sandwich. The staple among families everywhere, this concord grape jelly lets parents feel good about making a tasty choice \u2014 without any artificial sweeteners and half the calories and sugar of regular Welch's grape jelly.", 
+        "dpci": "212-02-0069", 
+        "brand": "Welch's", 
+        "tcin": "13283809", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13283809"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Reduced Sugar Squeezable Concord Grape Jelly - 17.01 fl oz", 
+        "url": "/p/welch-s-reduced-sugar-squeezable-concord-grape-jelly-17-01-fl-oz/-/A-13283809", 
+        "release_date": "", 
+        "upc": "04183236", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Blackberry fruit spread tastes great on toast or pastries", 
+                "Seedless so the whole family can enjoy it", 
+                "Sweetened with fruit syrup from juice concentrate"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 17.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Jelly can be super messy, but not SMUCKER'S\u00ae Grape Jelly Squeeze\u0099. This is the same classic grape jelly from SMUCKER'S\u00ae, with its delicious fruit flavor, but packaged so that it's easy to use for kids and just as easy to take with you on road trips. Use to make a PB&J, as a topping for your morning bagel, waffle or pancake, or as a filling for your favorite dessert.", 
+        "dpci": "212-02-0296", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300240", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300240"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Squeeze Grape Jelly - 20oz", 
+        "url": "/p/smucker-s-174-squeeze-grape-jelly-20oz/-/A-13300240", 
+        "release_date": "", 
+        "upc": "051500057117", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry fruit spread sweetens up any treat", 
+                "Tastes great on bread, ice cream or crackers", 
+                "Easy squeeze bottle for convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 30.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With its deep purple color and robust sweetness, Concord Grape Spread from Welch's\u00ae is the quintessential jelly of the beloved peanut butter and jelly sandwich. The staple among families everywhere, this concord grape spread lets parents feel good about making a tasty choice \u2014 without any preservatives, artificial colors or flavors.", 
+        "dpci": "212-02-0421", 
+        "brand": "Welch's", 
+        "tcin": "14711137", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711137"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Natural Concord Grape Spread - 27oz", 
+        "url": "/p/welch-s-natural-concord-grape-spread-27oz/-/A-14711137", 
+        "release_date": "", 
+        "upc": "041800501267", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Red raspberry fruit spread adds sweetness to your breakfast", 
+                "Made with ingredients from natural sources", 
+                "Tastes great on toast or drizzled over crepes or ice cream"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 40.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Indulge in the luscious taste of real berries with Strawberry Preserves 32 oz - Market Pantry\u0099. This sweet jam fruit spread is the ideal topping for your breakfast toast or bagel and brings a fresh, summery flavor to the iconic pb&j. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0426", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13008013", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13008013_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13008013"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Strawberry Preserves - 32oz - Market Pantry&#153;", 
+        "url": "/p/strawberry-preserves-32oz-market-pantry-153/-/A-13008013", 
+        "release_date": "", 
+        "upc": "085239024263", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry preserves spread", 
+                "Made with real strawberries", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 45.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Concord Grape Jam from Welch's\u00ae contains fresh-picked grapes right from the vine for robust flavor. This grape jam delivers a lush fruit taste and the ideal spoonable texture \u2014 making it to the perfect complement to a PB&J sandwich, while also pairing well with crackers and pastries.", 
+        "dpci": "212-02-0109", 
+        "brand": "Welch's", 
+        "tcin": "13283810", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13283810"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Concord Grape Jam - 32oz", 
+        "url": "/p/welch-s-concord-grape-jam-32oz/-/A-13283810", 
+        "release_date": "", 
+        "upc": "041800501519", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Classic grape jelly makes the perfect peanut butter and jelly sandwich", 
+                "Squeezable bottle is kid-friendly and easy to spread on anything", 
+                "&nbsp;Made from fresh North American-grown Concord grapes", 
+                "No artificial colors or flavors"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 32.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Switch out your standard jelly with SMUCKER'S\u00ae Sugar Free\u0099 Strawberry Preserves for a delicious sugar-free alternative. Sweetened with Splenda\u00ae, this strawberry spread is perfect on top of waffles, pancakes and bagels or as a filling for your favorite dessert. It also has 80% fewer calories per serving than regular preserves.", 
+        "dpci": "212-02-0252", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13294380", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13294380"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Strawberry Sugar Free Preserves - 12.75oz", 
+        "url": "/p/smucker-s-174-strawberry-sugar-free-preserves-12-75oz/-/A-13294380", 
+        "release_date": "", 
+        "upc": "051500040423", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Classic grape jelly makes the perfect peanut butter and jelly sandwich", 
+                "&nbsp;Squeezable container is kid-friendly and easy to use", 
+                "Use as a topping for bagels, waffles and pancakes or as a dessert filling"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 12.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Simply Fruit\u00ae Apricot Spreadable Fruit from Smucker's\u00ae has an easy-to-spread texture and delicious, fruity taste that you'll love. Sweetened with fruit juice concentrate, it's ready to be enjoyed right out of the jar \u2014 spread it onto toast, top your pancakes or French toast or enjoy with a pastry for a sweet treat.", 
+        "dpci": "212-02-0098", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13275915", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13275915"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Simply Apricot Spread - 10oz", 
+        "url": "/p/smucker-s-174-simply-apricot-spread-10oz/-/A-13275915", 
+        "release_date": "", 
+        "upc": "051500023310", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Blackberry jam tastes great on toast or pastries", 
+                "Seedless so the whole family can enjoy it", 
+                "Contains 50 calories per tbsp"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> apricots", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0091", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13274009", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13274009"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Red Raspberry Preserves - 18oz", 
+        "url": "/p/smucker-s-174-red-raspberry-preserves-18oz/-/A-13274009", 
+        "release_date": "", 
+        "upc": "051500006832", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 18.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "The original hazelnut chocolate spread made from a combination of roasted hazelnuts, skim milk, and a hint of cocoa. The Nutella hazelnut spread mini cups are perfect for on the go. Nutella is Gluten Free, Peanut Free, certified Kosher and contains no artificial flavors or preservatives.", 
+        "dpci": "212-02-0417", 
+        "brand": "Nutella", 
+        "tcin": "14774463", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14774463"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Nutella&#174; Mini Cups Hazelnut Spread - 0.52oz/10ct", 
+        "url": "/p/nutella-174-mini-cups-hazelnut-spread-0-52oz-10ct/-/A-14774463", 
+        "release_date": "", 
+        "upc": "009800801107", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Nut and Seed Ingredient:</B> hazelnuts", 
+            "<B>Main Fruit Ingredient:</B> dates", 
+            "<B>Consistency:</B> creamy", 
+            "<B>Servings Per Container:</B> 1.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> paper or cardboard", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Sweetened with fruit syrup from apple, pineapple or pear juice concentrate. Recipes, gifts, and more. Visit our website for delicious recipes, hard-to-find flavors, and gift ideas!<br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "212-02-0357", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300524", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300524"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Seedless Black Raspberry Spread - 10oz", 
+        "url": "/p/smucker-s-174-seedless-black-raspberry-spread-10oz/-/A-13300524", 
+        "release_date": "", 
+        "upc": "051500025697", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Sweetened with fruit syrup.", 
+                "Apple, pineapple or pear juice concentrate"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> berries", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Kill two birds with one stone in your sandwich prep with Smucker\u2019s\u00ae Goober Grape\u00ae Peanut Butter and Jelly Spread. Peanut butter and grape jelly stripes combine in one jar for your favorite pairing, and PB&Js just got a lot easier with one swoop.", 
+        "dpci": "212-02-0129", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13292675", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13292675"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Goober Grape Peanut Butter and Jelly Spread - 18oz", 
+        "url": "/p/smucker-s-174-goober-grape-peanut-butter-and-jelly-spread-18oz/-/A-13292675", 
+        "release_date": "", 
+        "upc": "051500000557", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Biscoff Crunchy Cookie Butter makes a great treat", 
+                "Tasty cookie spread to incorporate into your favorite sweets", 
+                "13.4-oz. jar keeps the whole family happy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Nut and Seed Ingredient:</B> peanuts", 
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Consistency:</B> creamy", 
+            "<B>Servings Per Container:</B> 18.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Breakfast prep will be a breeze with the Strawberry Spread Squeeze Bottle 20 oz - Market Pantry\u0099. This delicious fruit spread makes for a tasty addition to your favorite bread, and is the perfect partner in a yummy, fuss-free pb&j, thanks to its handy, squeezable container. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0608", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13007754", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13007754_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13007754"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Strawberry Spread Squeeze Bottle - 20oz - Market Pantry&#153;", 
+        "url": "/p/strawberry-spread-squeeze-bottle-20oz-market-pantry-153/-/A-13007754", 
+        "release_date": "", 
+        "upc": "085239027080", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Squeezable fruit spread", 
+                "Strawberry flavor", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 28.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0213", 
+        "brand": "Bonne Maman", 
+        "tcin": "14711067", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711067"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Bonne Maman Cherry Preserves 13oz", 
+        "url": "/p/bonne-maman-cherry-preserves-13oz/-/A-14711067", 
+        "release_date": "", 
+        "upc": "088702015591", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> cherries", 
+            "<B>Servings Per Container:</B> 19.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0088", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13264432", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13264432"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Sweet Orange Marmalade - 18oz", 
+        "url": "/p/smucker-s-174-sweet-orange-marmalade-18oz/-/A-13264432", 
+        "release_date": "", 
+        "upc": "051500006795", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> oranges", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Enjoy sweet, fruity nostalgia with none of the fuss with Concord Grape Squeezable Spread 20 oz - Market Pantry\u0099. This classic fruit jelly is the ideal companion to an old school pb&j, or simply as a tasty topping to your breakfast toast or bagel. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0607", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13007752", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13007752"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Concord Grape Squeezable Spread - 20oz - Market Pantry&#153;", 
+        "url": "/p/concord-grape-squeezable-spread-20oz-market-pantry-153/-/A-13007752", 
+        "release_date": "", 
+        "upc": "085239027066", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Squeezable fruit spread", 
+                "Concord grape flavor", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 28.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Simply Fruit\u00ae Concord Grape Spreadable Fruit from Smucker's\u00ae has an easy-to-spread texture and delicious, fruity taste that you'll love. Sweetened with fruit juice concentrate, it's ready to be enjoyed right out of the jar \u2014 spread it onto toast, go classic with a PB&J sandwich or enjoy with a pastry for a sweet breakfast treat.", 
+        "dpci": "212-02-0593", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300580", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300580"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Simply Fruit Concord Grape Spread - 10oz", 
+        "url": "/p/smucker-s-174-simply-fruit-concord-grape-spread-10oz/-/A-13300580", 
+        "release_date": "", 
+        "upc": "051500023297", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Only 5 calories per cup", 
+                "Individual servings are easy to pack in lunchboxes", 
+                "Sugar free", 
+                "Strawberry-orange flavor is sweet and refreshing"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Your pb&j never tasted so sweet with the addition of Strawberry Preserves 18 oz - Market Pantry\u0099. This classic fruit jam spread is the ideal companion to toast, bagels, waffles and more. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0427", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13008016", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13008016_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13008016"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Strawberry Preserves - 18oz - Market Pantry&#153;", 
+        "url": "/p/strawberry-preserves-18oz-market-pantry-153/-/A-13008016", 
+        "release_date": "", 
+        "upc": "085239024270", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry preserves spread", 
+                "Made with real strawberries", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0111", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13276132", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276132"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Low Sugar Strawberry Preserves - 15.5oz", 
+        "url": "/p/smucker-s-174-low-sugar-strawberry-preserves-15-5oz/-/A-13276132", 
+        "release_date": "", 
+        "upc": "051500016695", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "The Seedless Blackberry Jam Fruit Smucker's\u00ae has an easy-to-spread texture and delicious, fruity taste that you'll love. Whether you're whipping up a classic PB&J sandwich or you're looking for a sweet finishing touch to your pancakes, this seedless blackberry jam will become a quick favorite.", 
+        "dpci": "212-02-0107", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13276096", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276096"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Seedless Blackberry Jam - 18oz", 
+        "url": "/p/smucker-s-174-seedless-blackberry-jam-18oz/-/A-13276096", 
+        "release_date": "", 
+        "upc": "051500006849", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fresh-picked grapes for rich flavor", 
+                "Perfect for PB&J sandwiches or spreading onto pastries", 
+                "Smooth and easy to spread"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "No artificial sweeteners. Use Smucker's Squeeze flavors to add great flavor and fun to your food! Add flavor to your food! Perfect for PB&J sandwiches! Top off your favorite snack! In 1897, J.M. Smucker began producing fine quality fruit spreads the old fashioned way from his home in Orrville, Ohio. Today, Smucker continues the tradition of providing the finest fruit spreads. Sugar content has been lowered from 12 g of sugar to 5 g of sugar.<br><br>Directions<br>Usage: Before use - Remove cap and inner seal. Replace cap and squeeze. Refrigerate after opening.", 
+        "dpci": "212-02-0254", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13294399", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13294399"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Squeeze Reduced Sugar Strawberry Fruit Spread - 17.4oz", 
+        "url": "/p/smucker-s-174-squeeze-reduced-sugar-strawberry-fruit-spread-17-4oz/-/A-13294399", 
+        "release_date": "", 
+        "upc": "051500057155", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "No artificial sweeteners.", 
+                "Sugar content has been lowered from 12 g of sugar to 5 g of sugar."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 29.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Enjoy the sweet, tart flavor of sun-ripened berries with Red Raspberry Preserves 18 oz - Market Pantry\u0099. This fruit jam spread brings a delicious taste to your favorite bread or sandwich, thanks to real red raspberries. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0485", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13007756", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13007756_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13007756"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Red Raspberry Preserves - 18oz - Market Pantry&#153;", 
+        "url": "/p/red-raspberry-preserves-18oz-market-pantry-153/-/A-13007756", 
+        "release_date": "", 
+        "upc": "085239024850", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Raspberry fruit spread", 
+                "Real fruit preserves", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Treat yourself to an all-natural nutty delight with Natural Chunky Peanut Butter from Smucker's\u00ae. Made with just two simple ingredients \u2014 peanuts and a hint of salt \u2014 this peanut butter is perfect for pairing with jellies and jams for a delicious PB&J sandwich, or alongside apples for an afternoon snack. Made without hydrogenated oils, this peanut butter is also free of trans fats and gluten so you can feel good about what you eat.", 
+        "dpci": "212-02-0321", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13300238", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13300238"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Chunky Peanut Butter - 16oz", 
+        "url": "/p/smucker-s-174-natural-chunky-peanut-butter-16oz/-/A-13300238", 
+        "release_date": "", 
+        "upc": "051500017012", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "All natural ingredients with no high-fructose corn syrup, hydrogenated oils, trans fats or preservatives", 
+                "No need to stir &mdash; simply enjoy right out of the jar", 
+                "Perfect for sandwiches, smoothies or alongside fruit"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Servings Per Container:</B> 14", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Made with ingredients from natural sources. Made with sugar. Non GMO (Not made with genetically modified ingredients. Trace amounts of genetically modified material may be present). Add fruitfully delicious flavor with a squeeze of Smucker's Natural Fruit Spreads! Swirl in your yogurt. Top off your hot cereal. Inspire your snack.<br><br>Directions<br>Usage: Before use - Remove cap and inner seal. Replace cap and squeeze. Refrigerate after opening.", 
+        "dpci": "212-02-0473", 
+        "brand": "SMUCKER'S", 
+        "tcin": "15080309", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15080309"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Strawberry Fruit Spread - 19oz", 
+        "url": "/p/smucker-s-174-natural-strawberry-fruit-spread-19oz/-/A-15080309", 
+        "release_date": "", 
+        "upc": "051500141724", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with ingredients from natural sources.", 
+                "Made with sugar.", 
+                "Non GMO."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 28", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> refrigerated", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "The fruity flavor of the Organic Raspberry Fruit Spread 16.5 oz from Simply Balanced will satisfy your sweet tooth. This all-natural raspberry jam is so delicious, and makes a perfect topping for Swedish pancakes or peanut butter toast.<br><br>The Simply Balanced promise means taking the guesswork out of eating well; 100% satisfaction guaranteed or your money back.", 
+        "dpci": "212-02-0277", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50446861", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50446861"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Organic Raspberry Fruit Spread - 16.5oz - Simply Balanced&#153;", 
+        "url": "/p/organic-raspberry-fruit-spread-16-5oz-simply-balanced-153/-/A-50446861", 
+        "release_date": "", 
+        "upc": "492120202776", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "USDA organic raspberry fruit spread", 
+                "Great for sandwiches or as a topping", 
+                "Resealable jar&ndash;refrigerate after opening"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 24", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Sweeten-up your day with the Organic Concord Grape Fruit Spread 16.5 oz from Simply Balanced. Add this grape jam to your peanut butter toast or use as a topping for pancakes or waffles.<br><br>The Simply Balanced promise means taking the guesswork out of eating well; 100% satisfaction guaranteed or your money back.", 
+        "dpci": "212-02-0275", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "50446692", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50446692"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Organic Concord Grape Fruit Spread - 16.5oz - Simply Balanced&#153;", 
+        "url": "/p/organic-concord-grape-fruit-spread-16-5oz-simply-balanced-153/-/A-50446692", 
+        "release_date": "", 
+        "upc": "492120202752", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "USDA organic concord grape fruit spread", 
+                "Great for sandwiches or as a topping", 
+                "Resealable jar&ndash;refrigerate after opening"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 24", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Bring a sweet, nostalgic flavor to the table with Grape Jelly 32 oz - Market Pantry\u0099. This classic fruit spread adds the perfect touch to your breakfast toast and acts as the original companion to delicious, nutty peanut butter. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0429", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13008017", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13008017_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13008017"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Grape Jelly - 32oz - Market Pantry&#153;", 
+        "url": "/p/grape-jelly-32oz-market-pantry-153/-/A-13008017", 
+        "release_date": "", 
+        "upc": "085239024294", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Jelly fruit spread", 
+                "Concord grape flavor", 
+                "50 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 45.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0102", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13276097", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276097"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Sugar Free Light Red Raspberry Preserves - 12.75oz", 
+        "url": "/p/smucker-s-174-sugar-free-light-red-raspberry-preserves-12-75oz/-/A-13276097", 
+        "release_date": "", 
+        "upc": "051500040010", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 12.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0094", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13274008", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13274008"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Concord Grape Jam - 32oz", 
+        "url": "/p/smucker-s-174-concord-grape-jam-32oz/-/A-13274008", 
+        "release_date": "", 
+        "upc": "051500012499", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 45", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Start your day in a sweet, delicious way with the Smucker's Fruit & Honey Strawberry Fruit Spread. This strawberry jelly is naturally sweetened with honey, to keep things perfectly sweet. Just spread it on some toast for an easy breakfast on the go.", 
+        "dpci": "212-02-0236", 
+        "brand": "SMUCKER'S", 
+        "tcin": "21549982", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21549982"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Fruit & Honey Strawberry Fruit Spread - 9oz", 
+        "url": "/p/smucker-s-174-fruit-honey-strawberry-fruit-spread-9oz/-/A-21549982", 
+        "release_date": "", 
+        "upc": "051500029558", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Twist-on lid keeps it fresh", 
+                "Naturally sweetened with honey", 
+                "Easy to spread"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> refrigerated", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "Start your day in a sweet, delicious way with the Smucker's Fruit & Honey Triple Berry Fruit Spread. This triple berry jelly is naturally sweetened with honey, to keep things tasting great with every bite. Just spread it on some toast for an easy breakfast on the go.", 
+        "dpci": "212-02-0235", 
+        "brand": "SMUCKER'S", 
+        "tcin": "21549981", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21549981"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Fruit & Honey Triple Berry Fruit Spread - 9oz", 
+        "url": "/p/smucker-s-174-fruit-honey-triple-berry-fruit-spread-9oz/-/A-21549981", 
+        "release_date": "", 
+        "upc": "051500028834", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Twist-on lid keeps it fresh", 
+                "Naturally sweetened with honey", 
+                "Easy to spread"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> refrigerated", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0110", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13276133", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276133"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Low Sugar Concord Grape Jelly - 15.5oz", 
+        "url": "/p/smucker-s-174-low-sugar-concord-grape-jelly-15-5oz/-/A-13276133", 
+        "release_date": "", 
+        "upc": "051500016671", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Add the delicious final touch to any waffle, pancake or bagel with Simply Fruit Peach Spreadable Fruit from SMUCKER'S\u00ae. This fruit spread is sweetened with fruit syrup from apple, pineapple or pear juice concentrate to create a sweet taste the whole family will love. If you want to switch things up from traditional jelly for a fun twist, this is the perfect way.", 
+        "dpci": "212-02-0101", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13275917", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13275917"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Simply Fruit Peach Spread - 10oz", 
+        "url": "/p/smucker-s-174-simply-fruit-peach-spread-10oz/-/A-13275917", 
+        "release_date": "", 
+        "upc": "051500023426", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Blueberry lemon fruit spread is a great alternative to traditional jelly", 
+                "Naturally sweetened with honey", 
+                "&nbsp;Perfect topping for waffles, pancakes, bagels or your favorite dessert"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> peaches", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0330", 
+        "brand": "SMUCKER'S", 
+        "tcin": "14711082", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14711082", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711082"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Raspberry Preserves - 17.25oz", 
+        "url": "/p/smucker-s-174-natural-raspberry-preserves-17-25oz/-/A-14711082", 
+        "release_date": "", 
+        "upc": "051500141342", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "The Natural Strawberry Spread from Welch's\u00ae will quickly become a favorite in your kitchen. A staple among families everywhere, this strawberry spread lets parents feel good about making a tasty choice \u2014 without any preservatives, artificial colors or flavors. Spread it onto toast or pancakes or enjoy with fruit or crackers whenever sweet cravings hit.", 
+        "dpci": "212-02-0418", 
+        "brand": "Welch's", 
+        "tcin": "14711079", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711079"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Natural Strawberry Spread - 19.8oz", 
+        "url": "/p/welch-s-natural-strawberry-spread-19-8oz/-/A-14711079", 
+        "release_date": "", 
+        "upc": "041800501700", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "All natural grape spread made without any preservatives", 
+                "Tastes great on bread or crackers", 
+                "Easy squeeze bottle for convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 28.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With its deep red color and robust sweetness, the Natural Strawberry Spread from Welch's\u00ae is a classic breakfast favorite. The staple among families everywhere, this strawberry spread lets parents feel good about making a tasty choice \u2014 without any preservatives, artificial colors or flavors. Spread it on toast or an English muffin, or enjoy a light afternoon snack with crackers.", 
+        "dpci": "212-02-0420", 
+        "brand": "Welch's", 
+        "tcin": "14711077", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711077"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Welch's Natural Strawberry Spread - 27oz", 
+        "url": "/p/welch-s-natural-strawberry-spread-27oz/-/A-14711077", 
+        "release_date": "", 
+        "upc": "041800501274", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "All natural strawberry spread made without any preservatives", 
+                "Tastes great on bread or crackers", 
+                "Easy squeeze bottle for convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 40.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Nothing goes with peanut butter quite like Concord Grape Jelly from Market Pantry\u0099. Spread this jelly on your bread, toast, pancakes and more. The smooth consistency holds no chunks of grapes, so it's easy to spread on everything.", 
+        "dpci": "212-02-0026", 
+        "brand": "market pantry&#153;", 
+        "tcin": "51458017", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51458017", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51458017"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Concorde Grape Jelly - 18oz - Market Pantry&#153;", 
+        "url": "/p/concorde-grape-jelly-18oz-market-pantry-153/-/A-51458017", 
+        "release_date": "", 
+        "upc": "085239001608", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Concord grape jelly spread is a versatile pantry staple", 
+                "&nbsp;Add to your peanut butter sandwich for a touch of sweet", 
+                "Put on your pancakes for an unmatched grape flavor"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> grapes", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Add the delicious final touch to any waffle, pancake or bagel with this Blueberry Lemon Fruit Spread from SMUCKER'S\u00ae. This fruit spread combines true blueberry and lemon flavors with naturally sweetened with honey create a sweet taste the whole family will love. If you want to switch things up from traditional jelly for a fun and yummy twist, this is the perfect way.", 
+        "dpci": "212-02-0237", 
+        "brand": "SMUCKER'S", 
+        "tcin": "21549983", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21549983"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Fruit & Honey Bluebery Lemon Fruit Spread - 9oz", 
+        "url": "/p/smucker-s-174-fruit-honey-bluebery-lemon-fruit-spread-9oz/-/A-21549983", 
+        "release_date": "", 
+        "upc": "051500029268", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Reduced sugar grape spread made without any artificial sweeteners", 
+                "Tastes great on bread or crackers", 
+                "Half the sugar and calories of regular Welch's grape jelly"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Servings Per Container:</B> 26.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> refrigerated", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0160", 
+        "brand": "Bonne Maman", 
+        "tcin": "14711071", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711071"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Bonne Maman Apricot Preserve - 13oz", 
+        "url": "/p/bonne-maman-apricot-preserve-13oz/-/A-14711071", 
+        "release_date": "", 
+        "upc": "088702015614", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> apricots", 
+            "<B>Servings Per Container:</B> 22.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Recipes, gifts and more. No preservatives, naturally delicious! Try all varieties of Smucker's Natural Fruit Spreads.<br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "212-02-0484", 
+        "brand": "SMUCKER'S", 
+        "tcin": "15407366", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407366"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Blackberry Jam - 17.25oz", 
+        "url": "/p/smucker-s-174-natural-blackberry-jam-17-25oz/-/A-15407366", 
+        "release_date": "", 
+        "upc": "051500141298", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with ingredients from natural sources.", 
+                "Non GMO.", 
+                "No preservatives, naturally delicious!"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "For the just the right blend of sweet and spicy, pick up Red Pepper Jelly from Braswell's\u00ae. Made with red bell peppers, this jelly is certain to bring some heat to anything you add it to. Pour it over cream cheese and serve with crackers for an appetizer at your next party.", 
+        "dpci": "212-02-0556", 
+        "brand": "Braswell's", 
+        "tcin": "13443665", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13443665"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Braswell's All Natural Red Pepper Jelly - 10.5oz", 
+        "url": "/p/braswell-s-all-natural-red-pepper-jelly-10-5oz/-/A-13443665", 
+        "release_date": "", 
+        "upc": "041695081332", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with all natural ingredients", 
+                "Add flavor and head to any meal", 
+                "Use as a glaze for beef or pork main dishes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> berries", 
+            "<B>Servings Per Container:</B> 10.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Simply Fruit\u00ae Seedless Blackberry Spreadable Fruit from Smucker's\u00ae has an easy-to-spread texture and delicious, fruity taste that you'll love. Sweetened with fruit juice concentrate, it's ready to be enjoyed right out of the jar \u2014 spread it onto toast, go classic with a PB&J sandwich or enjoy with a pastry for a sweet breakfast treat.", 
+        "dpci": "212-02-0076", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13264319", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13264319"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Simply Fruit Seedless Blackberry Spread - 10oz", 
+        "url": "/p/smucker-s-174-simply-fruit-seedless-blackberry-spread-10oz/-/A-13264319", 
+        "release_date": "", 
+        "upc": "051500023273", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry preserves have a chunky texture and rich flavor", 
+                "50 calories per tbsp", 
+                "Great on toast or with pastries"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blackberries", 
+            "<B>Servings Per Container:</B> 15.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Whether you're making a peanut butter and jelly sandwich or simply snacking on some crackers, add a unique twist to your day with Smucker's Strawberry Jalapeno Fruit and Honey Spread. Naturally sweetened with honey for the perfect combination of sweetness and heat, this spread will easily become your go-to.", 
+        "dpci": "212-02-0273", 
+        "brand": "SMUCKER'S", 
+        "tcin": "50298801", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50298801"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Strawberry Jalapeno Fruit & Honey Spread - 9oz", 
+        "url": "/p/smucker-s-174-strawberry-jalapeno-fruit-honey-spread-9oz/-/A-50298801", 
+        "release_date": "", 
+        "upc": "051500029848", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry jalapeno fruit spread adds a spicy kick to your day", 
+                "Naturally sweetened with honey for delicious flavor", 
+                "&nbsp;Perfect on sandwiches, bagels, crackers and more"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 26", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "At Santa Cruz Organic, fruit Comes first! When we decided to bring our decades of organic fruit expertise to fruit spreads, we felt strongly that we must give you what you want.  That's why the first ingredient in every jar is exactly what you'd expect -organic fruit! Santa Cruz Organic Mango Fruit Spread has a homestyle, spreadable texture that is unmatched. Look at the ingredients, then taste the results. Try Santa Cruz Organic Mango Fruit Spread today!", 
+        "dpci": "212-02-0210", 
+        "brand": "Santa Cruz Organic", 
+        "tcin": "51959573", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51959573", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51959573"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Santa Cruz Organic&#174; Mango Fruit Spread - 9.5oz", 
+        "url": "/p/santa-cruz-organic-174-mango-fruit-spread-9-5oz/-/A-51959573", 
+        "release_date": "", 
+        "upc": "036192105162", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "First ingredient - organic mangos!", 
+                "Manufactured to the highest quality available", 
+                "Satisfaction ensured", 
+                "Great gift idea!", 
+                "45 calories per tablespoon"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> mangos", 
+            "<B>Servings Per Container:</B> 14", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "With a unique nectarous flavor \u2014 and a zing of tartness \u2014\u00a0Smucker\u2019s\u00a0Apricot Preserves cuts to the head of the line for many fruit connoisseurs. Try these golden, fruity preserves on toast, fold into a crepe or spoon on roast pork and chicken.", 
+        "dpci": "212-02-0085", 
+        "brand": "SMUCKER'S", 
+        "tcin": "13264418", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13264418"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's Apricot Preserve - 18oz", 
+        "url": "/p/smucker-s-apricot-preserve-18oz/-/A-13264418", 
+        "release_date": "", 
+        "upc": "051500006757", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Smucker's Preserves are made with whole or large pieces of high-quality fruit", 
+                "Easy to spread", 
+                "Great in recipes!"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> apricots", 
+            "<B>Servings Per Container:</B> 27.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0655", 
+        "brand": "Dickinson's", 
+        "tcin": "13356865", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13356865"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Dickinson's Lemon Curd - 10oz", 
+        "url": "/p/dickinson-s-lemon-curd-10oz/-/A-13356865", 
+        "release_date": "", 
+        "upc": "051500031162", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> lemons", 
+            "<B>Servings Per Container:</B> 10.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Create something all your own. With RealFruit Pectin it's easy to make delicious jam that tastes more like fresh fruit. Pectin is a natural, jelling ingredient derived from apple and citrus fruits, however, not all pectins are created equal. We formulated the perfect blend in Ball RealFruit Pectin that makes better tasting jam. RealFruit Instant Pectin Homemade, no-cook jam has never tasted better. Ball RealFruit Instant Pectin is the perfect way to make delicious, homemade jam in under 30 minutes. Enjoy it now or freeze it for use within one year.", 
+        "dpci": "070-05-1331", 
+        "brand": "Ball", 
+        "tcin": "13562670", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13562670"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Ball Real Fruit Instant Pectin - 4.7oz", 
+        "url": "/p/ball-real-fruit-instant-pectin-4-7oz/-/A-13562670", 
+        "release_date": "", 
+        "upc": "014400713651", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> blueberries, strawberries, raspberries", 
+            "<B>Servings Per Container:</B> 6", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Storage State:</B> refrigerated"
+        ]
+    }, 
+    {
+        "description": "Although red raspberries have a short growing season, you can enjoy this delicious fruit flavor any time of year with the Natural Red Raspberry Fruit Spread from Smucker's\u00ae. Serve with brie, use as a sweet alternative to grape jelly for classic PB&J sandwiches or drizzle over savory breakfast crepes. Made with ingredients from natural sources, you'll feel good about what you eat.", 
+        "dpci": "212-02-0475", 
+        "brand": "SMUCKER'S", 
+        "tcin": "15080310", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15080310"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Natural Red Raspberry Fruit Spread - 19oz", 
+        "url": "/p/smucker-s-174-natural-red-raspberry-fruit-spread-19oz/-/A-15080310", 
+        "release_date": "", 
+        "upc": "051500141755", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Concord grape fruit spread tastes great on toast or pastries", 
+                "40 calories per tbsp", 
+                "Sweetened with fruit syrup from juice concentrate"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 28", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> refrigerated", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "Crosse & Blackwell has been creating classic British fruit spreads since 1706. Over the years, very little has changed. Cross & Blackwell Mint Flavored Apple Jelly is a gourmet-quality spread blended with exotic fruits, herbs and spices for the perfect accompaniment. We don't compromise when it comes to taste. Only the finest fruit is used to create a pure, delicious flavor!", 
+        "dpci": "212-02-0375", 
+        "brand": "Crosse & Blackwell", 
+        "tcin": "52123467", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52123467", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52123467"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Crosse & Blackwell&#174; Mint-Flavored Apple Jelly - 12oz", 
+        "url": "/p/crosse-blackwell-174-mint-flavored-apple-jelly-12oz/-/A-52123467", 
+        "release_date": "", 
+        "upc": "051500286029", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ideal complements to scones & muffins", 
+                "Inspired ingredients for baking", 
+                "Great meat glazes & more"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> apples", 
+            "<B>Servings Per Container:</B> 17", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Created especially for cheese, Cranberry Raspberry Jam by The Gracious Gourmet is made in small batches using only the finest all natural ingredients. Blending tart cranberries with sweet raspberries, you can keep this jam on hand for year round entertaining. It perfectly complements the flavor and texture of many cheeses. Pair it with a variety of cheeses including Cheddar, Swiss, Brie, Goat, and Blue Cheeses. Other impressive ways to serve Cranberry Raspberry Jam are to garnish roasted meats, turkey, and cheesecake. It\u2019s a perfect jam for toast in the morning, or stir into plain yogurt or top a breakfast parfait. Replace traditional cranberry sauce at the holidays with Cranberry Raspberry Jam for an extraordinary experience. The uses are numerous!", 
+        "dpci": "216-13-0141", 
+        "brand": "The Gracious Gourmet", 
+        "tcin": "51496326", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51496326"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "The Gracious Gourmet Cranberry Raspberry Jam 8 oz", 
+        "url": "/p/the-gracious-gourmet-cranberry-raspberry-jam-8-oz/-/A-51496326", 
+        "release_date": "", 
+        "upc": "893376001302", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> cranberries", 
+            "<B>Servings Per Container:</B> 7", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Created especially for cheese, Smoky Peach Jam by The Gracious Gourmet is made in small batches using only the finest all natural ingredients. Using juicy peaches enhanced by a light smoky flavor, it is simple yet sophisticated. It perfectly complements the flavor and texture of many cheeses, including Cheddar, Gouda, Brie, Goat, and Blue Cheeses. Smoky Peach Jam is also a superb accompaniment to ribs, poultry, game, and shellfish. It even adds excitement to cream cheese for bagels and will impress guests when combined with vanilla ice cream.", 
+        "dpci": "216-13-0140", 
+        "brand": "The Gracious Gourmet", 
+        "tcin": "51495874", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51495874"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "The Gracious Gourmet Smoky Peach Jam 8 oz", 
+        "url": "/p/the-gracious-gourmet-smoky-peach-jam-8-oz/-/A-51495874", 
+        "release_date": "", 
+        "upc": "893376001296", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> peaches", 
+            "<B>Servings Per Container:</B> 7", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "For the perfect blend of sweet and heat, pick up Spicy Pepper Jelly from Tabasco\u00ae. Made with red and green bell peppers and spiced with Tabasco\u00ae sauce, this jelly is certain to add some heat to anything you add it to. Pour over cream cheese and serve with crackers for a unique appetizer at your next party.", 
+        "dpci": "212-34-0687", 
+        "brand": "Tabasco", 
+        "tcin": "47091828", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47091828"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Tabasco&#174; Spicy Pepper Jelly - 10oz", 
+        "url": "/p/tabasco-174-spicy-pepper-jelly-10oz/-/A-47091828", 
+        "release_date": "", 
+        "upc": "011210003101", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Pepper jelly spiced with Tabasco&#174;", 
+                "&nbsp;Adds spicy flavor to any meal", 
+                "Use as a glaze for meat dishes or as a sandwich condiment"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> peppers", 
+            "<B>Servings Per Container:</B> 19", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Bring the flavor from the islands to your kitchen with Guava Jelly from Hawaiian Sun\u00ae.  With a flavor similar to a mix of pear and strawberry, this jelly will make you feel like you're on a tropical vacation whether you add it to toast or use it to glaze a ham roast.", 
+        "dpci": "212-02-0294", 
+        "brand": "Mezzetta", 
+        "tcin": "47110248", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47110248"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Hawaiian Sun&#174; Guava Jelly - 10oz", 
+        "url": "/p/hawaiian-sun-174-guava-jelly-10oz/-/A-47110248", 
+        "release_date": "", 
+        "upc": "079800000138", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made in Hawaii", 
+                "No preservatives, no artificial flavor and no artificial color", 
+                "&nbsp;Stir into plain yogurt for a little sweetness"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> berries", 
+            "<B>Servings Per Container:</B> 19", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0295", 
+        "brand": "Mezzetta", 
+        "tcin": "47110249", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47110249"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Hawaiian Sun&#174; Guava Jam - 10oz", 
+        "url": "/p/hawaiian-sun-174-guava-jam-10oz/-/A-47110249", 
+        "release_date": "", 
+        "upc": "079800000237", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> berries", 
+            "<B>Servings Per Container:</B> 19", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0317", 
+        "brand": "Michael Angelo's", 
+        "tcin": "47110255", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47110255"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Hawaiian Sun&#174; Strawberry Guava Jam - 10oz", 
+        "url": "/p/hawaiian-sun-174-strawberry-guava-jam-10oz/-/A-47110255", 
+        "release_date": "", 
+        "upc": "079800000633", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 19", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "When you're ready to introduce a new flavor into your favorite dishes, reach for Lilikoi Jelly from Hawaiian Sun\u00ae. Made with passion fruit, this jelly boasts a tart yet sweet flavor. Use as a glaze for ham or pork dishes for some unexpected flavor or spread over a buttered biscuit.", 
+        "dpci": "212-02-0309", 
+        "brand": "Michael Angelo's", 
+        "tcin": "47110254", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47110254"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Hawaiian Sun&#174; Passion Fruit Jelly - 10oz", 
+        "url": "/p/hawaiian-sun-174-passion-fruit-jelly-10oz/-/A-47110254", 
+        "release_date": "", 
+        "upc": "079800000534", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with passion fruit", 
+                "No preservatives, no artificial flavor and no artificial color", 
+                "&nbsp;Stir into plain yogurt for tart yet sweet flavor"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> berries", 
+            "<B>Servings Per Container:</B> 19", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Add a touch of sweetness to your favorite food with 778 Strawberry Spreadable Fruit. This sweet strawberry spread is the perfect complement to biscuits, bread and pastries - even stir into plain yogurt with a little honey for a yummy after-dinner dessert.", 
+        "dpci": "212-28-0376", 
+        "brand": "778", 
+        "tcin": "50607460", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50607460"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "778 Strawberry Fruit Spread 12 oz", 
+        "url": "/p/778-strawberry-fruit-spread-12-oz/-/A-50607460", 
+        "release_date": "", 
+        "upc": "084685900312", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Strawberry fruit spread does not contain preservatives or food color", 
+                "Add to pastries and recipes", 
+                "Kosher for Passover"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 12", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "212-02-0633", 
+        "brand": "SMUCKER'S", 
+        "tcin": "14257219", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14257219"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Smucker's&#174; Orchard's Finest Michigan Red Tart Cherry Preserves - 12oz", 
+        "url": "/p/smucker-s-174-orchard-s-finest-michigan-red-tart-cherry-preserves-12oz/-/A-14257219", 
+        "release_date": "", 
+        "upc": "051500141137", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> cherries", 
+            "<B>Servings Per Container:</B> 17.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Celebrate the fresh, naturally sweet taste of real fruit with the Sugar-Free Strawberry Preserves 13 oz - Market Pantry\u0099. This low calorie spread is ideal for those on a sugar-restrictive diet or who are simply watching their waistline. Add to your morning toast for a lush, summery flavor you\u2019ll love. Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0337", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13762591", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13762591_Alt01"
+                ], 
+                "swatch": "13762591_Swatch", 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13762591"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Sugar-Free Strawberry Preserves - 13oz - Market Pantry&#153;", 
+        "url": "/p/sugar-free-strawberry-preserves-13oz-market-pantry-153/-/A-13762591", 
+        "release_date": "", 
+        "upc": "085239023372", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Jarred sugar free fruit preserves", 
+                "Made with real strawberries", 
+                "Great on toast, sandwiches and more", 
+                "80% fewer calories than regular preserves"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> strawberries", 
+            "<B>Servings Per Container:</B> 22", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }, 
+    {
+        "description": "Enjoy the succulent, fresh flavor of real fruit with the Sugar-Free Red Raspberry Preserves 13 oz - Market Pantry\u0099. This tart, naturally sweet spread is a great solution for those watching their weight or who are on a restricted diet \u2014 just add toast! Market Pantry\u0099 promises freshness and quality always at a great value.", 
+        "dpci": "212-02-0338", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13762593", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13762593_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13762593"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "spreads", 
+            "jams, jellies & preserves"
+        ], 
+        "title": "Sugar-Free Red Raspberry Preserves - 13oz - Market Pantry&#153;", 
+        "url": "/p/sugar-free-red-raspberry-preserves-13oz-market-pantry-153/-/A-13762593", 
+        "release_date": "", 
+        "upc": "085239023389", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Jarred sugar free fruit preserves", 
+                "Made with real raspberries", 
+                "Great on toast, sandwiches and more", 
+                "80% fewer calories than regular preserves"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Main Fruit Ingredient:</B> raspberries", 
+            "<B>Servings Per Container:</B> 22.000", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> glass", 
+            "<B>Storage State:</B> room temperature"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "description": "", 
+        "dpci": "266-03-0022", 
+        "brand": "", 
+        "tcin": "15025416", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15025416"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "plums"
+        ], 
+        "title": "Plums ea", 
+        "url": "/p/plums-ea/-/A-15025416", 
+        "release_date": "", 
+        "upc": "204440000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

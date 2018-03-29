@@ -1,0 +1,960 @@
+[
+    {
+        "description": "Fluffy Stuff Cottontails 2.1oz Bagis a delicious combination of Strawberry, Lemon, Blue Raz, and Lime Cotton Candy. Its colorful and playful packaging and value pricing make it a perfect Easter Basket filler!", 
+        "dpci": "055-08-3345", 
+        "brand": "Charms", 
+        "tcin": "52952274", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52952274", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52952274"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Charms Fluffy Stuff Cottontails Easter Cotton Candy - 2.1oz", 
+        "url": "/p/charms-fluffy-stuff-cottontails-easter-cotton-candy-2-1oz/-/A-52952274", 
+        "release_date": "", 
+        "upc": "014200003280", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "4 delicious flavors: Strawberry, Lemon, Blue Raz and Lime.", 
+                "Fun seasonal graphics", 
+                "Value priced", 
+                "Great Easter Basket Filler!"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Occasion:</B> Easter", 
+            "<B>Primary Flavors:</B> cotton candy", 
+            "<B>Package Type:</B> individual item single serving", 
+            "<B>Container Material:</B> mylar"
+        ]
+    }, 
+    {
+        "description": "Includes: (2) 8 oz. bag of gumballs and (2) 14 oz bags of Sixlets. Kosher Certified. Gluten Free. Nut Free.", 
+        "dpci": "053-00-0641", 
+        "brand": "", 
+        "tcin": "51350755", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51350755"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Shimmer Pink Sixlet & Gumball Candy Pack", 
+        "url": "/p/shimmer-pink-sixlet-gumball-candy-pack/-/A-51350755", 
+        "release_date": "", 
+        "upc": "887513103196", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Occasion:</B> Birthday, Wedding, Graduation, Baby Shower", 
+            "<B>Package Type:</B> multi-pack single servings", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Includes:3 packages of 8 oz. bag of gumballs. Kosher Certified. Gluten Free. Nut Free.", 
+        "dpci": "053-00-0634", 
+        "brand": "", 
+        "tcin": "51350746", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51350746"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Shimmer Pink Gumball Candy Party Pack", 
+        "url": "/p/shimmer-pink-gumball-candy-party-pack/-/A-51350746", 
+        "release_date": "", 
+        "upc": "887513103097", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Occasion:</B> Birthday, Wedding, Graduation, Baby Shower", 
+            "<B>Package Type:</B> multi-pack single servings", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "KISSES Milk Chocolates are pretty in pink! Whether you\u2019re looking for wedding candy or a sweet offering at your next baby or bridal shower, this milk chocolate candy is a classic choice. Make a memorable event even more meaningful by treating friends and loved ones to Delightfully Delicious One-of-a-Kind KISSES Milk Chocolates.", 
+        "dpci": "055-02-0616", 
+        "brand": "HERSHEY'S KISSES", 
+        "tcin": "17104297", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "17104297_Alt01", 
+                    "17104297_Alt02", 
+                    "17104297_Alt03", 
+                    "17104297_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "17104297_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "17104297_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "17104297_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "17104297_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "17104297"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "HERSHEY'S KISSES Milk Chocolates Pink - 66.7oz", 
+        "url": "/p/hershey-s-kisses-milk-chocolates-pink-66-7oz/-/A-17104297", 
+        "release_date": "", 
+        "upc": "034000133437", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Delightfully delicious wrapped bulk candy is perfect for weddings, baby showers, bridal parties, and other large gatherings", 
+                "Bulk bag ensures you have enough for unexpected guests", 
+                "Individually wrapped in pretty pink foils", 
+                "Kosher and gluten-free milk chocolate candy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Make an exciting announcement in a delicious new way! From candy buffets to party favors, this bulk bag of KISSES \u201cIt\u2019s A Girl\u201d Milk Chocolates is the perfect size for any baby celebration. You won\u2019t find another candy better suited, and better dressed, for the occasion!", 
+        "dpci": "055-10-0442", 
+        "brand": "HERSHEY'S KISSES", 
+        "tcin": "52331313", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52331313_Alt01", 
+                    "52331313_Alt02", 
+                    "52331313_Alt03", 
+                    "52331313_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52331313_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52331313_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52331313_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52331313_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52331313"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "HERSHEY'S KISSES \"It's A Girl!\" Milk Chocolates - 48oz", 
+        "url": "/p/hershey-s-kisses-it-s-a-girl-milk-chocolates-48oz/-/A-52331313", 
+        "release_date": "", 
+        "upc": "034000133338", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Your favorite milk chocolate candy dressed to impress to celebrate your bundle of joy", 
+                "Classically delicious milk chocolate candy bars, perfect for sharing your exciting news", 
+                "Individually wrapped candies with plumes featuring &ldquo;It&rsquo;s A Girl!\"", 
+                "Kosher and gluten-free milk chocolate candy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "These Espeez Hot Pink Cherry-Flavored Rock Candy Sticks 36 Count are sweet with a cherry kick. Lick or crunch your way through the hard candy crystals on a stick. Great for any color themed party or as an addition to any candy buffet, Espeez Hot Pink Cherry-Flavored Rock Candy Sticks 36 Count are a classic candy with a uniquely sweet taste.", 
+        "dpci": "055-02-4135", 
+        "brand": "ESPEEZ", 
+        "tcin": "46796633", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "46796633_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "46796633_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "46796633"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "ESPEEZ Hot Pink Cherry Flavored Rock Candy Sticks - 36ct", 
+        "url": "/p/espeez-hot-pink-cherry-flavored-rock-candy-sticks-36ct/-/A-46796633", 
+        "release_date": "", 
+        "upc": "798051960366", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> cherry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Celebrate a birth with this Concord It's a Girl Pink Bubble Gum Cigar Box: 36 Count. These individually wrapped blue chewy cigars are a great way to announce the birth of a new boy. Each gum cigar is approximately 4 inches long and is gluten and nut free. Concord It's a Girl Pink Bubble Gum Cigar Box is great for celebrating a birth of your own, or a new birth from your friends, family or coworkers.", 
+        "dpci": "055-01-0561", 
+        "brand": "Concord Confections", 
+        "tcin": "46795111", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46795111"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Concord Confections El Bubble It's a Girl Bubble Gum - 36ct", 
+        "url": "/p/concord-confections-el-bubble-it-s-a-girl-bubble-gum-36ct/-/A-46795111", 
+        "release_date": "", 
+        "upc": "072760003768", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> paper or cardboard", 
+            "<B>Contains:</B> soy", 
+            "<B>May Contain:</B> does not contain any of the 8 major allergens"
+        ]
+    }, 
+    {
+        "description": "Includes: 3 packs of 14 oz. package of chocolate flavored candy. Kosher Certified, Gluten Free and Nut Free.", 
+        "dpci": "053-00-0621", 
+        "brand": "", 
+        "tcin": "51350748", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51350748"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Shimmer Pink Sixlet Candy Party Pack", 
+        "url": "/p/shimmer-pink-sixlet-candy-party-pack/-/A-51350748", 
+        "release_date": "", 
+        "upc": "887513102977", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Occasion:</B> Birthday, Wedding, Graduation, Baby Shower", 
+            "<B>Package Type:</B> multi-pack single servings", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Bite into the hard outer shell of these silky milk chocolate My M&M\u2019s Dark Pink 2 Lbs. These single color chocolate pieces are perfect for any color-themed party dessert table or candy buffet. My M&M\u2019s Dark Pink 2 Lbs have the classic chocolate flavor you love in an exciting new single color pouch.", 
+        "dpci": "055-02-1451", 
+        "brand": "M&M's", 
+        "tcin": "50183531", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50183531"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "M&M's Dark Pink Chocolate Candies - 2lb", 
+        "url": "/p/m-m-s-dark-pink-chocolate-candies-2lb/-/A-50183531", 
+        "release_date": "", 
+        "upc": "040000010746", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "These red Kervan Strawberry Laces: 2 lbs pack fruit flavor into chewy strings. Pull apart each gummy string one by one, or just bite in with no regard! Great for mixing and matching with other flavors of laces, these Kervan Strawberry Laces 2 lbs make any candy buffet better and add a certain sweetness to any color themed party as well.", 
+        "dpci": "055-02-4131", 
+        "brand": "Kervan", 
+        "tcin": "46796629", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796629"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Kervan Strawberry Laces Licorice Candy - 2lbs", 
+        "url": "/p/kervan-strawberry-laces-licorice-candy-2lbs/-/A-46796629", 
+        "release_date": "", 
+        "upc": "846548037197", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Sweet, chewy and delicious Tiny Beanies Strawberry Cheesecake Jelly Beans - Speckled Pink: 5 lbs come approximately 400 beans per pound. These 1/2 inch long jelly beans are deliciously sweet and packed with unique flavors. Fill up the office candy dish or mix and match jelly beans for the next party or event candy buffet. Tiny Beanies Strawberry Cheesecake Jelly Beans - Speckled Pink: 5 lbs make any dessert or snack time a lot brighter and sweeter!", 
+        "dpci": "055-02-4132", 
+        "brand": "Jelly Belly", 
+        "tcin": "46796630", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796630"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Jelly Belly Strawberry Cheesecake Speckled Pink Jelly Beans - 5lbs", 
+        "url": "/p/jelly-belly-strawberry-cheesecake-speckled-pink-jelly-beans-5lbs/-/A-46796630", 
+        "release_date": "", 
+        "upc": "709704641570", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy the yummy, chewy flavor of these Albanese Pink Grapefruit Gummi Bears 5 Lbs. Bear-shaped gummies bursting with blue raspberry flavor and a soft, chewy texture, these blue gummies are perfect to fill up any candy buffet, or complement any color themed holiday or party. Albanese Pink Grapefruit Gummi Bears 5 lbs are irrisistably delicious!", 
+        "dpci": "055-02-4127", 
+        "brand": "Albanese", 
+        "tcin": "46796625", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "46796625_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796625"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Albanese Pink Grapefruit Gummy Bears - 5lbs", 
+        "url": "/p/albanese-pink-grapefruit-gummy-bears-5lbs/-/A-46796625", 
+        "release_date": "", 
+        "upc": "634418501769", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> grapefruit", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Unwrap the chewy flavor of these Sweet's Strawberry Taffy 3 lbs. Perfect for any themed office parties, any candy buffet at any event, or just to enjoy for no reason at all, these chewy, individually wrapped taffy candies are deliciously filling. Each 3 lb bag contains approximately 210 pieces of pink Sweet's Strawberry Taffy.", 
+        "dpci": "055-02-4116", 
+        "brand": "Sweet's", 
+        "tcin": "46796614", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796614"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Sweet's Strawberry Taffy - 3lbs", 
+        "url": "/p/sweet-s-strawberry-taffy-3lbs/-/A-46796614", 
+        "release_date": "", 
+        "upc": "071443091832", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Bite into these Sweetworks Sixlets Light Pink Balls: 2 lbs coated chocolate pieces. Small discs of creamy milk chocolate dipped in a candy shell, these candies are perfect for candy buffets, office candy dishes or any color themed parties. Sweetworks Sixlets Light Pink Balls: 2 lbs are a bite-sized delicious chocolatey treat that you\u2019ll want to eat by the handful.", 
+        "dpci": "055-02-4139", 
+        "brand": "SweetWorks", 
+        "tcin": "46796637", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796637"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "SweetWorks Sixlets Light Pink Chocolate Balls - 2lbs", 
+        "url": "/p/sweetworks-sixlets-light-pink-chocolate-balls-2lbs/-/A-46796637", 
+        "release_date": "", 
+        "upc": "800093801573", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Unwrap the chewy flavor of these Sweet's Bubblegum Taffy 3 lbs. Perfect for any themed office parties, any candy buffet at any event, or just to enjoy for no reason at all, these chewy, individually wrapped taffy candies are deliciously filling. Each 3 lb bag contains approximately 210 pieces of pink Sweet's Bubblegum Taffy.", 
+        "dpci": "055-02-4118", 
+        "brand": "Sweet's", 
+        "tcin": "46796616", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796616"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Sweet's Bubblegum Taffy - 3lbs", 
+        "url": "/p/sweet-s-bubblegum-taffy-3lbs/-/A-46796616", 
+        "release_date": "", 
+        "upc": "618645252168", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> bubble gum", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy the yummy, chewy flavor of these Sweet's Pink Grapefruit Fruit Sours 5 Lbs. Gummies bursting with sour apple flavor and a soft, chewy texture, these red gummies are perfect to fill up any candy buffet, or complement any color themed holiday or party. Sweet's Pink Grapefruit Fruit Sours 5 lbs are irrisistably delicious!", 
+        "dpci": "055-02-4123", 
+        "brand": "Sweet's", 
+        "tcin": "46796621", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796621"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Sweet's Pink Grapefruit Sours Candy - 5lbs", 
+        "url": "/p/sweet-s-pink-grapefruit-sours-candy-5lbs/-/A-46796621", 
+        "release_date": "", 
+        "upc": "071443080157", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> grapefruit", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Bite into these Sweetworks Sixlets Shimmer Bright Pink Balls: 2 lbs coated chocolate pieces. Small discs of creamy milk chocolate dipped in a candy shell, these candies are perfect for candy buffets, office candy dishes or any color themed parties. Sweetworks Sixlets Shimmer Bright Pink Balls: 2 lbs are a bite-sized delicious chocolatey treat that you\u2019ll want to eat by the handful.", 
+        "dpci": "055-02-4138", 
+        "brand": "SweetWorks", 
+        "tcin": "46796636", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796636"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "SweetWorks Sixlets Shimmer Bright Pink Chocolate Balls - 2lbs", 
+        "url": "/p/sweetworks-sixlets-shimmer-bright-pink-chocolate-balls-2lbs/-/A-46796636", 
+        "release_date": "", 
+        "upc": "800093801047", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Unwrap delectable chocolate in these Foiled Solid Bright Pink Balls: 1 lb. Simply fill up your candy jar with these chocolate balls and it will perfectly fit your theme color. These individually foil wrapped chocolate balls will satisfy your cravings for delicious candy. Sweetworks Foiled Solid Milk Bright Pink Balls 1 lb are great for the office candy dish, or for any candy buffet at your next event.", 
+        "dpci": "055-02-4140", 
+        "brand": "SweetWorks", 
+        "tcin": "46796638", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796638"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "SweetWorks Foiled Solid Bright Pink Balls - 1lb", 
+        "url": "/p/sweetworks-foiled-solid-bright-pink-balls-1lb/-/A-46796638", 
+        "release_date": "", 
+        "upc": "012292814241", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Unwrap delectable chocolate in these Foiled Solid Light Pink Balls: 1 lb. Simply fill up your candy jar with these chocolate balls and it will perfectly fit your theme color. These individually foil wrapped chocolate balls will satisfy your cravings for delicious candy. Sweetworks Foiled Solid Milk Light Pink Balls 1 lb are great for the office candy dish, or for any candy buffet at your next event.", 
+        "dpci": "055-02-4141", 
+        "brand": "SweetWorks", 
+        "tcin": "46796639", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796639"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "SweetWorks Foiled Solid Light Pink Balls - 1lb", 
+        "url": "/p/sweetworks-foiled-solid-light-pink-balls-1lb/-/A-46796639", 
+        "release_date": "", 
+        "upc": "012292814326", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy the yummy, chewy flavor of these Kervan Strawberry Cake Gummies: 5 lbs. Gummies bursting with sweet strawberry flavor and a soft, chewy texture, these red gummies are perfect to fill up any candy buffet, or complement any color themed holiday or party. Kervan Strawberry Cake Gummies: 5 lbs are irrisistably delicious!", 
+        "dpci": "055-02-4130", 
+        "brand": "Kervan", 
+        "tcin": "46796628", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796628"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Kervan Strawberry Cake Gummies - 5lbs", 
+        "url": "/p/kervan-strawberry-cake-gummies-5lbs/-/A-46796628", 
+        "release_date": "", 
+        "upc": "846548031638", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy the yummy, chewy flavor of these Albanese Ripe Watermelon Gummi Bears 5 Lbs. Bear-shaped gummies bursting with blue raspberry flavor and a soft, chewy texture, these blue gummies are perfect to fill up any candy buffet, or complement any color themed holiday or party. Albanese Ripe Watermelon Gummi Bears 5 lbs are irrisistably delicious!", 
+        "dpci": "055-02-4125", 
+        "brand": "Albanese", 
+        "tcin": "46796623", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "46796623_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796623"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Albanese Ripe Watermelon Gummi Bears - 5lbs", 
+        "url": "/p/albanese-ripe-watermelon-gummi-bears-5lbs/-/A-46796623", 
+        "release_date": "", 
+        "upc": "634415011582", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> watermelon", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Enjoy the yummy, chewy flavor of these Sweet's Watermelon Fruit Sours 5 Lbs. Gummies bursting with sour apple flavor and a soft, chewy texture, these red gummies are perfect to fill up any candy buffet, or complement any color themed holiday or party. Sweet's Watermelon Fruit Sours 5 lbs are irrisistably delicious!", 
+        "dpci": "055-02-4124", 
+        "brand": "Sweet's", 
+        "tcin": "46796622", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "46796622_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796622"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Sweet's Watermelon Fruit Sours Candy - 5lbs", 
+        "url": "/p/sweet-s-watermelon-fruit-sours-candy-5lbs/-/A-46796622", 
+        "release_date": "", 
+        "upc": "071443080171", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> watermelon", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Chew on the delicious gum flavor of these Sweetworks Bright Pink Shimmer Gumballs: 2 lbs. These hard, yet chewy 1 inch gumballs are hollow, but filled with fruit flavored taste. Sweetworks Bright Pink Shimmer Gumballs make any office breakroom a little sweeter are great for any theme party, candy buffet, or just to chew on during the day.", 
+        "dpci": "055-01-0553", 
+        "brand": "SweetWorks", 
+        "tcin": "46795103", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46795103"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "SweetWorks 1\" Bubble Chewing Gum - 2lbs", 
+        "url": "/p/sweetworks-1-bubble-chewing-gum-2lbs/-/A-46795103", 
+        "release_date": "", 
+        "upc": "800093601043", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic", 
+            "<B>Contains:</B> soy", 
+            "<B>May Contain:</B> does not contain any of the 8 major allergens"
+        ]
+    }, 
+    {
+        "description": "Grab a handful of these rich, silky Pink Milk Chocolate Gems, 2 lbs and bite through the hard coated shell and into the great chocolate underneath. This 2 pound pouch is filled with Red Milk Chocolate Gems that make any candy buffet more colorful, and more delicious! Fill up your office candy dish, or grab a few bags for your next party or event. Pink Milk Chocolate Gems, 2 lbs is a must have for any chocolate-lover and their Pink coated shells are great for any theme party!", 
+        "dpci": "055-10-0352", 
+        "brand": "Georgia's", 
+        "tcin": "51962872", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51962872"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Georgia's Pink Milk Chocolate Gems - 2lbs", 
+        "url": "/p/georgia-s-pink-milk-chocolate-gems-2lbs/-/A-51962872", 
+        "release_date": "", 
+        "upc": "863686005062", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "055-10-0431", 
+        "brand": "Candy.com Reserve", 
+        "tcin": "52336176", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52336176"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Pink Candy Buffet Box", 
+        "url": "/p/pink-candy-buffet-box/-/A-52336176", 
+        "release_date": "", 
+        "upc": "863686004669", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> paper or cardboard"
+        ]
+    }, 
+    {
+        "description": "Sweet, chewy and delicious Tiny Beanies Savannah Strawberry Jelly Beans - Light Rose: 5 lbs come approximately 400 beans per pound. These 1/2 inch long jelly beans are deliciously sweet and packed with unique flavors. Fill up the office candy dish or mix and match jelly beans for the next party or event candy buffet. Tiny Beanies Savannah Strawberry Jelly Beans - Light Rose: 5 lbs make any dessert or snack time a lot brighter and sweeter!", 
+        "dpci": "055-02-4133", 
+        "brand": "Jelly Belly", 
+        "tcin": "46796631", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796631"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Jelly Belly Tiny Beanie Savannah Strawberry Light Rose Jelly Beans - 5lbs", 
+        "url": "/p/jelly-belly-tiny-beanie-savannah-strawberry-light-rose-jelly-beans-5lbs/-/A-46796631", 
+        "release_date": "", 
+        "upc": "709704640344", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Bite into these Milkies Bright Pink Milk Chocolate Milkies 5 lbs coated chocolate pieces. Small discs of creamy milk chocolate dipped in a candy shell, these candies are perfect for candy buffets, office candy dishes or any color themed parties. Milkies Bright Pink Milk Chocolate Milkies 5 lbs contain approximately 400 pieces per pound and are a bite-sized delicious chocolatey treat.", 
+        "dpci": "055-02-4136", 
+        "brand": "Koppers Milkies", 
+        "tcin": "46796634", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796634"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Koppers Milkies Bright Pink Milk Chocolate Milkies - 5lbs", 
+        "url": "/p/koppers-milkies-bright-pink-milk-chocolate-milkies-5lbs/-/A-46796634", 
+        "release_date": "", 
+        "upc": "020439851912", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Unwrap the chewy flavor of these Sweet's Strawberries & Cream Taffy 3 lbs. Perfect for any themed office parties, any candy buffet at any event, or just to enjoy for no reason at all, these chewy, individually wrapped taffy candies are deliciously filling. Each 3 lb bag contains approximately 210 pieces of pink and white Sweet's Strawberries & Cream Taffy.", 
+        "dpci": "055-02-4122", 
+        "brand": "Sweet's", 
+        "tcin": "46796620", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "46796620"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Sweet's Strawberries & Cream Taffy - 3lbs", 
+        "url": "/p/sweet-s-strawberries-cream-taffy-3lbs/-/A-46796620", 
+        "release_date": "", 
+        "upc": "071443091856", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Primary Flavors:</B> cream soda, strawberry", 
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Grab a handful of these rich, silky Pink Milk Chocolate Gems, 5 lbs and bite through the hard coated shell and into the great chocolate underneath. This 5 pound pouch is filled with Red Milk Chocolate Gems that make any candy buffet more colorful, and more delicious! Fill up your office candy dish, or grab a few bags for your next party or event. Pink Milk Chocolate Gems, 5 lbs is a must have for any chocolate-lover and their Pink coated shells are great for any theme party!", 
+        "dpci": "055-10-0336", 
+        "brand": "Georgia's", 
+        "tcin": "51962840", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51962840"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Candy & gum", 
+            "candy by color", 
+            "pink"
+        ], 
+        "title": "Georgia's Pink Milk Chocolate Gems - 5lbs", 
+        "url": "/p/georgia-s-pink-milk-chocolate-gems-5lbs/-/A-51962840", 
+        "release_date": "", 
+        "upc": "863686004928", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Package Type:</B> individual item multi-serving", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

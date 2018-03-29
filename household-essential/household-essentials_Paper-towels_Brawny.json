@@ -1,0 +1,91 @@
+[
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "Brawny", 
+        "tcin": "53405046", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53405046_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53405046_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53405046"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Paper towels", 
+            "Brawny"
+        ], 
+        "title": "Brawny Pick-a-Size Paper Towels - XL Rolls", 
+        "url": "/p/brawny-pick-a-size-paper-towels-xl-rolls/-/A-53405046", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 8", 
+            "<B>Sheets Per Roll:</B> 140", 
+            "<B>Features:</B> Unprinted, embossed, variable sheet size, Two-Ply", 
+            "<B>Disposable:</B> do not flush"
+        ]
+    }, 
+    {
+        "description": "In honor of Women's History Month, the Brawny\u00ae brand celebrates women and their heroic stories. The Brawny\u00ae brand is proud to support Girls Inc. which inspires girls to be strong, smart, and bold. Let's shape a better future and prove #Strength HasNo Gender. Stay Giant\u00ae.", 
+        "dpci": "253-03-0049", 
+        "brand": "Brawny", 
+        "tcin": "53197582", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53197582_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53197582", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53197582_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53197582"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Paper towels", 
+            "Brawny"
+        ], 
+        "title": "Brawny Paper Towels - 6 Large Rolls", 
+        "url": "/p/brawny-paper-towels-6-large-rolls/-/A-53197582", 
+        "release_date": "", 
+        "upc": "042000440806", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Brawny Roll Sizes: Large (L), XL, & XXL", 
+                "6 Large Rolls =  8 Brawny&#174; Regular Rolls", 
+                "Premium 2-ply White Paper Towels", 
+                "Love Brawny&#174; Paper Towels? Try Quilted Northern&#174; Bath Tissue."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 6", 
+            "<B>Sheets Per Roll:</B> 87", 
+            "<B>Disposable:</B> do not flush"
+        ]
+    }
+]

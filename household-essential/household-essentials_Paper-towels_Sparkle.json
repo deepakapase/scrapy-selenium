@@ -1,0 +1,88 @@
+[
+    {
+        "description": "Keep it classic with Sparkle\u00ae Just White 2-ply paper towels. They\u2019re just right for your everyday messes without wiping out your savings! With the 24 Giant Pick-A-Size\u00ae, it\u2019s like you are actually getting 36 Sparkle\u00ae", 
+        "dpci": "253-03-0020", 
+        "brand": "Sparkle", 
+        "tcin": "50491539", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "50491539_Alt01", 
+                    "50491539_Alt02", 
+                    "50491539_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50491539"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Paper towels", 
+            "Sparkle"
+        ], 
+        "title": "Sparkle Pick-A-Size Paper Towels - 24 Giant Rolls", 
+        "url": "/p/sparkle-pick-a-size-paper-towels-24-giant-rolls/-/A-50491539", 
+        "release_date": "", 
+        "upc": "030400216626", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 24", 
+            "<B>Sheets Per Roll:</B> 102", 
+            "<B>Disposable:</B> do not flush"
+        ]
+    }, 
+    {
+        "description": "Sparkle Pick-A-Size Paper Towels are great for cleaning jobs all over the house. These bulk paper towels have Thirst Pockets, so they're super absorbent. Each Sparkle paper towels twin pack is equivalent to 3 regular rolls.", 
+        "dpci": "253-03-0222", 
+        "brand": "Sparkle", 
+        "tcin": "52243022", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52243022_Alt01", 
+                    "52243022_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52243022_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52243022_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52243022"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Paper towels", 
+            "Sparkle"
+        ], 
+        "title": "Sparkle Pick-A-Size Paper Towels - 2 Giant Rolls", 
+        "url": "/p/sparkle-pick-a-size-paper-towels-2-giant-rolls/-/A-52243022", 
+        "release_date": "", 
+        "upc": "030400217890", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Highly absorbent", 
+                "Durable yet soft", 
+                "Pretty print", 
+                "No lint residue", 
+                "24 rolls"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 24", 
+            "<B>Sheets Per Roll:</B> 98", 
+            "<B>Disposable:</B> do not flush"
+        ]
+    }
+]

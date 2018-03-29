@@ -1,0 +1,239 @@
+[
+    {
+        "description": "", 
+        "dpci": "288-04-0026", 
+        "brand": "Reddy Ice", 
+        "tcin": "47105883", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47105883"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Reddy Ice Packaged Ice 10 lb", 
+        "url": "/p/reddy-ice-packaged-ice-10-lb/-/A-47105883", 
+        "release_date": "", 
+        "upc": "041271971101", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1", 
+            "<B>Form:</B> chunks"
+        ]
+    }, 
+    {
+        "description": "Arctic Glacier Packaged Ice, perfect for everyday use, parties or events. IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0001", 
+        "brand": "Arctic Glacier", 
+        "tcin": "31173091", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173091"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Arctic Glacier Ice Bag 5 LB", 
+        "url": "/p/arctic-glacier-ice-bag-5-lb/-/A-31173091", 
+        "release_date": "", 
+        "upc": "074608352052", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1"
+        ]
+    }, 
+    {
+        "description": "Storage: Keep frozen.", 
+        "dpci": "288-04-0028", 
+        "brand": "Artisan Bistro", 
+        "tcin": "47105884", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47105884"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Arctic Glacier Ice Bag 7 lb", 
+        "url": "/p/arctic-glacier-ice-bag-7-lb/-/A-47105884", 
+        "release_date": "", 
+        "upc": "074608350072", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Clear.", 
+                "Cold.", 
+                "Tasteless Premium Ice.", 
+                "Product of USA."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Serving Size:</B> .500 ounces", 
+            "<B>Servings per Container:</B> 50.000", 
+            "<B>Containers per Package:</B> 1.000"
+        ]
+    }, 
+    {
+        "description": "Alhambra Premium Ice in a convenient 9LB master pack containing three individual 3LB packages of ice. IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0036", 
+        "brand": "Arctic Glacier", 
+        "tcin": "31173102", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173102"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Alhambra Premium Ice 3 pk 3 lb", 
+        "url": "/p/alhambra-premium-ice-3-pk-3-lb/-/A-31173102", 
+        "release_date": "", 
+        "upc": "070947000333", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1"
+        ]
+    }, 
+    {
+        "description": "Arctic Glacier Packaged Ice, perfect for everyday use, parties or events. IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0006", 
+        "brand": "Artisan Bistro", 
+        "tcin": "31173093", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173093"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Arctic Glacier Ice Bag 20 LB", 
+        "url": "/p/arctic-glacier-ice-bag-20-lb/-/A-31173093", 
+        "release_date": "", 
+        "upc": "074608350201", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1"
+        ]
+    }, 
+    {
+        "description": "Packaged Ice perfect for everyday use, parties or events.  IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0032", 
+        "brand": "Cape Cod", 
+        "tcin": "31173100", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173100"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Cape Cod Food Grade Ice 5Lb", 
+        "url": "/p/cape-cod-food-grade-ice-5lb/-/A-31173100", 
+        "release_date": "", 
+        "upc": "034659000050", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1"
+        ]
+    }, 
+    {
+        "description": "Arctic Glacier Packaged Ice, perfect for everyday use, parties or events. IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0027", 
+        "brand": "Arctic Glacier", 
+        "tcin": "31173097", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173097"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Arctic Glacier Bag Ice Cubes 5 LB", 
+        "url": "/p/arctic-glacier-bag-ice-cubes-5-lb/-/A-31173097", 
+        "release_date": "", 
+        "upc": "074608350065", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Serving Size:</B> 1 ounces", 
+            "<B>Servings per Container:</B> 1", 
+            "<B>Containers per Package:</B> 1"
+        ]
+    }, 
+    {
+        "description": "Arctic Glacier Packaged Ice, perfect for everyday use, parties or events. IPIA inspected and certified so you are assured of the highest quality Ice.", 
+        "dpci": "288-04-0029", 
+        "brand": "Arctic Glacier", 
+        "tcin": "31173099", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "31173099"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Frozen foods", 
+            "ice"
+        ], 
+        "title": "Arctic Glacier Ice Bag 16 LB", 
+        "url": "/p/arctic-glacier-ice-bag-16-lb/-/A-31173099", 
+        "release_date": "", 
+        "upc": "074608350164", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": []
+    }
+]

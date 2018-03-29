@@ -1,0 +1,502 @@
+[
+    {
+        "description": "", 
+        "dpci": "266-08-0005", 
+        "brand": "Driscoll's", 
+        "tcin": "13208903", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13208903"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Whole Strawberries - 1lb", 
+        "url": "/p/whole-strawberries-1lb/-/A-13208903", 
+        "release_date": "", 
+        "upc": "885443200275", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "266-08-4240", 
+        "brand": "Driscoll's", 
+        "tcin": "13208898", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13208898"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Blackberries 1lb", 
+        "url": "/p/blackberries-1lb/-/A-13208898", 
+        "release_date": "", 
+        "upc": "810376010653", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For the finest in berries the world try Driscoll's.", 
+        "dpci": "266-08-4054", 
+        "brand": "Driscoll's", 
+        "tcin": "13208899", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13208899"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Raspberries - 6oz", 
+        "url": "/p/raspberries-6oz/-/A-13208899", 
+        "release_date": "", 
+        "upc": "715756100019", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "A source of dietary fiber and antioxidants", 
+                "Excellent sources of vitamin C", 
+                "Product of Mexico"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "266-08-0007", 
+        "brand": "Driscoll's", 
+        "tcin": "17296921", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17296921"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Strawberries - 2lb", 
+        "url": "/p/strawberries-2lb/-/A-17296921", 
+        "release_date": "", 
+        "upc": "850789002043", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For the finest in berries the world try Driscoll's.", 
+        "dpci": "266-08-4239", 
+        "brand": "Driscoll's", 
+        "tcin": "26397639", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "26397639"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Fresh Blackberries - 12oz", 
+        "url": "/p/fresh-blackberries-12oz/-/A-26397639", 
+        "release_date": "", 
+        "upc": "715756100200", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Product of Mexico", 
+                "Rich in vitamin C"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "This carton of Raspberries from Driscoll's\u00ae is filled with a great dose of antioxidants, vitamins and fiber, making it an excellent addition to many recipes. Blend with other fruits to create a fruity smoothie, use as a yogurt or ice cream topping or freeze and enjoy as a healthy afternoon snack.", 
+        "dpci": "266-08-5054", 
+        "brand": "Driscoll's", 
+        "tcin": "15014058", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15014058"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Raspberries 12oz", 
+        "url": "/p/raspberries-12oz/-/A-15014058", 
+        "release_date": "", 
+        "upc": "715756100033", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rich in vitamins, fiber and antioxidants", 
+                "Eat them as is or blend with other fruits for a smoothie", 
+                "Makes a great and healthy yogurt or ice cream topping"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For a delicious snack that tastes great and is full of flavor, reach for these Organic Blueberries from Driscoll's. Perfect to pop in your mouth when you need a quick snack and great to add into other foods, these blueberries are a versatile choice. Mix them into smoothies, add them into yogurt or pair them with your oatmeal for extra tasty flavor.", 
+        "dpci": "266-50-0040", 
+        "brand": "", 
+        "tcin": "16247782", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16247782"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Organic Blueberries - 4.4oz", 
+        "url": "/p/organic-blueberries-4-4oz/-/A-16247782", 
+        "release_date": "", 
+        "upc": "813635010364", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Makes a quick and easy snack", 
+                "Sweet, juicy flavor", 
+                "Delicious on their own or with other foods"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "These Organic Strawberries are sweet, delicious and full of juicy flavor with every bite. They are great to eat on their own as a healthier snack or to chop up and add to desserts like strawberry shortcake, fruit pizza or cheesecake. You can even add them into smoothies, juices or salads for additional flavor.", 
+        "dpci": "266-50-0017", 
+        "brand": "", 
+        "tcin": "16247783", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16247783"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Organic Strawberries 1 lb", 
+        "url": "/p/organic-strawberries-1-lb/-/A-16247783", 
+        "release_date": "", 
+        "upc": "715756200375", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Makes a quick and easy snack", 
+                "Sweet, juicy flavor", 
+                "Delicious on their own or with other foods"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Sweet, delicious and full of flavor, these Organic Raspberries from Driscoll's make the perfect snack. They make a tasty treat to go along with chocolate and desserts, and are just as yummy on their own. You can even add them into smoothies, juices or salads for additional flavor.", 
+        "dpci": "266-50-0002", 
+        "brand": "", 
+        "tcin": "16247779", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16247779"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Organic Raspberries - 6oz", 
+        "url": "/p/organic-raspberries-6oz/-/A-16247779", 
+        "release_date": "", 
+        "upc": "715756100040", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Makes a quick and easy snack", 
+                "Sweet, juicy flavor", 
+                "Delicious on their own or with other foods"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For the finest in berries the world try Driscoll's.", 
+        "dpci": "266-08-5239", 
+        "brand": "Driscoll's", 
+        "tcin": "13208820", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13208820"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Fresh Blackberries - 12oz", 
+        "url": "/p/fresh-blackberries-12oz/-/A-13208820", 
+        "release_date": "", 
+        "upc": "715756100248", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rich in vitamin C", 
+                "Product of Mexico"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For the finest in berries the world try Driscoll's.", 
+        "dpci": "266-50-0003", 
+        "brand": "Driscoll's", 
+        "tcin": "26397638", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "26397638"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Organic Blackberries - 6oz", 
+        "url": "/p/organic-blackberries-6oz/-/A-26397638", 
+        "release_date": "", 
+        "upc": "715756100224", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "USDA and CCOF certified organic", 
+                "Product of Mexico", 
+                "Rich in vitamin C"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Snack and recipe ideas are endless when it comes to blueberries. When you need an easy, nutritious snack, just grab a quick handful right out of the package. Toss some in your pancake batter for a delicious breakfast, or add them to your oatmeal for extra flavor. Fitting right in a fruit salad, add in strawberries, kiwis, grapes and melon for a yummy side everyone loves.", 
+        "dpci": "266-08-1999", 
+        "brand": "", 
+        "tcin": "16238004", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16238004"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Blueberries - 6oz", 
+        "url": "/p/blueberries-6oz/-/A-16238004", 
+        "release_date": "", 
+        "upc": "033383222288", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Makes a quick and easy snack", 
+                "&nbsp;Delicious on their own or added to recipes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "266-08-4242", 
+        "brand": "Ocean Spray", 
+        "tcin": "47098229", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47098229"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Ocean Spray Fresh Cranberries 12 oz", 
+        "url": "/p/ocean-spray-fresh-cranberries-12-oz/-/A-47098229", 
+        "release_date": "", 
+        "upc": "031200300041", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "For the finest in berries the world try Driscoll's.<br><br>Directions<br>Wash before use.", 
+        "dpci": "266-08-6000", 
+        "brand": "Driscoll's", 
+        "tcin": "26397636", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "26397636"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "berries"
+        ], 
+        "title": "Blue Berries - 18oz", 
+        "url": "/p/blue-berries-18oz/-/A-26397636", 
+        "release_date": "", 
+        "upc": "715756300167", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rich in vitamin C", 
+                "Product of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "description": "", 
+        "dpci": "211-21-4079", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919692", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919692"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "cauliflower"
+        ], 
+        "title": "Wrapped Cauliflower ea.", 
+        "url": "/p/wrapped-cauliflower-ea/-/A-14919692", 
+        "release_date": "", 
+        "upc": "605806000300", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-50-0022", 
+        "brand": "Veg-Land", 
+        "tcin": "15407759", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407759"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "cauliflower"
+        ], 
+        "title": "Organic Wrapped Cauliflower ea.", 
+        "url": "/p/organic-wrapped-cauliflower-ea/-/A-15407759", 
+        "release_date": "", 
+        "upc": "033383904054", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Storage State:</B> refrigerated"
+        ]
+    }
+]

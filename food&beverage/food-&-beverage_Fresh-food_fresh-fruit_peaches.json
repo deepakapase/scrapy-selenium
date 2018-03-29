@@ -1,0 +1,33 @@
+[
+    {
+        "description": "", 
+        "dpci": "266-03-0010", 
+        "brand": "", 
+        "tcin": "15026010", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15026010"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "peaches"
+        ], 
+        "title": "Peach", 
+        "url": "/p/peach/-/A-15026010", 
+        "release_date": "", 
+        "upc": "204038000005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

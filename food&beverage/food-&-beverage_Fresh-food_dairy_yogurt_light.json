@@ -1,0 +1,91 @@
+[
+    {
+        "description": "Sweet, dreamy vanilla is anything but ordinary! It's an original favorite when mixed with the nonfat yogurt you know and love. 80 calories per 5.3oz serving, 40% fewer calories than regular lowfat yogurt, 0% fat and 2x the protein of regular lowfat yogurt", 
+        "dpci": "284-10-1592", 
+        "brand": "Dannon", 
+        "tcin": "17034933", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "17034933", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17034933"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "light"
+        ], 
+        "title": "Dannon Light and Fit Original Vanilla Flavored Greek Yogurt - 32oz", 
+        "url": "/p/dannon-light-and-fit-original-vanilla-flavored-greek-yogurt-32oz/-/A-17034933", 
+        "release_date": "", 
+        "upc": "036632032737", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "80 calories per 5.3oz serving", 
+                "40% fewer calories than regular lowfat yogurt,", 
+                "0% fat", 
+                "2x the protein of regular lowfat yogurt .", 
+                "Kosher"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> Greek style", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> tub", 
+            "<B>Flavor:</B> vanilla"
+        ]
+    }, 
+    {
+        "description": "Sweet and tangy raspberry flavor mingles with chocolate and achieves luscious harmony. The best part? This mouthwatering 5.3 ounce snack is 80 calories and 0 grams of fat.", 
+        "dpci": "284-10-1111", 
+        "brand": "Dannon", 
+        "tcin": "15029496", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15029496"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "light"
+        ], 
+        "title": "Dannon&#174; Light & Fit Greek Blends Raspberry Chocolate - 5.3oz / 4ct", 
+        "url": "/p/dannon-174-light-fit-greek-blends-raspberry-chocolate-5-3oz-4ct/-/A-15029496", 
+        "release_date": "", 
+        "upc": "036632037589", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "80 calories per 5.3oz serving", 
+                "40% fewer calories than regular lowfat yogurt", 
+                "0% fat", 
+                "2x the protein of regular lowfat yogurt", 
+                "Kosher"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> Greek style", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> raspberry", 
+            "<B>Milk Fat Level:</B> fat free"
+        ]
+    }
+]

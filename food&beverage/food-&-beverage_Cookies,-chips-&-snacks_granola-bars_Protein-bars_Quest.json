@@ -1,0 +1,1481 @@
+[
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Chip Cookie Dough Quest Bar is a smarter snacking option when you\u2019re craving sweets but don\u2019t want all the junk.", 
+        "dpci": "094-08-2543", 
+        "brand": "Quest", 
+        "tcin": "52047991", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52047991_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52047991"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Chocolate Chip Cookie Dough - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-chocolate-chip-cookie-dough-4ct/-/A-52047991", 
+        "release_date": "", 
+        "upc": "888849003853", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Cookie Dough flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> Cookie dough, chocolate chip", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Cookies & Cream Quest Bar is a smarter way to replace your junk food cravings with something that tastes as good as it is good for you.", 
+        "dpci": "094-08-2522", 
+        "brand": "Quest", 
+        "tcin": "52047995", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52047995_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52047995"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Cookies & Cream - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-cookies-cream-4ct/-/A-52047995", 
+        "release_date": "", 
+        "upc": "888849003860", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious cookies & cream flavor with real cookie chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> cookies and cream", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Oatmeal Chocolate Chip Quest Bar has all the chewy, satisfying taste of grandma\u2019s cookies fresh out of the oven without the junk.", 
+        "dpci": "094-08-2545", 
+        "brand": "Quest", 
+        "tcin": "52048003", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048003_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048003"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Oatmeal Chocolate Chip - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-oatmeal-chocolate-chip-4ct/-/A-52048003", 
+        "release_date": "", 
+        "upc": "888849005178", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delicious oatmeal chocolate chip flavor with real chocolate chips", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate chip, oatmeal", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Blueberry Muffin Quest Bar is the perfect protein bar for anyone who wants a smarter breakfast snack any time of the day.", 
+        "dpci": "094-08-2544", 
+        "brand": "Quest", 
+        "tcin": "52047999", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52047999_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52047999"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Blueberry Muffin - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-blueberry-muffin-4ct/-/A-52047999", 
+        "release_date": "", 
+        "upc": "888849005222", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "2g Sugar", 
+                "Delicious blueberry muffin flavor with real blueberries inside", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> blueberry", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The S\u2019Mores Quest Bar lets you indulge in a sweet treat from your childhood without the guilt.", 
+        "dpci": "094-08-2520", 
+        "brand": "Quest", 
+        "tcin": "52048006", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048006_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048006"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - S'mores - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-s-mores-4ct/-/A-52048006", 
+        "release_date": "", 
+        "upc": "888849003891", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delicious S&rsquo;Mores flavor with real chocolate chips and graham cracker chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> S'mores", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Brownie Quest Bar is the perfect low carb replacement for your favorite dessert without sacrificing on flavor.", 
+        "dpci": "094-08-2525", 
+        "brand": "Quest", 
+        "tcin": "52047996", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52047996_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52047996"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Chocolate Brownie - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-chocolate-brownie-4ct/-/A-52047996", 
+        "release_date": "", 
+        "upc": "888849003921", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "6g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Chocolate Brownie flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> brownie", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Mint Chocolate Chunk Quest Bar captures the flavor of mint chocolate chip ice cream with nutrition as refreshing as the taste..", 
+        "dpci": "094-08-2521", 
+        "brand": "Quest", 
+        "tcin": "52048011", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048011_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048011"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Mint Chocolate Chunk - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-mint-chocolate-chunk-4ct/-/A-52048011", 
+        "release_date": "", 
+        "upc": "888849003884", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Decadent chocolate flavor bar with refreshing minty chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate, mint", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The White Chocolate Raspberry Quest Bar is a sweet indulgence of fruit and white chocolate you can enjoy anytime.", 
+        "dpci": "094-08-2519", 
+        "brand": "Quest", 
+        "tcin": "52048009", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048009_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048009"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - White Chocolate Raspberry - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-white-chocolate-raspberry-4ct/-/A-52048009", 
+        "release_date": "", 
+        "upc": "888849003877", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "6g Net Carbs per bar", 
+                "2g Sugar", 
+                "Delicious White Chocolate Raspberry flavor with real freeze dried raspberries", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> raspberry, white chocolate", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Peanut Butter Quest Bar combines your two favorite flavors in a delicious, lip smacking combo.", 
+        "dpci": "094-08-2523", 
+        "brand": "Quest", 
+        "tcin": "52048018", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048018_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048018"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Chocolate Peanut Butter - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-chocolate-peanut-butter-4ct/-/A-52048018", 
+        "release_date": "", 
+        "upc": "888849003907", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delectable Chocolate Peanut Butter flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate, peanut butter", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Waking up just got more delicious. The Mocha Chocolate Chip Quest Bar is the perfect complement to your breakfast routine. Every chewy bite is filled with coffee flavor and chocolate chunks. With 20 grams of protein, only 180 calories and 4 grams Net Carbs, the Mocha Chocolate Chip Quest Bar combines excellent taste with a great nutritional profile and is caffeine free.", 
+        "dpci": "094-08-0612", 
+        "brand": "Quest Nutrition", 
+        "tcin": "52685497", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52685497_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52685497_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52685497", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52685497"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Mocha Chocolate Chip - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-mocha-chocolate-chip-4ct/-/A-52685497", 
+        "release_date": "", 
+        "upc": "888849005635", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Mocha Chocolate Chip flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate chip, mocha", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Double Chocolate Chunk Quest Bar provides chocolate lovers with a double dose of their favorite treat using natural sweeteners and better ingredients.", 
+        "dpci": "094-08-2524", 
+        "brand": "Quest", 
+        "tcin": "52048014", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048014_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048014"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Double Chocolate Chunk - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-double-chocolate-chunk-4ct/-/A-52048014", 
+        "release_date": "", 
+        "upc": "888849003914", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar (Sweetened with Stevia Extract and Erythritol)", 
+                "Delicious Double Chocolate flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Apple Pie Quest Bar tastes like an apple pie fresh out of the oven, but one that you can eat anytime and still feel great.", 
+        "dpci": "094-08-2518", 
+        "brand": "Quest", 
+        "tcin": "52048022", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048022_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048022"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Apple Pie - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-apple-pie-4ct/-/A-52048022", 
+        "release_date": "", 
+        "upc": "888849003945", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "7g Net Carbs per bar", 
+                "3g Sugar", 
+                "Delicious Apple Pie flavor with real apples inside", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> apple", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "We\u2019ve gone nuts! (and marshmallows, and chocolate!) Relive the chewy, chunky goodness of your favorite childhood ice cream flavor, one protein-packed bite at a time.\u00a0Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Rocky Road Quest Bar is a smarter snacking option when you\u2019re craving sweets but don\u2019t want all the junk.", 
+        "dpci": "094-08-0611", 
+        "brand": "Quest Nutrition", 
+        "tcin": "52685494", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52685494_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52685494_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52685494", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52685494"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Rocky Road - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-rocky-road-4ct/-/A-52685494", 
+        "release_date": "", 
+        "upc": "888849005239", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Rocky Road flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> marshmallow, Peanut, chocolate", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Cinnamon Roll Quest Bar delivers a sweet, chewy cinnamon breakfast taste using natural sweeteners.", 
+        "dpci": "094-08-2546", 
+        "brand": "Quest", 
+        "tcin": "52048021", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52048021_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52048021"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition&#174; Protein Bar - Cinnamon Roll - 4ct", 
+        "url": "/p/quest-nutrition-174-protein-bar-cinnamon-roll-4ct/-/A-52048021", 
+        "release_date": "", 
+        "upc": "888849003938", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Scrumptious Cinnamon Roll flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> cinnamon", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Chip Cookie Dough Quest Bar is a smarter snacking option when you're craving sweets but don't want all the junk.", 
+        "dpci": "094-08-2570", 
+        "brand": "Quest", 
+        "tcin": "53111647", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111647_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111647_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111647", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111647"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Chocolate Chip Protein Bar 12ct", 
+        "url": "/p/quest-chocolate-chip-protein-bar-12ct/-/A-53111647", 
+        "release_date": "", 
+        "upc": "888849000036", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Cookie Dough flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> Cookie dough, chocolate chip", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Oatmeal Chocolate Chip Quest Bar has all the chewy, satisfying taste of grandma's cookies fresh out of the oven without the junk.", 
+        "dpci": "094-08-2573", 
+        "brand": "Quest", 
+        "tcin": "53111659", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111659_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111659", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111659_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111659"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Oatmeal Chocolate Chip Protein Bar 12ct", 
+        "url": "/p/quest-oatmeal-chocolate-chip-protein-bar-12ct/-/A-53111659", 
+        "release_date": "", 
+        "upc": "888849004645", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delicious oatmeal chocolate chip flavor with real chocolate chips", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate chip, oatmeal", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Cookies & Cream Quest Bar is a smarter way to replace your junk food cravings with something that tastes as good as it is good for you.", 
+        "dpci": "094-08-1035", 
+        "brand": "Quest", 
+        "tcin": "53111667", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111667_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111667", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111667_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111667"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Nutrition Protein Bar Cookie 12ct", 
+        "url": "/p/quest-nutrition-protein-bar-cookie-12ct/-/A-53111667", 
+        "release_date": "", 
+        "upc": "888849000029", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious cookies & cream flavor with real cookie chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> cookies and cream", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Double Chocolate Chunk Quest Bar provides chocolate lovers with a double dose of their favorite treat using natural sweeteners and better ingredients.", 
+        "dpci": "094-08-2568", 
+        "brand": "Quest", 
+        "tcin": "53111668", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111668_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111668", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111668_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111668"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Double Chocolate Chunk Protein Bar 12ct", 
+        "url": "/p/quest-double-chocolate-chunk-protein-bar-12ct/-/A-53111668", 
+        "release_date": "", 
+        "upc": "888849000241", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar (Sweetened with Stevia Extract and Erythritol)", 
+                "Delicious Double Chocolate flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate, chocolate chip", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Blueberry Muffin Quest Bar is the perfect protein bar for anyone who wants a smarter breakfast snack any time of the day.", 
+        "dpci": "094-08-2574", 
+        "brand": "Quest", 
+        "tcin": "53111671", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111671_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111671_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111671", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111671"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Blueberry Muffin Protein Bar 12ct", 
+        "url": "/p/quest-blueberry-muffin-protein-bar-12ct/-/A-53111671", 
+        "release_date": "", 
+        "upc": "888849004638", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "21g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "2g Sugar", 
+                "Delicious blueberry muffin flavor with real blueberries inside", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> blueberry", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Cinnamon Roll Quest Bar delivers a sweet, chewy cinnamon breakfast taste using natural sweeteners.", 
+        "dpci": "094-08-2566", 
+        "brand": "Quest", 
+        "tcin": "53111649", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111649_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111649", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111649_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111649"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Cinnamon Roll Protein Bar 12ct", 
+        "url": "/p/quest-cinnamon-roll-protein-bar-12ct/-/A-53111649", 
+        "release_date": "", 
+        "upc": "888849000449", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Scrumptious Cinnamon Roll flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> cinnamon", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The White Chocolate Raspberry Quest Bar is a sweet indulgence of fruit and white chocolate you can enjoy anytime.", 
+        "dpci": "094-08-2571", 
+        "brand": "Quest", 
+        "tcin": "53111657", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111657_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111657", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111657_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111657"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest White Chocolate Raspberry Protein Bar 12ct", 
+        "url": "/p/quest-white-chocolate-raspberry-protein-bar-12ct/-/A-53111657", 
+        "release_date": "", 
+        "upc": "888849000227", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "6g Net Carbs per bar", 
+                "2g Sugar", 
+                "Delicious White Chocolate Raspberry flavor with real freeze dried raspberries", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> raspberry, white chocolate", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Mint Chocolate Chunk Quest Bar captures the flavor of mint chocolate chip ice cream with nutrition as refreshing as the taste..", 
+        "dpci": "094-08-2572", 
+        "brand": "Quest", 
+        "tcin": "53111648", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111648_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111648_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111648", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111648"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Mint Chocolate Chunk Protein Bar 12ct", 
+        "url": "/p/quest-mint-chocolate-chunk-protein-bar-12ct/-/A-53111648", 
+        "release_date": "", 
+        "upc": "888849001378", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Decadent chocolate flavor bar with refreshing minty chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate chip, mint", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Peanut Butter Quest Bar combines your two favorite flavors in a delicious, lip smacking combo.", 
+        "dpci": "094-08-2565", 
+        "brand": "Quest", 
+        "tcin": "53111624", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111624_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111624_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111624", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111624"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Chocolate Peanut Butter Protein Bar 12ct", 
+        "url": "/p/quest-chocolate-peanut-butter-protein-bar-12ct/-/A-53111624", 
+        "release_date": "", 
+        "upc": "888849000463", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delectable Chocolate Peanut Butter flavor with natural sweeteners Stevia and Erythritol", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate, peanut butter", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Chocolate Brownie Quest Bar is the perfect low carb replacement for your favorite dessert without sacrificing on flavor.", 
+        "dpci": "094-08-2569", 
+        "brand": "Quest", 
+        "tcin": "53111620", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111620_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111620", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111620_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111620"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Chocolate Brownie Protein Bar 12ct", 
+        "url": "/p/quest-chocolate-brownie-protein-bar-12ct/-/A-53111620", 
+        "release_date": "", 
+        "upc": "888849000425", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "6g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Chocolate Brownie flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "15g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> brownie, chocolate", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The S'Mores Quest Bar lets you indulge in a sweet treat from your childhood without the guilt.", 
+        "dpci": "094-08-1041", 
+        "brand": "Quest", 
+        "tcin": "53111625", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111625_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111625", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111625_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111625"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Protein Bar 12ct", 
+        "url": "/p/quest-protein-bar-12ct/-/A-53111625", 
+        "release_date": "", 
+        "upc": "888849001231", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "4g Net Carbs per bar", 
+                "1g Sugar", 
+                "Delicious S'Mores flavor with real chocolate chips and graham cracker chunks", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> S'mores", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Apple Pie Quest Bar tastes like an apple pie fresh out of the oven, but one that you can eat anytime and still feel great.", 
+        "dpci": "094-08-2567", 
+        "brand": "Quest", 
+        "tcin": "53111658", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111658_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111658_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111658", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111658"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Apple Pie Protein Bar 12ct", 
+        "url": "/p/quest-apple-pie-protein-bar-12ct/-/A-53111658", 
+        "release_date": "", 
+        "upc": "888849000647", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "7g Net Carbs per bar", 
+                "3g Sugar", 
+                "Delicious Apple Pie flavor with real apples inside", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "14g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> apple", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "Satisfy your sweet tooth while staying on track with the Quest Mocha Chocolate Chip Protein Bar. These delicious Quest bars have a satisfying, chewy texture with the delightful crunch of chocolate chips throughout. You'll be able to trick yourself into thinking you're enjoying a rich, decadent brownie, even though this protein bar only has four net carbs and less than one gram of sugar.", 
+        "dpci": "094-08-2576", 
+        "brand": "Quest", 
+        "tcin": "53111652", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111652_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111652_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111652", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111652"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Mocha Chocolate Chip Protein Bar 12ct", 
+        "url": "/p/quest-mocha-chocolate-chip-protein-bar-12ct/-/A-53111652", 
+        "release_date": "", 
+        "upc": "888849005369", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Pack of 12 delicious chewy protein bars so you always have one on hand", 
+                "20g of protein, 14g of fiber and only 4 net carbs per bar", 
+                "Satisfy hunger and your sweet tooth", 
+                "Less than 1g of sugar per bar"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> chocolate chip, mocha", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }, 
+    {
+        "description": "We've gone nuts! (and marshmallows, and chocolate!) Relive the chewy, chunky goodness of your favorite childhood ice cream flavor, one protein-packed bite at a time.\u00a0Quest Protein Bars deliver excellent nutrition with incredible taste. Every bar is high protein, low carb and made with ingredients that can have a positive impact on your fitness and nutrition goals. The Rocky Road Quest Bar is a smarter snacking option when you're craving sweets but don't want all the junk.", 
+        "dpci": "094-08-2575", 
+        "brand": "Quest", 
+        "tcin": "53111630", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53111630_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53111630", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53111630_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53111630"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Protein bars", 
+            "Quest"
+        ], 
+        "title": "Quest Rocky Road Protein Bar 12ct", 
+        "url": "/p/quest-rocky-road-protein-bar-12ct/-/A-53111630", 
+        "release_date": "", 
+        "upc": "888849003730", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20g Protein per bar", 
+                "5g Net Carbs per bar", 
+                "<1g Sugar", 
+                "Delicious Rocky Road flavor", 
+                "Low Calorie, low carb snack", 
+                "Gluten Free", 
+                "13g Dietary Fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Health Concern:</B> Energy, Sports Performance, endurance", 
+            "<B>Flavor:</B> Peanut, chocolate, marshmallow", 
+            "<B>Protein Grams per Serving:</B> 20 grams"
+        ]
+    }
+]

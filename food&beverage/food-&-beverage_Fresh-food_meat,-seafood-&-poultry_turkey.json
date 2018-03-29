@@ -1,0 +1,710 @@
+[
+    {
+        "description": "", 
+        "dpci": "226-05-0029", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47134652", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47134652", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134652"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey Breast - 10 lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/frozen-turkey-breast-10-lbs-price-per-lb-market-pantry-153/-/A-47134652", 
+        "release_date": "", 
+        "upc": "942222512247", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-0019", 
+        "brand": "Butterball", 
+        "tcin": "52461064", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52461064", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52461064"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Frozen Turkey - 10-16 lbs", 
+        "url": "/p/butterball-frozen-turkey-10-16-lbs/-/A-52461064", 
+        "release_date": "", 
+        "upc": "211900000001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Tender and juicy, Butterball Frozen Whole Turkeys are all natural, gluten free, raised without hormones and American Humane Certified.  Butterball Frozen Whole Turkeys give you the highest quality turkey for your holiday meal.\u200b", 
+        "dpci": "226-05-6216", 
+        "brand": "Butterball", 
+        "tcin": "47134718", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134718"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Frozen Turkey - 20-24lbs - price per lb.", 
+        "url": "/p/butterball-frozen-turkey-20-24lbs-price-per-lb/-/A-47134718", 
+        "release_date": "", 
+        "upc": "022655010234", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Tender and juicy, Butterball Frozen Whole Turkeys are all natural, gluten free, raised without hormones and American Humane Certified.  Butterball Frozen Whole Turkeys give you the highest quality turkey for your holiday meal.\u200b", 
+        "dpci": "226-05-6214", 
+        "brand": "Butterball", 
+        "tcin": "47134716", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134716"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Frozen Turkey - 16-20lbs - price per lb.", 
+        "url": "/p/butterball-frozen-turkey-16-20lbs-price-per-lb/-/A-47134716", 
+        "release_date": "", 
+        "upc": "216214000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "The 20/24 Market Pantry Frozen Turkey is a premium, Grade A, young turkey which weighs from 20 to 24 pounds.  For food safety, cook to an internal temperarture of 165 degrees Fahrenheit as measured by a food thermometer.  Oven temperatures may vary, so adjust cooking times accordingly.  Refrigerate or discard leftovers immediately.", 
+        "dpci": "226-05-0012", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47900110", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47900110", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47900110"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 20-24 lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/frozen-turkey-20-24-lbs-price-per-lb-market-pantry-153/-/A-47900110", 
+        "release_date": "", 
+        "upc": "942222170638", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "The 12/16 Market Pantry Frozen Turkey is a premium, Grade A, young turkey which weighs from 12 to 16 pounds.  For food safety, cook to an internal temperarture of 165 degrees Fahrenheit as measured by a food thermometer.  Oven temperatures may vary, so adjust cooking times accordingly.  Refrigerate or discard leftovers immediately.", 
+        "dpci": "226-05-0010", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47900107", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47900107"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 12-16lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/frozen-turkey-12-16lbs-price-per-lb-market-pantry-153/-/A-47900107", 
+        "release_date": "", 
+        "upc": "942222120633", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "The 16/20 Market Pantry Frozen Turkey is a premium, Grade A, young turkey which weighs from 16 to 20 pounds.  For food safety, cook to an internal temperarture of 165 degrees Fahrenheit as measured by a food thermometer.  Oven temperatures may vary, so adjust cooking times accordingly.  Refrigerate or discard leftovers immediately.", 
+        "dpci": "226-05-0011", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47899815", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47899815", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47899815"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 16-20 lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/frozen-turkey-16-20-lbs-price-per-lb-market-pantry-153/-/A-47899815", 
+        "release_date": "", 
+        "upc": "942222170614", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Keep a big family meal or a Thanksgiving dinner easy, delicious and one you can feel good about with the Butterball Premium All Natural Frozen Turkey. This hormone-free whole turkey gives you the perfect tender and juicy meal every time. With less time spent worrying about the turkey, you'll more time to relax with your family.", 
+        "dpci": "226-05-6212", 
+        "brand": "Butterball", 
+        "tcin": "47134714", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134714"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Frozen Turkey - 12-16 lbs - price per lb.", 
+        "url": "/p/butterball-frozen-turkey-12-16-lbs-price-per-lb/-/A-47134714", 
+        "release_date": "", 
+        "upc": "216212000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Natural, hormone-free turkey keeps you feeling great about the meal", 
+                "Gives you a tender and juicy meal every time", 
+                "Perfect staple of any holiday meal"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-0023", 
+        "brand": "market pantry&#153;", 
+        "tcin": "52610578", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52610578", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52610578"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 10-16lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/frozen-turkey-10-16lbs-price-per-lb-market-pantry-153/-/A-52610578", 
+        "release_date": "", 
+        "upc": "942222120626", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Cuisine Type:</B> American inspired", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Whether you're making an at-home dinner or you're preparing a holiday feast, make it easy with this Cook-in-bag Homestyle Turkey from Archer Farms\u0099. Convenient and as easy as ever, simply take it out of the freezer, place it in a roasting pan and pop it in the oven - no thawing necessary. Your guests will ooh and ahh over how tender, juicy and flavorful your turkey is. Complete your dinner with mashed potatoes, green bean casserole and a delectable dessert for a dining experience that no one will forget.", 
+        "dpci": "268-06-0010", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "15013966", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15013966"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Cook-in-bag Homestyle Turkey - 12lbs - Archer Farms&#153;", 
+        "url": "/p/cook-in-bag-homestyle-turkey-12lbs-archer-farms-153/-/A-15013966", 
+        "release_date": "", 
+        "upc": "142222337011", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Premium, grade A, young turkey that's full of flavor", 
+                "&nbsp;Homestyle turkey cooks right in the bag", 
+                "&nbsp;Seasoned with a celery seed, ginger, sage and thyme medley", 
+                "&nbsp;Goes straight from freezer to oven for your convenience"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Tender and juicy, Butterball Frozen Whole Turkeys are all natural, gluten free, raised without hormones and American Humane Certified.  Butterball Frozen Whole Turkeys give you the highest quality turkey for your holiday meal.\u200b", 
+        "dpci": "226-05-6210", 
+        "brand": "Butterball", 
+        "tcin": "47134712", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134712"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Frozen Turkey - 10-12lbs - price per lb.", 
+        "url": "/p/butterball-frozen-turkey-10-12lbs-price-per-lb/-/A-47134712", 
+        "release_date": "", 
+        "upc": "216210000000", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Refreshed look, same great taste! Our package design is as high-quality as what's inside. Look for Honeysuckle White\u00ae clean, eye-catching packaging in stores today. Honeysuckle White\u00ae turkey products include no growth-promoting antibiotics\u2014just honest, simple turkey. Antibiotics responsibly used only when needed for treatment or prevention of illness. See HoneysuckleWhite.com. Behind every Honeysuckle White\u00ae turkey product is one of 700 independent family farmers raising turkeys with care. At Honeysuckle White\u00ae, we take pride in producing the finest turkey for you and your family and are honored to be part of your meal. Follow our cooking instructions for a juicy, flavorful turkey everyone's going to remember.", 
+        "dpci": "226-05-0020", 
+        "brand": "Honeysuckle White", 
+        "tcin": "52686782", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52686782", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52686782"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Honeysuckle White Hen Frozen Turkey - 10-16lbs", 
+        "url": "/p/honeysuckle-white-hen-frozen-turkey-10-16lbs/-/A-52686782", 
+        "release_date": "", 
+        "upc": "210200000001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Honeysuckle White&#174; Frozen Whole Turkeys feature a 9.5% basting solution and convenient pop-up timer which ensures an exceptionally moist, perfectly cooked turkey every time. Wonderful for holidays, special occasions or your Sunday dinner.", 
+                "Netting with built-in handle provides ease in stocking and consumer handling.", 
+                "A pop-up timer ensures a perfectly cooked turkey every time."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-0008", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "47838902", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47838902", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47838902"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 10-16lbs - price per lb. - Simply Balanced&#153;", 
+        "url": "/p/frozen-turkey-10-16lbs-price-per-lb-simply-balanced-153/-/A-47838902", 
+        "release_date": "", 
+        "upc": "942222149528", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-0009", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "47838891", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47838891", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47838891"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Frozen Turkey - 16-24lbs - price per lb. - Simply Balanced&#153;", 
+        "url": "/p/frozen-turkey-16-24lbs-price-per-lb-simply-balanced-153/-/A-47838891", 
+        "release_date": "", 
+        "upc": "942222169519", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Refreshed look, same great taste! Our package design is as high-quality as what's inside. Look for Honeysuckle White\u00ae clean, eye-catching packaging in stores today. Honeysuckle White\u00ae turkey products include no growth-promoting antibiotics\u2014just honest, simple turkey. Antibiotics responsibly used only when needed for treatment or prevention of illness. See HoneysuckleWhite.com. Behind every Honeysuckle White\u00ae turkey product is one of 700 independent family farmers raising turkeys with care. At Honeysuckle White\u00ae, we take pride in producing the finest turkey for you and your family and are honored to be part of your meal. Follow our cooking instructions for a juicy, flavorful turkey everyone's going to remember.", 
+        "dpci": "226-05-0021", 
+        "brand": "Honeysuckle White", 
+        "tcin": "52686820", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52686820", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52686820"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Honeysuckle White Tom Frozen Turkey - 16-24lbs", 
+        "url": "/p/honeysuckle-white-tom-frozen-turkey-16-24lbs/-/A-52686820", 
+        "release_date": "", 
+        "upc": "210021000006", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Honeysuckle White&#174; Frozen Whole Turkeys feature a 9.5% basting solution and convenient pop-up timer which ensures an exceptionally moist, perfectly cooked turkey every time. Wonderful for holidays, special occasions or your Sunday dinner.", 
+                "Netting with built-in handle provides ease in stocking and consumer handling.", 
+                "A pop-up timer ensures a perfectly cooked turkey every time."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> frozen", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "There's nothing better than having a juicy and tender turkey at your dinner table, and this Butterball Fresh Turkey will please you and all of your guests. With no artificial ingredients and raised without hormones, this premium young turkey from Butterball is a staple for special occasions and regular family dinners alike.", 
+        "dpci": "226-05-6218", 
+        "brand": "Butterball", 
+        "tcin": "50254410", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50254410"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Fresh Turkey - 16-24lbs - price per lb.", 
+        "url": "/p/butterball-fresh-turkey-16-24lbs-price-per-lb/-/A-50254410", 
+        "release_date": "", 
+        "upc": "216218000002", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fresh, tender and juicy turkey", 
+                "All natural and raised without hormones", 
+                "Easy-open packaging", 
+                "Gluten free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-8210", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47134720", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47134720", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134720"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Turkey - 10-16 lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/turkey-10-16-lbs-price-per-lb-market-pantry-153/-/A-47134720", 
+        "release_date": "", 
+        "upc": "942222147425", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-8216", 
+        "brand": "market pantry&#153;", 
+        "tcin": "47134721", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47134721", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47134721"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Turkey - 16-20 lbs - price per lb. - Market Pantry&#153;", 
+        "url": "/p/turkey-16-20-lbs-price-per-lb-market-pantry-153/-/A-47134721", 
+        "release_date": "", 
+        "upc": "942222167416", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "226-05-0013", 
+        "brand": "Butterball", 
+        "tcin": "51647510", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51647510"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "meat, seafood & poultry", 
+            "turkey"
+        ], 
+        "title": "Butterball Fresh Hen Turkey - 10-16lbs - price per lb.", 
+        "url": "/p/butterball-fresh-hen-turkey-10-16lbs-price-per-lb/-/A-51647510", 
+        "release_date": "", 
+        "upc": "213100000003", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Cut of Meat:</B> whole", 
+            "<B>Cuisine Type:</B> American inspired", 
+            "<B>Purchase by Weight:</B> yes", 
+            "<B>State of Readiness:</B> needs to be fully cooked", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

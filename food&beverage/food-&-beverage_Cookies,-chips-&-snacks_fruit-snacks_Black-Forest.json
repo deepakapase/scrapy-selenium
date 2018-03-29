@@ -1,0 +1,37 @@
+[
+    {
+        "description": "Whenever you need a sweet treat in your day, enjoy a pouch of Black Forest Juicy Center Fruity Medleys Fruit Flavored Snacks. These mixed fruit flavored fruit snacks are always a great choice, whether you add them to the kids' lunchboxes or you grab one after dinner. Made with real fruit juice and containing 100% of your daily value of vitamin C, this is a treat you'll feel good about.", 
+        "dpci": "071-18-0183", 
+        "brand": "Black Forest", 
+        "tcin": "51545471", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51545471"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "fruit snacks", 
+            "Black Forest"
+        ], 
+        "title": "Black Forest Cherry - 17.6oz", 
+        "url": "/p/black-forest-cherry-17-6oz/-/A-51545471", 
+        "release_date": "", 
+        "upc": "041420015397", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Comes with 22 pouches of fruit snacks", 
+                "Fruit medley includes grape, apple, lemon and cherry fruit snacks", 
+                "Made with real fruit juice and contain 100% daily value of vitamin C"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Contains:</B> does not contain any of the 8 major allergens"
+        ]
+    }
+]

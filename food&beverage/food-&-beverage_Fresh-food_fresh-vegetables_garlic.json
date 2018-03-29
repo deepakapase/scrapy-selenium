@@ -1,0 +1,71 @@
+[
+    {
+        "description": "Fresh Bulk Garlic straigh from the fields! Wonderful pungent garlic flavor!", 
+        "dpci": "211-05-4608", 
+        "brand": "Spice World", 
+        "tcin": "14917452", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14917452"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "garlic"
+        ], 
+        "title": "Garlic ea.", 
+        "url": "/p/garlic-ea/-/A-14917452", 
+        "release_date": "", 
+        "upc": "204608000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> paper or cardboard"
+        ]
+    }, 
+    {
+        "description": "Spice World promises to provide you with only premium garlic products of the highest quality available, including this Fresh Whole Garlic. The distinctive taste of garlic can be expressed in many ways. Mince garlic and mix it with some basil and olive oil for a pungent explosion of flavor. No matter how much of a garlic aficionado you are, there are great ways to enjoy garlic's taste!", 
+        "dpci": "211-05-0012", 
+        "brand": "Spice World", 
+        "tcin": "14917318", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14917318"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "garlic"
+        ], 
+        "title": "Fresh Whole Garlic 3 ct", 
+        "url": "/p/fresh-whole-garlic-3-ct/-/A-14917318", 
+        "release_date": "", 
+        "upc": "070969003367", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fresh whole garlic", 
+                "Garlic helps cut cholesterol and support the immune system", 
+                "Pack includes 3 bulbs"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

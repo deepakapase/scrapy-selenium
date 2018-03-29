@@ -1,0 +1,84 @@
+[
+    {
+        "description": "Protect your toothbrush from the germs and bacteria floating around your bathroom with the Pursonic S2 Toothbrush UV Sanitizer. This wall mountable toothbrush sanitizer uses ozone and photo catalyst technology to kill germs and bacteria left behind on toothbrushes, shavers or tongue cleaners. This spacious toothbrush holder accommodates up to 5 bathroom accessories, plus a tube of toothpaste. Requires 4 AA batteries, sold anywhere.", 
+        "dpci": "049-11-0272", 
+        "brand": "Pursonic", 
+        "tcin": "13538542", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13538542_Alt01", 
+                    "13538542_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13538542"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "personal care", 
+            "Oral care", 
+            "toothbrush sanitizers"
+        ], 
+        "title": "Pursonic&#174; UV Toothbrush Sanitizer - S2", 
+        "url": "/p/pursonic-174-uv-toothbrush-sanitizer-s2/-/A-13538542", 
+        "release_date": "", 
+        "upc": "851695002301", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Package Quantity:</B> 1", 
+            "<B>Health Concern:</B> Sanitization", 
+            "<B>Features:</B> Ultraviolet Technology, Multiple Brush Modes", 
+            "<B>Material:</B> Nylon", 
+            "<B>Suggested Age:</B> 10 Years and Up", 
+            "<B>Length:</B> 1 inches", 
+            "<B>Battery:</B> required, not included:  4  AA", 
+            "<B>Product Warning:</B> no warning applicable"
+        ]
+    }, 
+    {
+        "description": "The Pursonic UV Portable Toothbrush Sanitizer eliminates nasty germ build-up on your toothbrush so you start clean, every time. The toothbrush sanitizer uses ultraviolet light for a precision clean and is great for home use or travel. This portable toothbrush sanitizer even doubles as a convenient carrying case.", 
+        "dpci": "049-11-0273", 
+        "brand": "Pursonic", 
+        "tcin": "13538540", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "13538540_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13538540"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "personal care", 
+            "Oral care", 
+            "toothbrush sanitizers"
+        ], 
+        "title": "Pursonic&#174; UV Portable Toothbrush Sanitizer - S1", 
+        "url": "/p/pursonic-174-uv-portable-toothbrush-sanitizer-s1/-/A-13538540", 
+        "release_date": "", 
+        "upc": "851695002295", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ultraviolet light sanitizes toothbrush for a great clean", 
+                "Eliminate nasty germ build-up on your toothbrush", 
+                "Doubles as a convenient carry case"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Package Quantity:</B> 1", 
+            "<B>Health Concern:</B> Sanitization", 
+            "<B>Features:</B> Ultraviolet Technology", 
+            "<B>Material:</B> Nylon", 
+            "<B>Suggested Age:</B> 10 Years and Up", 
+            "<B>Length:</B> 1 inches", 
+            "<B>Battery:</B> required, not included:  2  AA", 
+            "<B>Product Warning:</B> no warning applicable"
+        ]
+    }
+]

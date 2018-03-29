@@ -1,0 +1,33 @@
+[
+    {
+        "description": "", 
+        "dpci": "266-03-0011", 
+        "brand": "", 
+        "tcin": "15014053", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15014053"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh fruit", 
+            "nectarines"
+        ], 
+        "title": "Nectarine", 
+        "url": "/p/nectarine/-/A-15014053", 
+        "release_date": "", 
+        "upc": "204036000007", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

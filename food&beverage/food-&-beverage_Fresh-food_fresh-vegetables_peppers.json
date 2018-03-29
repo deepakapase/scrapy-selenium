@@ -1,0 +1,474 @@
+[
+    {
+        "description": "", 
+        "dpci": "211-21-9681", 
+        "brand": "Pero Family Farms", 
+        "tcin": "13728672", 
+        "images": [
+            {
+                "swatch": "13728672_Swatch", 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13728672"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Green Bell Pepper", 
+        "url": "/p/green-bell-pepper/-/A-13728672", 
+        "release_date": "", 
+        "upc": "204681000001", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-9088", 
+        "brand": "", 
+        "tcin": "14919034", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919034"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Red Bell Pepper", 
+        "url": "/p/red-bell-pepper/-/A-14919034", 
+        "release_date": "", 
+        "upc": "492112190883", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-0051", 
+        "brand": "Pero Family Farms", 
+        "tcin": "13237451", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13237451"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Freshwrap Stoplight Bell Peppers - 3pk", 
+        "url": "/p/freshwrap-stoplight-bell-peppers-3pk/-/A-13237451", 
+        "release_date": "", 
+        "upc": "064701830816", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-4680", 
+        "brand": "", 
+        "tcin": "14919578", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919578"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Family Farm Mini Sweet Peppers - 1lb", 
+        "url": "/p/family-farm-mini-sweet-peppers-1lb/-/A-14919578", 
+        "release_date": "", 
+        "upc": "492112146804", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "High in vitamin C", 
+                "High in fiber", 
+                "Full of flavor", 
+                "Produce of Mexico"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-0030", 
+        "brand": "", 
+        "tcin": "15293786", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15293786"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Green Bell Pepper - 2ct", 
+        "url": "/p/green-bell-pepper-2ct/-/A-15293786", 
+        "release_date": "", 
+        "upc": "874896005032", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-50-0054", 
+        "brand": "Veg-Land", 
+        "tcin": "15416570", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15416570"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Organic Bell Pepper - 2pk", 
+        "url": "/p/organic-bell-pepper-2pk/-/A-15416570", 
+        "release_date": "", 
+        "upc": "294688000005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-4682", 
+        "brand": "Pero Family Farms", 
+        "tcin": "14919579", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919579"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Orange Bell Pepper", 
+        "url": "/p/orange-bell-pepper/-/A-14919579", 
+        "release_date": "", 
+        "upc": "890773002086", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-1680", 
+        "brand": "Pero Family Farms", 
+        "tcin": "14919665", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919665"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Family Farms Yellow Bell Pepper", 
+        "url": "/p/family-farms-yellow-bell-pepper/-/A-14919665", 
+        "release_date": "", 
+        "upc": "890773002079", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "Jalapeno Peppers from Pero Family Farms provide a great deal of flavor and heat for your favorite dishes. The jalapeno is very versatile and is a common ingredient for salsa across the globe. Get creative and try them in many ways \u2014 whether you are roasting, stuffing or grilling them with friends, you'll be sure to heat up your tastebuds.", 
+        "dpci": "211-21-0059", 
+        "brand": "Victory Garden", 
+        "tcin": "14710556", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14710556"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Family Farms Hot Jalapeno Peppers - 10oz", 
+        "url": "/p/family-farms-hot-jalapeno-peppers-10oz/-/A-14710556", 
+        "release_date": "", 
+        "upc": "874896005667", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Hot jalapeno peppers", 
+                "Rich in Vitamin C", 
+                "Great to add into many recipes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat, ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-50-0015", 
+        "brand": "Pero Family Farms", 
+        "tcin": "23974746", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "23974746"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Organic Mini Sweet Peppers - 12oz", 
+        "url": "/p/organic-mini-sweet-peppers-12oz/-/A-23974746", 
+        "release_date": "", 
+        "upc": "874896000464", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Similar to the jalapeno pepper in its look, Serrano Chili Peppers offer a lot more heat, making them a great addition to any meal you want to spice up a bit. While preparing serranos, take extra care to protect your skin from their heat. Otherwise, they're super simple to incorporate into your favorite recipes \u2014 try roasting to tame the intensity of their heat and add a hint of sweetness or use them fresh in salsas combined with mango, pineapple or peach.", 
+        "dpci": "224-21-4709", 
+        "brand": "", 
+        "tcin": "14992437", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14992437"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Serrano Chili Pepper per lb", 
+        "url": "/p/serrano-chili-pepper-per-lb/-/A-14992437", 
+        "release_date": "", 
+        "upc": "492242147092", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Great source of Vitamins A, B6 and C", 
+                "Use to spice up marinades for fish, meat or poultry", 
+                "Add to a variety of sauces, salsas and stews"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat, ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "224-21-4677", 
+        "brand": "", 
+        "tcin": "14992439", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14992439"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Anaheim Pepper per lb", 
+        "url": "/p/anaheim-pepper-per-lb/-/A-14992439", 
+        "release_date": "", 
+        "upc": "204677000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat, ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "Add more flavor to your stir-fry dishes with this Red Bell Pepper. You can even slice it for fajitas or stuff it with rice or quinoa for a unique, delicious addition to the dinner table.", 
+        "dpci": "211-21-9089", 
+        "brand": "Pure Flavor", 
+        "tcin": "17294031", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17294031"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Red Bell Pepper 1 ct", 
+        "url": "/p/red-bell-pepper-1-ct/-/A-17294031", 
+        "release_date": "", 
+        "upc": "057836000292", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Red bell peppers can be eaten raw or cooked up with your favorite meals", 
+                "&nbsp;Brings a delicious, sweet crunch you'll love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "Great for snacks, salads and grilling. Any way you choose, our Mini Sweet Peppers are a sweet treat to eat!", 
+        "dpci": "211-21-4681", 
+        "brand": "", 
+        "tcin": "26390936", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "26390936"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "peppers"
+        ], 
+        "title": "Pero Mini Sweet Peppers - 2lb", 
+        "url": "/p/pero-mini-sweet-peppers-2lb/-/A-26390936", 
+        "release_date": "", 
+        "upc": "874896005513", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Good source of vitamin C", 
+                "Perfect snack", 
+                "Low in calories", 
+                "No fat or cholesterol", 
+                "Produce of USA"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

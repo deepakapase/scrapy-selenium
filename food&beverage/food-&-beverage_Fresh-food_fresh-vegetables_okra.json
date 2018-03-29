@@ -1,0 +1,40 @@
+[
+    {
+        "description": "A natural thickener used in soups and stews, okra is a popular health food due to its high fiber content, vitamin C and folate. Okra from Pero Family Foods is the powerhouse of valuable nutrients \u2014 and it taste great grilled, fried or in a variety of dishes.", 
+        "dpci": "211-21-0121", 
+        "brand": "Pero Family Farms", 
+        "tcin": "26390937", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "26390937"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "okra"
+        ], 
+        "title": "Family Farms OKRA Tray - 12oz", 
+        "url": "/p/family-farms-okra-tray-12oz/-/A-26390937", 
+        "release_date": "", 
+        "upc": "874896005520", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Tray of okra is sealed for freshness", 
+                "Excellent source of dietary fiber", 
+                "Single pack of 12 oz"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

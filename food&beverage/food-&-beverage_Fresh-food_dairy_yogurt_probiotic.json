@@ -1,0 +1,501 @@
+[
+    {
+        "description": "Enrich your day with a delicious, creamy Activia lowfat yogurt* Infused with the fresh taste of vanilla, and with billions of probiotics in every cup it's a great way to start every day. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0817", 
+        "brand": "Dannon", 
+        "tcin": "13123508", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13123508"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Vanilla Probiotic Yogurt - 4oz", 
+        "url": "/p/dannon-174-activia-vanilla-probiotic-yogurt-4oz/-/A-13123508", 
+        "release_date": "", 
+        "upc": "036632026019", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free", 
+                "Infused with the fresh taste of vanilla"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> vanilla"
+        ]
+    }, 
+    {
+        "description": "Enrich your day with a delicious, creamy Activia lowfat yogurt. Infused with the fresh taste of strawberry and peach with billions of probiotics in every cup, it's a great way to start every day. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-1003", 
+        "brand": "Dannon", 
+        "tcin": "13143055", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13143055"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Peach/Strawberry Yogurt - 12oz", 
+        "url": "/p/dannon-174-activia-peach-strawberry-yogurt-12oz/-/A-13143055", 
+        "release_date": "", 
+        "upc": "036632035769", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free", 
+                "Infused with the fresh taste of peach and strawberry"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> strawberry, peach", 
+            "<B>Milk Fat Level:</B> 1 percent"
+        ]
+    }, 
+    {
+        "description": "Enrich your day with a delicious, creamy Activia lowfat yogurt* Infused with the fresh taste of strawberry, and with billions of probiotics in every cup it's a great way to start every day. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0816", 
+        "brand": "Dannon", 
+        "tcin": "13123505", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13123505"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Low-fat Strawberry Probiotic Yogurt - 4oz", 
+        "url": "/p/dannon-174-activia-low-fat-strawberry-probiotic-yogurt-4oz/-/A-13123505", 
+        "release_date": "", 
+        "upc": "036632026002", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free", 
+                "Infused with the fresh taste of strawberry"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Enrich your day with a delicious, creamy Activia lowfat yogurt. Infused with the fresh taste of berries and cherry and with billions of probiotics in every cup, it's a great way to start every day. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-1458", 
+        "brand": "Dannon", 
+        "tcin": "15029502", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15029502"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Mixed Berry/Black Cherry Yogurt - 12oz", 
+        "url": "/p/dannon-174-activia-mixed-berry-black-cherry-yogurt-12oz/-/A-15029502", 
+        "release_date": "", 
+        "upc": "036632028518", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free", 
+                "Infused with the fresh taste of berries and black cherries"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> cherry, berry"
+        ]
+    }, 
+    {
+        "description": "Enrich your day with a delicious, creamy Activia lowfat yogurt* Infused with the fresh taste of peach, and with billions of probiotics in every cup it's a great way to start every day. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0820", 
+        "brand": "Dannon", 
+        "tcin": "44366605", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "44366605"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Peach Probiotic Yogurt - 4oz", 
+        "url": "/p/dannon-174-activia-peach-probiotic-yogurt-4oz/-/A-44366605", 
+        "release_date": "", 
+        "upc": "036632026040", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free", 
+                "Infused with the fresh taste of peach"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> peach"
+        ]
+    }, 
+    {
+        "description": "Refresh yourself anytime, anywhere with an Activia Drink. With the fresh taste of strawberry and billions of probiotics in every bottle, these cool and creamy smoothies taste great. Grab one and go today. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0598", 
+        "brand": "Dannon", 
+        "tcin": "52116953", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52116953"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia&#174; Strawberry Flavored Probiotic Drink - 7 fl oz", 
+        "url": "/p/dannon-174-activia-174-strawberry-flavored-probiotic-drink-7-fl-oz/-/A-52116953", 
+        "release_date": "", 
+        "upc": "036632035752", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "On the go yogurt drink", 
+                "Grab one and go today.", 
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Milk Fat Level:</B> 2 percent"
+        ]
+    }, 
+    {
+        "description": "Refresh yourself anytime, anywhere with an Activia Drink. With the great taste of prune and billions of probiotics in every bottle, these cool and creamy smoothies are delicious. Grab one and go today. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0597", 
+        "brand": "Dannon", 
+        "tcin": "52116952", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52116952"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia Prune Flavored Probiotic Drink - 7 fl oz", 
+        "url": "/p/dannon-174-activia-prune-flavored-probiotic-drink-7-fl-oz/-/A-52116952", 
+        "release_date": "", 
+        "upc": "036632035745", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "On the go yogurt drink", 
+                "Grab one and go today.", 
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> prune", 
+            "<B>Milk Fat Level:</B> 2 percent"
+        ]
+    }, 
+    {
+        "description": "Refresh yourself anytime, anywhere with an Activia Drink. With the fresh taste of strawberry and banana and billions of probiotics in every bottle, these cool and creamy smoothies taste great. Grab one and go today. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0599", 
+        "brand": "Dannon", 
+        "tcin": "52116954", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52116954"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia&#174; Strawberry Banana Flavored Probiotic Yogurt Drink - 7 fl oz", 
+        "url": "/p/dannon-174-activia-174-strawberry-banana-flavored-probiotic-yogurt-drink-7-fl-oz/-/A-52116954", 
+        "release_date": "", 
+        "upc": "036632035981", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "On the go yogurt drink", 
+                "Grab one and go today.", 
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic", 
+                "Gluten Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> banana, strawberry", 
+            "<B>Milk Fat Level:</B> 2 percent"
+        ]
+    }, 
+    {
+        "description": "Activia Fiber lowfat yogurt is a creamy snack and a good source of fiber. Infused with the bright taste of strawberry and pineapple, Activia is a delicious way to put your best foot forward. *learn more at Dannon.com/ingredients", 
+        "dpci": "284-10-0526", 
+        "brand": "Dannon", 
+        "tcin": "52116878", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52116878"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Dannon&#174; Activia&#174; Strawberry/Pineapple with Cereal Probiotic Yogurt - 4oz 12pk", 
+        "url": "/p/dannon-174-activia-174-strawberry-pineapple-with-cereal-probiotic-yogurt-4oz-12pk/-/A-52116878", 
+        "release_date": "", 
+        "upc": "036632028846", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Good Source of Fiber", 
+                "Billions of Probiotics in Every Cup", 
+                "#1 Doctor Recommended Probiotic"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up)", 
+            "<B>Grocery Container Type:</B> cup", 
+            "<B>Flavor:</B> pineapple, strawberry", 
+            "<B>Milk Fat Level:</B> 1.5 percent"
+        ]
+    }, 
+    {
+        "description": "At just 90 calories, Fr\u00fczinga\u00ae Strawberry is a healthy, probiotic-packed, nutritious, high fiber and vitamin D fortified drinkable yogurt, made with real fruit and wholesome grade A milk.  Fr\u00fczinga's delicious, easy to drink flavors provide 7g of Protien and 33% RDV of daily fiber. Perfect for those on the go and the little one's too! Featuring 2 Billion CFUs of the Clicincaly Proven Probiotic Strains - Lactobacillus GG\u00ae and BB-12\u00ae to support immune and digestive function.", 
+        "dpci": "284-10-0697", 
+        "brand": "Fruzinga", 
+        "tcin": "52191795", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52191795"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Fruzinga&#174; Strawberry Probiotic Non Fat Yogurt Drink - 7 fl oz", 
+        "url": "/p/fruzinga-174-strawberry-probiotic-non-fat-yogurt-drink-7-fl-oz/-/A-52191795", 
+        "release_date": "", 
+        "upc": "855353004034", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up), Child (3-9 years)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> strawberry", 
+            "<B>Milk Fat Level:</B> does not contain milk fat"
+        ]
+    }, 
+    {
+        "description": "At just 90 calories, Fr\u00fczinga\u00ae Peach is a healthy, probiotic-packed, nutritious, high fiber and vitamin D fortified drinkable yogurt, made with real fruit and wholesome grade A milk.  Fr\u00fczinga's delicious, easy to drink flavors provide 8g of Protien and 33% RDV of daily fiber. Perfect for those on the go and the little one's too! Featuring 2 Billion CFUs of the Clicincaly Proven Probiotic Strains - Lactobacillus GG\u00ae and BB-12\u00ae to support immune and digestive function.", 
+        "dpci": "284-10-0700", 
+        "brand": "Fruzinga", 
+        "tcin": "52191802", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52191802"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Fruzinga&#174; Peach Probiotic Non Fat Yogurt Drink - 7 fl oz", 
+        "url": "/p/fruzinga-174-peach-probiotic-non-fat-yogurt-drink-7-fl-oz/-/A-52191802", 
+        "release_date": "", 
+        "upc": "855353004096", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up), Child (3-9 years)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> peach", 
+            "<B>Milk Fat Level:</B> does not contain milk fat"
+        ]
+    }, 
+    {
+        "description": "At just 90 calories, Fr\u00fczinga\u00ae Coconut Banana is a healthy, probiotic-packed, nutritious, high fiber and vitamin D fortified drinkable yogurt, made with real fruit and wholesome grade A milk.  Fr\u00fczinga's delicious, easy to drink flavors provide 8g of Protien and 33% RDV of daily fiber. Perfect for those on the go and the little one's too! Featuring 2 Billion CFUs of the Clicincaly Proven Probiotic Strains - Lactobacillus GG\u00ae and BB-12\u00ae to support immune and digestive function.", 
+        "dpci": "284-10-0699", 
+        "brand": "Fruzinga", 
+        "tcin": "52191801", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52191801"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Fruzinga&#174; Coconut Banana Probiotic Non Fat Yogurt Drink - 7 fl oz", 
+        "url": "/p/fruzinga-174-coconut-banana-probiotic-non-fat-yogurt-drink-7-fl-oz/-/A-52191801", 
+        "release_date": "", 
+        "upc": "855353004102", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up), Child (3-9 years)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> banana", 
+            "<B>Milk Fat Level:</B> does not contain milk fat"
+        ]
+    }, 
+    {
+        "description": "At just 90 calories, Fr\u00fczinga\u00aeBlack Cherry is a healthy, probiotic-packed, nutritious, high fiber and vitamin D fortified drinkable yogurt, made with real fruit and wholesome grade A milk.  Fr\u00fczinga's delicious, easy to drink flavors provide 7g of Protien and 33% RDV of daily fiber. Perfect for those on the go and the little one's too! Featuring 2 Billion CFUs of the Clicincaly Proven Probiotic Strains - Lactobacillus GG\u00ae and BB-12\u00ae to support immune and digestive function.", 
+        "dpci": "284-10-0698", 
+        "brand": "Fruzinga", 
+        "tcin": "52191800", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52191800"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "dairy", 
+            "yogurt", 
+            "probiotic"
+        ], 
+        "title": "Fruzinga&#174; Black Cherry Probiotic Non Fat Yogurt Drink - 7 fl oz", 
+        "url": "/p/fruzinga-174-black-cherry-probiotic-non-fat-yogurt-drink-7-fl-oz/-/A-52191800", 
+        "release_date": "", 
+        "upc": "855353004041", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Style:</B> probiotic", 
+            "<B>Targeted Audience:</B> Adult (18 years and up), Child (3-9 years)", 
+            "<B>Grocery Container Type:</B> bottle", 
+            "<B>Flavor:</B> cherry", 
+            "<B>Milk Fat Level:</B> does not contain milk fat"
+        ]
+    }
+]

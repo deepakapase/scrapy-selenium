@@ -1,0 +1,134 @@
+[
+    {
+        "description": "", 
+        "dpci": "211-21-4060", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919689", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919689"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "broccoli"
+        ], 
+        "title": "Wrapped Broccoli", 
+        "url": "/p/wrapped-broccoli/-/A-14919689", 
+        "release_date": "", 
+        "upc": "033383700205", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "224-21-3082", 
+        "brand": "GREEN GIANT", 
+        "tcin": "15027734", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15027734"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "broccoli"
+        ], 
+        "title": "Broccoli Crown - Price Per lb.", 
+        "url": "/p/broccoli-crown-price-per-lb/-/A-15027734", 
+        "release_date": "", 
+        "upc": "203082000009", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-0020", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919614", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14919614_Alt01", 
+                    "14919614_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919614"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "broccoli"
+        ], 
+        "title": "Green Giant Fresh Sweet Baby Broccoli", 
+        "url": "/p/green-giant-fresh-sweet-baby-broccoli/-/A-14919614", 
+        "release_date": "", 
+        "upc": "605806122071", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat, ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "It's no wonder this veggie is a superfood \u2014 this Organic Wrapped Broccoli provides nutrients that aid your immune and digestive systems. Chop it raw to enjoy in a hearty salad, roast them to eat alongside dinner or puree into a broccoli cheddar soup.", 
+        "dpci": "211-50-0019", 
+        "brand": "Veg-Land", 
+        "tcin": "15407760", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407760"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "broccoli"
+        ], 
+        "title": "Organic Wrapped Broccoli per each", 
+        "url": "/p/organic-wrapped-broccoli-per-each/-/A-15407760", 
+        "release_date": "", 
+        "upc": "073574810009", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Organic broccoli", 
+                "Great source of Vitamins K and C", 
+                "Can be added to a variety of meals like salads, soups or pastas"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> refrigerated"
+        ]
+    }
+]

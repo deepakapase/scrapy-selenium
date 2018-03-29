@@ -1,0 +1,78 @@
+[
+    {
+        "description": "Snack on something healthy with this Sweet Corn from Green Giant\u00ae. This pack comes with four ears of corn that you can either steam or grill for a fresh, sweet side dish. All you need to is heat them and they are ready to enjoy.", 
+        "dpci": "211-21-9078", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919033", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919033"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "corn"
+        ], 
+        "title": "Sweet Corn - 4pk", 
+        "url": "/p/sweet-corn-4pk/-/A-14919033", 
+        "release_date": "", 
+        "upc": "095829040191", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Ready-to-heat-and-serve sweet corn ears", 
+                "4-pack count", 
+                "Super sweet taste you'll love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> prepared, heat and serve", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "Complete your summer barbecue or weeknight grilling adventure with ears of Sweet Corn. This summertime staple is the perfect side for any of your grilled meals or shear it off the cob after it's cooked for a fresh cooking ingredient.", 
+        "dpci": "224-21-4078", 
+        "brand": "", 
+        "tcin": "15028201", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15028201"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "corn"
+        ], 
+        "title": "Sweet Corn", 
+        "url": "/p/sweet-corn/-/A-15028201", 
+        "release_date": "", 
+        "upc": "204078000003", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Half-husked sweet corn", 
+                "Perfect produce for grilling", 
+                "Use as a side dish or shear off the cob for a fresh cooking ingredient"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

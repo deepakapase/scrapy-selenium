@@ -1,0 +1,75 @@
+[
+    {
+        "description": "Prepared wasabi in tube.  Serve with soy sauce as a dipping sauce for sushi, sashimi, or a flavoring in soba, Udon, etc. It also adds zest to steak, seafood salad, dim sum, and other Chinese dishes. <br><br>Directions<br>Keep refrigerated after opening.", 
+        "dpci": "212-30-0198", 
+        "brand": "S&B", 
+        "tcin": "13474198", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13474198"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "wasabi"
+        ], 
+        "title": "S&B Wasabi 1.52-oz.", 
+        "url": "/p/s-b-wasabi-1-52-oz/-/A-13474198", 
+        "release_date": "", 
+        "upc": "074880020021", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Japanese horseradish", 
+                "Adds zest to", 
+                "Product of Japan"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "With this Original Wasabi Sauce from S&B\u00ae, you'll experience the distinctive kick of heat that's great for Japanese inspired dishes. Use this spicy, bold sauce with your own sushi and sashimi creations or as a dipping side for any of your Asian-style meals.", 
+        "dpci": "212-30-1627", 
+        "brand": "S&B", 
+        "tcin": "15117688", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15117688"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "condiments & salad dressing", 
+            "wasabi"
+        ], 
+        "title": "S&B Original Wasabi Sauce 5.3 oz", 
+        "url": "/p/s-b-original-wasabi-sauce-5-3-oz/-/A-15117688", 
+        "release_date": "", 
+        "upc": "074880002010", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Horseradish sauce with a bold, spicy flavor", 
+                "Add some spicy kick to your sandwiches or meat and cheese trays", 
+                "Great compliment to any pot roast, steak or prime rib"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

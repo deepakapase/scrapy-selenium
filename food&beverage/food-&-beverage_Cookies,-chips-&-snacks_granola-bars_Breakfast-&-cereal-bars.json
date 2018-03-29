@@ -1,0 +1,3681 @@
+[
+    {
+        "description": "", 
+        "dpci": "071-20-1821", 
+        "brand": "Rice Krispies", 
+        "tcin": "53084328", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "53084328", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "53084328"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Original Crispy Marshmallow Squares - 2.2oz", 
+        "url": "/p/rice-krispies-treats-original-crispy-marshmallow-squares-2-2oz/-/A-53084328", 
+        "release_date": "", 
+        "upc": "038000181986", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "Made with invigorating whole grains and the delight of a delicious filling made with Strawberry to help you move at the speed of morning. Rise & Thrive with Nutri-Grain Soft-Baked Breakfast Bars, the wholesome goodness you need to shine your brightest!", 
+        "dpci": "", 
+        "brand": "Nutri-Grain", 
+        "tcin": "53195460", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53195460_Alt01", 
+                    "53195460_Alt02", 
+                    "53195460_Alt03", 
+                    "53195460_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53195460", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195460_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195460_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195460_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195460_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53195460"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kellogg's Nutri-Grain Strawberry Bars Cereal Bars", 
+        "url": "/p/kellogg-s-nutri-grain-strawberry-bars-cereal-bars/-/A-53195460", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Soft Baked with Whole grains", 
+                "Now more real fruit", 
+                "No high fructose corn syrup"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8.000", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Craving a warm bowl of oatmeal with scrumptious cinnamon-sugar toppings? Get your fix with the Nature Valley\u00ae Soft-Baked Cinnamon Sugar Oatmeal Bars. Made with 100% natural whole grain oats and 16 grams of whole grains per serving, this makes for the perfect grab-and-go snack at any time of the day.", 
+        "dpci": "071-20-0209", 
+        "brand": "Nature Valley", 
+        "tcin": "14535676", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14535676_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14535676", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14535676_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14535676"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley Soft-Baked Cinnamon Brown Sugar Oatmeal Bars - 6ct", 
+        "url": "/p/nature-valley-soft-baked-cinnamon-brown-sugar-oatmeal-bars-6ct/-/A-14535676", 
+        "release_date": "", 
+        "upc": "016000458987", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "6 soft-baked oatmeal bars", 
+                "100% natural whole grain oats, 12 grams of whole grains per serving", 
+                "160 calories per serving", 
+                "Naturally flavored"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Flavor:</B> brown sugar, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Market Pantry\u0099 Strawberry Cereal Bars are a great way to start your day. Have one for breakfast or as an on-the-go snack", 
+        "dpci": "071-20-0746", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13275155", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13275155"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Strawberry Cereal Bars 8ct - Market Pantry&#153;", 
+        "url": "/p/strawberry-cereal-bars-8ct-market-pantry-153/-/A-13275155", 
+        "release_date": "", 
+        "upc": "085239746202", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with real fruit", 
+                "Excellent source of calcium", 
+                "9 vitamins and minerals", 
+                "14 whole grains per bar"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Whole Wheat Fig Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real fruit for an on-the-go snack that satisfies. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most.", 
+        "dpci": "071-20-0532", 
+        "brand": "Nature's Bakery", 
+        "tcin": "17078504", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "17078504", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17078504"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Raspberry Fig Bar - 6ct", 
+        "url": "/p/nature-s-bakery-raspberry-fig-bar-6ct/-/A-17078504", 
+        "release_date": "", 
+        "upc": "047495210040", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Stone Ground Whole Wheat Fig Bar, Raspberry", 
+                "Non-GMO Project Verified", 
+                "Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> dairy free", 
+            "<B>Nutrition Features:</B> 0 grams trans fat, cholesterol free", 
+            "<B>Flavor:</B> raspberry"
+        ]
+    }, 
+    {
+        "description": "Lightly sweet, and with a taste of cinnamon, crunchy Belvita's Cinnamon Brown Sugar Breakfast Biscuits are packed with quality grains that fuel your morning. Specially baked to release 4 hours of nutritious steady energy to fuel you all morning long and portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Each biscuit is made with 19g of delicious whole-grain, 3g of fiber, and B vitamins per 50g serving. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes 5 - 1.76oz packs of Belvita Breakfast Biscuits.", 
+        "dpci": "071-20-0047", 
+        "brand": "BelVita", 
+        "tcin": "14200467", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14200467_Alt01", 
+                    "14200467_Alt02", 
+                    "14200467_Alt03", 
+                    "14200467_Alt04", 
+                    "14200467_Alt05"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14200467_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200467", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200467_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200467_Alt05", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200467_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200467_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14200467"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Belvita Cinnamon Brown Sugar Breakfast Biscuits - 1.76oz - 5ct", 
+        "url": "/p/belvita-cinnamon-brown-sugar-breakfast-biscuits-1-76oz-5ct/-/A-14200467", 
+        "release_date": "", 
+        "upc": "044000031954", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, crunchy breakfast biscuits", 
+                "Made with whole grain", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "3g of fiber", 
+                "Kosher Dairy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5.000", 
+            "<B>Flavor:</B> cinnamon"
+        ]
+    }, 
+    {
+        "description": "You'll feel like you're having dessert for breakfast with the KIND\u00ae Healthy Grains Dark Chocolate Breakfast Bars. You'll have the energy to keep up with your busy day from the whole grains in these bars. The dark chocolate chunks add just the right amount of sweetness. Individually wrapped, these KIND bars are easy to throw in your bag or stash at your desk for breakfast on the go or an afternoon snack.", 
+        "dpci": "071-20-0565", 
+        "brand": "KIND", 
+        "tcin": "21496169", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "21496169_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21496169"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Dark Chocolate Cocoa Protein Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-dark-chocolate-cocoa-protein-breakfast-bars-4pk-of-2-bars/-/A-21496169", 
+        "release_date": "", 
+        "upc": "602652201028", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Gluten free", 
+                "22g of whole grain per serving", 
+                "5 super grains &mdash; oats, millet, buckwheat, amaranth and quinoa"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4.000", 
+            "<B>Features:</B> non-GE (genetically engineered)", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> chocolate, oat"
+        ]
+    }, 
+    {
+        "description": "Craving freshly-made banana bread with gooey chocolate chips? Get your fix with the Nature Valley\u0099 Soft-Baked Banana Bread and Dark Chocolate Oatmeal Squares. Made with 100% natural whole grain oats, this makes for the perfect grab-and-go snack at any time of the day.", 
+        "dpci": "071-20-0129", 
+        "brand": "Nature Valley", 
+        "tcin": "16951592", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "16951592_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "16951592", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "16951592_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "16951592"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley Soft-Baked Banana Bread And Dark Chocolate Oatmeal Squares - 7.44oz", 
+        "url": "/p/nature-valley-soft-baked-banana-bread-and-dark-chocolate-oatmeal-squares-7-44oz/-/A-16951592", 
+        "release_date": "", 
+        "upc": "016000485525", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "6-ct. soft-baked oatmeal bars keeps your snack needs in check", 
+                "Made with 100% natural whole grain oats", 
+                "150 calories per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> chocolate"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Whole Wheat Fig Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real fruit for an on-the-go snack that satisfies. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most.", 
+        "dpci": "071-20-0531", 
+        "brand": "Nature's Bakery", 
+        "tcin": "17078503", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "17078503", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17078503"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Blueberry Fig Bar - 6ct", 
+        "url": "/p/nature-s-bakery-blueberry-fig-bar-6ct/-/A-17078503", 
+        "release_date": "", 
+        "upc": "047495210019", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Stone Ground Whole Wheat Fig Bar, Blueberry", 
+                "Non-GMO Project Verified", 
+                "Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> dairy free", 
+            "<B>Nutrition Features:</B> 0 grams trans fat, cholesterol free", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Let us make your world a little sweeter-taste the sweet, crispy goodness of Rice Krispies Treats Original Bars. In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-0052", 
+        "brand": "Rice Krispies", 
+        "tcin": "12992348", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992348_Alt01", 
+                    "12992348_Alt02", 
+                    "12992348_Alt03", 
+                    "12992348_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992348_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992348", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992348_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992348_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992348_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992348"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Original Bars - 8ct - Kellogg's", 
+        "url": "/p/rice-krispies-treats-original-bars-8ct-kellogg-s/-/A-12992348", 
+        "release_date": "", 
+        "upc": "038000123177", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rice Krispies Treats Original Bars are a wholesome snack made without high-fructose corn syrup-perfect for brown-bag lunches, afternoon snacks and post-dinner treats. Ingredients contain milk and soy", 
+                "This product is 8, 0.78oz individually wrapped packages in a 6.2oz box for freshness and great taste", 
+                "Satisfy your craving with the one-of-kind taste of sweet, crispy Rice Krispies Treats Original Bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Features:</B> no high fructose corn syrup", 
+            "<B>Flavor:</B> white chocolate"
+        ]
+    }, 
+    {
+        "description": "Made with invigorating whole grains and the delight of a delicious filling made with Apple Cinnamon to help you move at the speed of morning. Rise & Thrive with Nutri-Grain Soft-Baked Breakfast Bars, the wholesome goodness you need to shine your brightest!", 
+        "dpci": "", 
+        "brand": "Nutri-Grain", 
+        "tcin": "53195470", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53195470_Alt01", 
+                    "53195470_Alt02", 
+                    "53195470_Alt03", 
+                    "53195470_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53195470", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195470_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195470_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195470_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53195470_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53195470"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kellogg's Nutri-Grain Apple Cinnamon Cereal Bars", 
+        "url": "/p/kellogg-s-nutri-grain-apple-cinnamon-cereal-bars/-/A-53195470", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Apple Cinnamon Soft Baked Cereal Bars", 
+                "Made with Whole Grains", 
+                "No High Fructose Corn Syrup"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8.000", 
+            "<B>Flavor:</B> apple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Sandwiching the goodness of coconut butter from real coconut oil.   Each deliciously crispy biscuit is made with 100% natural whole grain oats and real toasted coconut.  13 grams of whole grain.", 
+        "dpci": "071-20-1673", 
+        "brand": "Nature Valley", 
+        "tcin": "52018159", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52018159", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52018159"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley&#174; Coconut Butter Biscuits - 6.75oz", 
+        "url": "/p/nature-valley-174-coconut-butter-biscuits-6-75oz/-/A-52018159", 
+        "release_date": "", 
+        "upc": "016000493926", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "0 grams trans fat", 
+                "No corn Syrup", 
+                "No artificial flavors or sweeteners"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Features:</B> no artificial flavors, no artificial colors, no high fructose corn syrup", 
+            "<B>Nutrition Features:</B> 0 grams trans fat", 
+            "<B>Flavor:</B> coconut"
+        ]
+    }, 
+    {
+        "description": "Let us make your world a little sweeter-taste the sweet, crispy goodness of Rice Krispies Treats Original Bars. In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-0187", 
+        "brand": "Rice Krispies", 
+        "tcin": "12992349", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992349_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992349_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992349"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Original Bars - 16ct - Kellogg's", 
+        "url": "/p/rice-krispies-treats-original-bars-16ct-kellogg-s/-/A-12992349", 
+        "release_date": "", 
+        "upc": "038000350559", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rice Krispies Treats Original Bars are a wholesome snack made without high-fructose corn syrup-perfect for brown-bag lunches, afternoon snacks and post-dinner treats. Ingredients contain milk and soy", 
+                "This product is 12, 0.78oz individually wrapped packages in a 12.4oz box for freshness and great taste", 
+                "Satisfy your craving with the one-of-kind taste of sweet, crispy Rice Krispies Treats Original Bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Features:</B> no high fructose corn syrup", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "The bakery-inspired Special K Strawberry Pastry Crisps are delicious strawberry-flavored snacks drizzled with yummy vanilla icing. They're little slices of heaven. Also available for purchase in single-serve packages.", 
+        "dpci": "071-20-0475", 
+        "brand": "Special K", 
+        "tcin": "12994667", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12994667_Alt01", 
+                    "12994667_Alt02", 
+                    "12994667_Alt03", 
+                    "12994667_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12994667_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994667_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994667", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994667_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994667_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12994667"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Special K Strawberry Pastry Crisp Bars - 6ct - Kellogg's", 
+        "url": "/p/special-k-strawberry-pastry-crisp-bars-6ct-kellogg-s/-/A-12994667", 
+        "release_date": "", 
+        "upc": "038000167782", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Delightful ingredients", 
+                "Decadent Flavors", 
+                "The Answer to Your Cravings", 
+                "6 Individually wrapped Strawberry Pastry Crisps"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Who says chocolate chip cookies can\u2019t be a snack? Take a bite of the Fiber One\u0099 Chocolate Chip Cookie Bars for a soft, chewy cookie that will fill you up with five grams of fiber and only 90 calories. Take it on the go or savor it as a sweet treat at home. Chocolate chip cookies never fail to satisfy \u2014 especially one as delicious and low-calorie as this.", 
+        "dpci": "071-20-1565", 
+        "brand": "Fiber One", 
+        "tcin": "14776523", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14776523_Alt01", 
+                    "14776523_Alt02"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14776523", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776523_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776523_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14776523"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Fibre One&#153; Chocolate Chip Cookie Brownies - 5.34oz", 
+        "url": "/p/fibre-one-153-chocolate-chip-cookie-brownies-5-34oz/-/A-14776523", 
+        "release_date": "", 
+        "upc": "016000426412", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Chocolate chip cookie brownie bars make for a scrumptiously soft-and-chewy treat", 
+                "90-calorie bar satisfies your sweet tooth and serves as a great source of fiber", 
+                "Made with no artificial flavors, artificial sweeteners, or colors from artificial sources"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> no artificial sweeteners, no artificial flavors, no artificial colors", 
+            "<B>Flavor:</B> chocolate chip"
+        ]
+    }, 
+    {
+        "description": "Make early mornings kinder on your body and soul by delighting in one of the Healthy Grains Peanut Butter Breakfast Bars from KIND\u00ae. These wholesome bars contain a mix of five sustaining super grains and are safe for those intolerant to gluten. Filled with toasted, honeyed oats and pats of creamy peanut butter, these bars provide the sweet and sustaining energy needed to carry your body through the day.", 
+        "dpci": "071-20-0563", 
+        "brand": "KIND", 
+        "tcin": "21496167", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "21496167_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21496167"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Peanut Butter Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-peanut-butter-breakfast-bars-4pk-of-2-bars/-/A-21496167", 
+        "release_date": "", 
+        "upc": "602652201059", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Peanut Butter Cookie & Peanut Butter Chocolate Chip bars give you a variety of flavors", 
+                "Mini size makes for an easy on-the-go snack and quickly diminishes your hunger pains", 
+                "Non-GMO, gluten-free and dairy-free ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4.000", 
+            "<B>Features:</B> non-GE (genetically engineered)", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> peanut butter, oat"
+        ]
+    }, 
+    {
+        "description": "Nature Valley Biscuits with Cocoa Almond Butter have no artificial flavors or high fructose corn syrup. Each biscuit has a delicious crispy texture and 100% natural whole grain oats combined with the goodness of cocoa almond butter. With 14g of whole grain per serving. They provide nutritious energy to help keep you going any time of day.", 
+        "dpci": "071-20-0902", 
+        "brand": "Nature Valley", 
+        "tcin": "51535662", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51535662_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51535662", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51535662_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51535662"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley Biscuits Cocoa Almond Butter - 5ct 6.75oz", 
+        "url": "/p/nature-valley-biscuits-cocoa-almond-butter-5ct-6-75oz/-/A-51535662", 
+        "release_date": "", 
+        "upc": "016000489271", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Energy from 14 g of whole grain", 
+                "Good source of fiber", 
+                "No artificial flavors or high fructose corn syrup"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Features:</B> no high fructose corn syrup, no artificial flavors", 
+            "<B>Flavor:</B> almond"
+        ]
+    }, 
+    {
+        "description": "Made with invigorating whole grains and the delight of a delicious filling made with blueberry to help you move at the speed of morning. Rise & Thrive with Nutri-Grain Soft-Baked Breakfast Bars, the wholesome goodness you need to shine your brightest!", 
+        "dpci": "071-20-0137", 
+        "brand": "Nutri-Grain", 
+        "tcin": "12992470", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992470_Alt01", 
+                    "12992470_Alt02", 
+                    "12992470_Alt03", 
+                    "12992470_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992470_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992470_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992470_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992470_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992470", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992470"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nutri-Grain Blueberry Soft Baked Cereal Bars - 8ct - Kellogg's", 
+        "url": "/p/nutri-grain-blueberry-soft-baked-cereal-bars-8ct-kellogg-s/-/A-12992470", 
+        "release_date": "", 
+        "upc": "038000357008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Soft Baked with Whole grains", 
+                "Now more real fruit", 
+                "No high fructose corn syrup"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8.000", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Belvita Chocolate crunchy Breakfast Biscuits are lightly sweet, crunchy biscuits made with high-quality and wholesome ingredients, like whole grain and real chocolate. Specially baked to release 4 hours of nutritious steady energy to fuel you all morning long and portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Each biscuit is made with 19g of delicious whole-grain, 3g of fiber, and B vitamins per 50g serving. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes 5 - 1.76oz packs of Belvita Breakfast Soft Baked Biscuits.", 
+        "dpci": "071-20-0051", 
+        "brand": "BelVita", 
+        "tcin": "14200470", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14200470_Alt01", 
+                    "14200470_Alt02", 
+                    "14200470_Alt03", 
+                    "14200470_Alt04", 
+                    "14200470_Alt05"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14200470_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200470", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200470_Alt05", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200470_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200470_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14200470_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14200470"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Belvita Chocolate Breakfast Biscuits - 8.8oz", 
+        "url": "/p/belvita-chocolate-breakfast-biscuits-8-8oz/-/A-14200470", 
+        "release_date": "", 
+        "upc": "044000031947", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, soft-baked breakfast biscuits", 
+                "Made with whole grain and real chocolate", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "3g of fiber", 
+                "Kosher Dairy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5.000", 
+            "<B>Flavor:</B> chocolate"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Whole Wheat Fig Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real fruit for an on-the-go snack that satisfies. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most.", 
+        "dpci": "071-20-0534", 
+        "brand": "Nature's Bakery", 
+        "tcin": "17078506", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "17078506", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17078506"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Fig Bar - 12oz - 6ct", 
+        "url": "/p/nature-s-bakery-fig-bar-12oz-6ct/-/A-17078506", 
+        "release_date": "", 
+        "upc": "047495210026", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Stone Ground Whole Wheat Fig Bar, Fig", 
+                "Non-GMO Project Verified", 
+                "Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> dairy free", 
+            "<B>Nutrition Features:</B> 0 grams trans fat, cholesterol free", 
+            "<B>Flavor:</B> fig"
+        ]
+    }, 
+    {
+        "description": "Make early mornings kinder on your body and soul by delighting in one of the Healthy Grains Honey Oat Breakfast Bars from KIND\u00ae. These wholesome bars contain a mix of five sustaining super grains and are safe for those intolerant to gluten. Filled with toasted grains and a lick of golden honey, these bars provide the sweet and sustaining energy needed to carry your body through the day.", 
+        "dpci": "071-20-0562", 
+        "brand": "KIND", 
+        "tcin": "21496166", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "21496166_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21496166"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Honey Oat Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-honey-oat-breakfast-bars-4pk-of-2-bars/-/A-21496166", 
+        "release_date": "", 
+        "upc": "602652201011", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with an innovative, gluten-free blend of oats, millet, buckwheat, amaranth and quinoa", 
+                "Features golden grains, toasty oats and rich, creamy peanut butter", 
+                "Safe for those intolerant to gluten, each serving provides 19g of whole grains", 
+                "Box contains 4 packs of 2 breakfast bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4.000", 
+            "<B>Features:</B> non-GE (genetically engineered)", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> oat, honey"
+        ]
+    }, 
+    {
+        "description": "Start the day right with these Almond Butter Breakfast Protein Bars from KIND. You'll have energy to last you all morning thanks to the whole grains and eight grams of protein. Each pack comes with two bars, so you can have one now and save one for later.", 
+        "dpci": "071-20-1712", 
+        "brand": "KIND", 
+        "tcin": "52244646", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52244646", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52244646"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Almond Butter Protein Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-almond-butter-protein-breakfast-bars-4pk-of-2-bars/-/A-52244646", 
+        "release_date": "", 
+        "upc": "602652204005", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Deliciously made with almond butter", 
+                "Stay fuller for longer", 
+                "Gluten-free and no genetically engineered ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Flavor:</B> almond"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Whole Wheat Fig Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real fruit for an on-the-go snack that satisfies. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most.", 
+        "dpci": "071-20-0533", 
+        "brand": "Nature's Bakery", 
+        "tcin": "17078505", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "17078505", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "17078505"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Apple Cinnamon Fig Bar - 6 ct", 
+        "url": "/p/nature-s-bakery-apple-cinnamon-fig-bar-6-ct/-/A-17078505", 
+        "release_date": "", 
+        "upc": "047495210002", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Stone Ground Whole Wheat Fig Bar, Apple Cinnamon", 
+                "Non-GMO Project Verified", 
+                "Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> dairy free", 
+            "<B>Nutrition Features:</B> 0 grams trans fat, cholesterol free", 
+            "<B>Flavor:</B> apple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Let us make your world a little sweeter-taste the sweet, crispy goodness of Rice Krispies Treats Original Bars. In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-0526", 
+        "brand": "Rice Krispies", 
+        "tcin": "14744667", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "14744667", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14744667"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kellogg's&#174; Rice Krispies The Original Treats Crispy Marshmallow Squares - 2.2oz", 
+        "url": "/p/kellogg-s-174-rice-krispies-the-original-treats-crispy-marshmallow-squares-2-2oz/-/A-14744667", 
+        "release_date": "", 
+        "upc": "490712005262", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rice Krispies Treats Original Bars are a wholesome snack made without high-fructose corn syrup-perfect for brown-bag lunches, afternoon snacks and post-dinner treats. Ingredients contain milk and soy", 
+                "This product is 1, 2.2oz individually wrapped packages for freshness and great taste", 
+                "Satisfy your craving with the one-of-kind taste of sweet, crispy Rice Krispies Treats Original Bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "Fiber One 90 Calorie Bar Lemon Bars. Go ahead... it's 90 calories per serving. Take a big bite of heaven with Fiber One Lemon Bars. Indulge in the delicious combination of a soft moist texture, a refreshingly tart and tangy lemon flavor, and a luscious drizzled topping. Each bar is 90 calories and provides 20% of the Daily Value of Fiber.* No Artificial Flavors;  No Colors from Artificial Sources;  No Artificial Sweeteners; Kosher Dairy", 
+        "dpci": "071-20-0217", 
+        "brand": "Fiber One", 
+        "tcin": "14744657", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14744657_Alt01", 
+                    "14744657_Alt02", 
+                    "14744657_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14744657_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14744657_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14744657", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14744657_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14744657"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Fiber One 90 Calorie Lemon Bar - 6ct", 
+        "url": "/p/fiber-one-90-calorie-lemon-bar-6ct/-/A-14744657", 
+        "release_date": "", 
+        "upc": "016000456969", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "20% Daily Value of Fiber", 
+                "3g of Total Fat per Bar", 
+                "90 Calories", 
+                "No Artificial Flavors, Colors from Artificial Sources or Artificial Sweeteners"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> lemon"
+        ]
+    }, 
+    {
+        "description": "Market Pantry\u0099 Apple & Cinnamon Cereal Bars are a great way to start your day. Have one for breakfast or as an on-the-go snack", 
+        "dpci": "071-20-0747", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13276030", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13276030"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Apple & Cinnamon Cereal Bars 8ct - Market Pantry&#153;", 
+        "url": "/p/apple-cinnamon-cereal-bars-8ct-market-pantry-153/-/A-13276030", 
+        "release_date": "", 
+        "upc": "490712007471", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with real fruit filling", 
+                "8 whole grains per serving", 
+                "8 bars", 
+                "120 calories"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8", 
+            "<B>Flavor:</B> apple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Nutri-Grain Mixed Berry breakfast bars are made with invigorating whole grains and the sweet delight of a filling made with mixed berry to keep you moving at the speed of morning.", 
+        "dpci": "071-20-0222", 
+        "brand": "Nutri-Grain", 
+        "tcin": "12992472", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992472_Alt01", 
+                    "12992472_Alt02", 
+                    "12992472_Alt03", 
+                    "12992472_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992472_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992472_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992472_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992472_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992472", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992472"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nutri-Grain Mixed Berry Soft Baked Cereal Bars - 8ct - Kellogg's", 
+        "url": "/p/nutri-grain-mixed-berry-soft-baked-cereal-bars-8ct-kellogg-s/-/A-12992472", 
+        "release_date": "", 
+        "upc": "038000355004", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Soft Baked with Whole grains", 
+                "Now more real fruit", 
+                "No high fructose corn syrup"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8.000", 
+            "<B>Flavor:</B> berry"
+        ]
+    }, 
+    {
+        "description": "Introducing the Perfect Bar recipe that started it all. Creamy organic peanut butter meets organic honey and 20+ expertly-hidden superfoods. It\u2019s a fresh and delicious meal on the go, so you can eat healthy wherever life takes you. And the ingredients are simple, wholesome and, yes, perfect. Find \u2018em in a Target fridge near you, next to the fresh produce!", 
+        "dpci": "211-34-0166", 
+        "brand": "Perfect Bar", 
+        "tcin": "50947850", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50947850"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Organic Peanut Butter Bar 2.5 oz", 
+        "url": "/p/perfect-bar-organic-peanut-butter-bar-2-5-oz/-/A-50947850", 
+        "release_date": "", 
+        "upc": "855569003029", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Refrigerated Nutrition Bar", 
+                "17g of Whole Food Protein", 
+                "USDA Certified Organic", 
+                "Non-GMO", 
+                "20+ Organic Superfoods", 
+                "Soy Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> no preservatives", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-34-0131", 
+        "brand": "Perfect Bar", 
+        "tcin": "52573877", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52573877", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52573877"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Dark Chocolate Peanut Butter with Sea Salt 2.3oz", 
+        "url": "/p/perfect-bar-dark-chocolate-peanut-butter-with-sea-salt-2-3oz/-/A-52573877", 
+        "release_date": "", 
+        "upc": "855569110604", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> soy free", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "Belvita Breakfast Biscuits are specially baked to release 4 hours of nutritious steady energy to fuel you all morning long. Luscious dark chocolate cr\u00e8me is sandwiched between two whole grain biscuits for a breakfast treat. These yummy breakfast sandwiches are portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Each biscuit is made with 15g delicious whole grain per 50g serving. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes 5- 1.76oz packs of Belvita Breakfast Biscuits.", 
+        "dpci": "071-20-1150", 
+        "brand": "BelVita", 
+        "tcin": "51694228", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51694228"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nabisco Belvita Toasted Coconut - 5ct 8.8oz", 
+        "url": "/p/nabisco-belvita-toasted-coconut-5ct-8-8oz/-/A-51694228", 
+        "release_date": "", 
+        "upc": "044000050153", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, crunchy breakfast biscuits", 
+                "Made with whole grain", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "3g of fiber"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> coconut"
+        ]
+    }, 
+    {
+        "description": "Make early mornings kinder on your body and soul by delighting in one of the Healthy Grains Blueberry Almond Breakfast Bars from KIND\u00ae. These wholesome bars contain a mix of five sustaining super grains and are safe for those intolerant to gluten. Filled with golden oats, toasted almonds and tender dried blueberries, these bars provide the sweet and sustaining energy needed to carry your body through the day.", 
+        "dpci": "071-20-0561", 
+        "brand": "KIND", 
+        "tcin": "21496165", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "21496165"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Blueberry Almond Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-blueberry-almond-breakfast-bars-4pk-of-2-bars/-/A-21496165", 
+        "release_date": "", 
+        "upc": "602652201042", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with an innovative, gluten-free blend of oats, millet, buckwheat, amaranth and quinoa", 
+                "Features toasted, golden oats bound together by sweet honey", 
+                "Safe for those intolerant to gluten, each serving provides 24g of whole grains", 
+                "Box contains 4 packs of 2 breakfast bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 4.000", 
+            "<B>Features:</B> non-GE (genetically engineered)", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> almond, blueberry, oat"
+        ]
+    }, 
+    {
+        "description": "Nature Valley Soft-Baked Oatmeal Squares Peanut Butter 6 - 1.24 oz. Bars. Made with 100% NATURAL whole grain oats. 12g of whole grain* whole grain per serving. At least 48g recommended daily. The perfect combination of creamy peanut butter and 12g of whole grain*. *12g of whole grain per serving. At least 48g recommended daily. Nature Valley Oatmeal Squares have a delicious soft and chewy texture, the goodness of 100% natural whole grain oats and are topped with a light drizzle that makes each square truly delicious", 
+        "dpci": "071-20-0215", 
+        "brand": "Nature Valley", 
+        "tcin": "14535680", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14535680_Alt01"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14535680", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14535680_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14535680"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley Soft-Baked Peanut Butter Oatmeal Bars 6ct", 
+        "url": "/p/nature-valley-soft-baked-peanut-butter-oatmeal-bars-6ct/-/A-14535680", 
+        "release_date": "", 
+        "upc": "016000458970", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made with 100% natural whole grain oats", 
+                "12g of whole grain* whole grain per serving. At least 48g recommended daily.", 
+                "Perfectly portable: Easy, wholesome bars for breakfast, snack time or an on-the-go treat"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Soft-Baked Brownie Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real dates for an on-the-go snack that will satisfy any sweet tooth. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most.", 
+        "dpci": "071-20-0759", 
+        "brand": "Nature's Bakery", 
+        "tcin": "50307817", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "50307817", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50307817"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Double Chocolate Brownie - 6ct", 
+        "url": "/p/nature-s-bakery-double-chocolate-brownie-6ct/-/A-50307817", 
+        "release_date": "", 
+        "upc": "047495751031", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Whole Wheat Soft-Baked Bar Brownie", 
+                "Non-GMO Project Verified, Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility", 
+                "Flavor: Double Chocolate"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Features:</B> dairy free, non-GE (genetically engineered)", 
+            "<B>Nutrition Features:</B> 0 grams trans fat, cholesterol free", 
+            "<B>Flavor:</B> chocolate"
+        ]
+    }, 
+    {
+        "description": "Getting an incredible value is important and so is great taste. Made with real fruit filling, whole grains and without high fructose corn syrup, our soft-baked breakfast bars are delicious and convenient for enjoying on the go.", 
+        "dpci": "071-20-0749", 
+        "brand": "market pantry&#153;", 
+        "tcin": "13275159", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13275159"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Blueberry Cereal Bars 8ct - Market Pantry&#153;", 
+        "url": "/p/blueberry-cereal-bars-8ct-market-pantry-153/-/A-13275159", 
+        "release_date": "", 
+        "upc": "490712007495", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Naturally flavored", 
+                "Made with real fruit filling"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Get your day started on the right foot with these Maple Cinnamon Breakfast Protein Bars from KIND\u00ae. Each serving is packed with 8 grams of protein and 22 grams of whole grains to give you some giddy up in the morning. The classic breakfast flavors of maple and cinnamon give this protein bar the taste you want in the morning.", 
+        "dpci": "071-20-1713", 
+        "brand": "KIND", 
+        "tcin": "52244647", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52244647", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52244647"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "KIND&#174; Maple Cinnamon Protein Breakfast Bars - 4pk of 2 Bars", 
+        "url": "/p/kind-174-maple-cinnamon-protein-breakfast-bars-4pk-of-2-bars/-/A-52244647", 
+        "release_date": "", 
+        "upc": "602652204029", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Breakfast protein bar for a great start to your day", 
+                "&nbsp;Maple cinnamon flavor", 
+                "&nbsp;22 grams of whole grains per serving", 
+                "&nbsp;8 grams of protein per serving", 
+                "&nbsp;Gluten free and non-GMO", 
+                "&nbsp;Made with 5 super grains including oats, millet, buckwheat, amaranth and quinoa"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 4", 
+            "<B>Flavor:</B> Maple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Tasty and nutritious, our cereal bars are a welcome snack anytime of day. Sun-ripened strawberry, whole grains and tasty nutrition are baked right into these bars.<br>Kashi\u00ae Soft-Baked Cereal Bars are baked up toasty and made with fruit and honey for goodness you can see and taste.", 
+        "dpci": "071-20-0183", 
+        "brand": "Kashi", 
+        "tcin": "12992462", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992462_Alt01", 
+                    "12992462_Alt02", 
+                    "12992462_Alt03", 
+                    "12992462_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992462_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992462_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992462_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992462", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992462_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992462"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kashi Ripe Strawberry Soft Baked Cereal Bars - 6ct", 
+        "url": "/p/kashi-ripe-strawberry-soft-baked-cereal-bars-6ct/-/A-12992462", 
+        "release_date": "", 
+        "upc": "018627386896", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "11g Whole Grains per serving", 
+                "3g Fiber per serving", 
+                "No high-fructose corn syrup", 
+                "Non-GMO Project Verified"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Belvita Blueberry crunchy Breakfast Bites are lightly sweet, crunchy snacks made with high-quality and wholesome ingredients, like whole grain and real blueberries. Specially baked to release 4 hours of nutritious steady energy to fuel you all morning long and portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Belvita Breakfast Bites are mini breakfast biscuits perfect for grabbing on the go. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes five 1.76oz packs of Belvita Blueberry Breakfast Bites", 
+        "dpci": "071-20-1017", 
+        "brand": "BelVita", 
+        "tcin": "53038986", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53038986_Alt01", 
+                    "53038986_Alt02", 
+                    "53038986_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53038986_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038986_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038986", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038986_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53038986"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Belvita Bites Mini Breakfast Biscuits - 8.8oz", 
+        "url": "/p/belvita-bites-mini-breakfast-biscuits-8-8oz/-/A-53038986", 
+        "release_date": "", 
+        "upc": "044000055325", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, crunchy breakfast biscuit bites", 
+                "Made with whole grain and real blueberries", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "Individually wrapped packs of bite-sized breakfast biscuits", 
+                "Kosher Dairy"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> vanilla"
+        ]
+    }, 
+    {
+        "description": "New! Annie's Homegrown Organic Crispy Snack Bars Original are Certified Organic, Gluten Free and Made with Goodness! Made with no artificial flavors, synthetic colors or synthetic preservatives and no high fructose corn syrup. Gluten and gelatin free. We work with trusted suppliers to source only non-GMO ingredients.", 
+        "dpci": "071-20-1596", 
+        "brand": "Annie's", 
+        "tcin": "53087613", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53087613_Alt01", 
+                    "53087613_Alt02", 
+                    "53087613_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53087613", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53087613_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53087613_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53087613_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53087613"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Annie's Homegrown Organic Original Crispy Snack Bars - 5/.78oz", 
+        "url": "/p/annie-s-homegrown-organic-original-crispy-snack-bars-5-78oz/-/A-53087613", 
+        "release_date": "", 
+        "upc": "013562289721", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Certified Organic", 
+                "No Artificial Flavors, No Synthetic Colors, No Synthetic Preservatives", 
+                "No High-Fructose Corn Syrup", 
+                "Gelatin-Free", 
+                "Gluten Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "This delicious blueberry flavored pastry is sure to delight during any snack time. Topped with vanilla icing, you'll forget you didn't have to go to the bakery.", 
+        "dpci": "071-20-0376", 
+        "brand": "Special K", 
+        "tcin": "12994666", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12994666_Alt01", 
+                    "12994666_Alt02", 
+                    "12994666_Alt03", 
+                    "12994666_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12994666", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994666_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994666_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994666_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12994666_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12994666"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Special K Blueberry Pastry Crisp Bars - 6ct - Kellogg's", 
+        "url": "/p/special-k-blueberry-pastry-crisp-bars-6ct-kellogg-s/-/A-12994666", 
+        "release_date": "", 
+        "upc": "038000167737", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Delightful ingredients", 
+                "Decadent Flavors", 
+                "The Answer to Your Cravings", 
+                "6 Individually wrapped Blueberry Pastry Crisps"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "When you need a sweet treat to get through the afternoon, grab one of the Fiber One\u0099 Strawberry Cheesecake Bars for a dessert you can feel good about. These soft bars bring the strawberry cheesecake flavor you love while also giving you 20% of your daily value of fiber. At just 150 calories, you\u2019ll always want to keep one of these on hand.", 
+        "dpci": "071-20-0355", 
+        "brand": "Fiber One", 
+        "tcin": "16951612", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "16951612", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16951612"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Fiber One&#153; Strawberry Cheesecake Bars - 6.75oz", 
+        "url": "/p/fiber-one-153-strawberry-cheesecake-bars-6-75oz/-/A-16951612", 
+        "release_date": "", 
+        "upc": "016000439764", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Only 150 calories per bar", 
+                "Individually packaged to easily grab and go", 
+                "5g of fiber in each bar"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 5.000", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Start your day off right with Banana Fudge-Filled Cereal Bars 6 Count from Market Pantry offer. These cereal bars offer a satisfying mix of banana and fudge that is truly tempting.<br><br>Market Pantry promises freshness and quality always at a great value.", 
+        "dpci": "071-20-1561", 
+        "brand": "market pantry&#153;", 
+        "tcin": "14750339", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14750339"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Soft Baked Banana Fudge Breakfast Bars - 6ct - Market Pantry&#153;", 
+        "url": "/p/soft-baked-banana-fudge-breakfast-bars-6ct-market-pantry-153/-/A-14750339", 
+        "release_date": "", 
+        "upc": "085239215616", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Chewy and delicious, soft baked breakfast bars", 
+                "Delicious banana flavored cereal bars with fudge filling", 
+                "Contains no high-fructose corn syrup", 
+                "6 individually wrapped bars per pack"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> banana, chocolate"
+        ]
+    }, 
+    {
+        "description": "Bakery-inspired Special K Brown Sugar Cinnamon Pastry Crisps feature a perfect balance of cinnamon and brown sugar. It's a classic combination that is as timeless as it is tasty.", 
+        "dpci": "071-20-1571", 
+        "brand": "Special K", 
+        "tcin": "14776542", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "14776542_Alt01", 
+                    "14776542_Alt02", 
+                    "14776542_Alt03", 
+                    "14776542_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "14776542", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776542_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776542_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776542_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "14776542_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "14776542"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Special K Cinnamon Pastry Crisp Bars - 6ct - Kellogg's", 
+        "url": "/p/special-k-cinnamon-pastry-crisp-bars-6ct-kellogg-s/-/A-14776542", 
+        "release_date": "", 
+        "upc": "038000167713", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Delightful ingredients", 
+                "Decadent Flavors", 
+                "The Answer to Your Cravings", 
+                "6 Individually wrapped Cinnamon Pastry Crisps"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Flavor:</B> brown sugar, cinnamon"
+        ]
+    }, 
+    {
+        "description": "For a sweet, tasty treat that you can have any time and any place, just pick up a box of Chocolate Chip Bars from Kashi. The crunchy 7 grain with quinoa bars have great flavor that you'll love to indulge in for a guilt-free treat or a quick breakfast on the go.", 
+        "dpci": "071-20-0407", 
+        "brand": "Kashi", 
+        "tcin": "15026391", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15026391"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kashi Chocolate Chip Chia Crunchy Quinoa Bars - 10ct", 
+        "url": "/p/kashi-chocolate-chip-chia-crunchy-quinoa-bars-10ct/-/A-15026391", 
+        "release_date": "", 
+        "upc": "018627100010", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Non GMO", 
+                "Vegan", 
+                "Comes with 5 packs with 2 bars per pack", 
+                "Crunchy 7 Grains with Quinoa Bars- Chocolate Chip Chia", 
+                "At Kashi, Innovative nutrition is our approach to food It means we value whole food and put the inherent nutrition of food first when considering every ingredient. It means we make our food with a plants-first mindset. It means we value not just the foods we make, but also how we make them by being progressive and mindful of sustainable and ethical farming practices."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5.000", 
+            "<B>Flavor:</B> chocolate chip"
+        ]
+    }, 
+    {
+        "description": "Keep a yummy organic snack on hand - the Naturally Flavored Apple Cinnamon Fruit and Grain Bars from Simply Balanced\u0099 will satisfy your hunger and your sweet tooth. With eight grams of whole grain per serving, you'll feel good while enjoying a sweet treat with the natural flavors of apple and cinnamon.", 
+        "dpci": "071-20-0788", 
+        "brand": "Simply Balanced&#153;", 
+        "tcin": "16951576", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16951576"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Apple Cinnamon Naturally Flavored Fruit & Grain Bars - 7.8oz - Simply Balanced&#153;", 
+        "url": "/p/apple-cinnamon-naturally-flavored-fruit-grain-bars-7-8oz-simply-balanced-153/-/A-16951576", 
+        "release_date": "", 
+        "upc": "085239001325", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Organic fruit and grain bars", 
+                "Sweet apple flavor with a hint of cinnamon spice", 
+                "8g of whole grain per serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6.000", 
+            "<B>Flavor:</B> apple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "It\u2019s no secret our original Peanut Butter Perfect Bar is a crowd favorite, so we decided to take it up a notch and pair it with fresh coconut flakes for a taste that will rock your world. It\u2019s time we give our peanut butter lovers a reason to go coco-nuts.", 
+        "dpci": "211-34-0023", 
+        "brand": "Perfect Bar", 
+        "tcin": "51599988", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51599988"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Coconut Peanut Butter 2.5 oz", 
+        "url": "/p/perfect-bar-coconut-peanut-butter-2-5-oz/-/A-51599988", 
+        "release_date": "", 
+        "upc": "855569110505", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> non-GE (genetically engineered), soy free", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> coconut, peanut butter"
+        ]
+    }, 
+    {
+        "description": "Quaker Strawberry Breakfast Squares are delicious, convenient and healthy bars to enjoy on-the-go. While they might be named breakfast squares, you can enjoy these as a pick-me-up snack anytime throughout the day. The strawberry breakfast bars are made with whole wheat and don't include high fructose corn syrup or artificial flavors, so you know what you're getting is authentic.", 
+        "dpci": "071-20-1497", 
+        "brand": "Quaker", 
+        "tcin": "51714793", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51714793_Alt01", 
+                    "51714793_Alt02", 
+                    "51714793_Alt03", 
+                    "51714793_Alt04", 
+                    "51714793_Alt05"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51714793", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714793_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714793_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714793_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714793_Alt05", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714793_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51714793"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Quaker Breakfast Squares Strawberry - 5ct 10.5oz", 
+        "url": "/p/quaker-breakfast-squares-strawberry-5ct-10-5oz/-/A-51714793", 
+        "release_date": "", 
+        "upc": "030000560815", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Individually wrapped packages are easy to take on-the-go", 
+                "Strawberry flavor is sweet and tart", 
+                "5 breakfast bars are great to use throughout the week"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> strawberry"
+        ]
+    }, 
+    {
+        "description": "Belvita Breakfast Biscuits are specially baked to release 4 hours of nutritious steady energy to fuel you all morning long. Strawberry Yogurt Cr\u00e8me is sandwiched between two whole grain biscuits for a breakfast treat. These yummy breakfast sandwiches are portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Each biscuit is made with 15g delicious whole grain per 50g serving. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes 5- 1.76oz packs of Belvita Breakfast Biscuit.", 
+        "dpci": "071-20-1065", 
+        "brand": "BelVita", 
+        "tcin": "51694155", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51694155"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nabisco Belvita Breakfast Sandwich Strawberry Yogurt Cr&#232;me - 5ct 8.8oz", 
+        "url": "/p/nabisco-belvita-breakfast-sandwich-strawberry-yogurt-cr-232-me-5ct-8-8oz/-/A-51694155", 
+        "release_date": "", 
+        "upc": "044000050320", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, crunchy breakfast biscuits", 
+                "Made with whole grain", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "Strawberry yogurt cr&#232;me", 
+                "15g delicious whole grain per 50g serving"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> strawberry, yogurt"
+        ]
+    }, 
+    {
+        "description": "The Quaker Apple Cinnamon Breakfast Squares are delicious, convenient and healthy bars to enjoy on the go. While they might be named breakfast squares, you can enjoy these as a pick-me-up snack anytime throughout the day. The apple cinnamon flavor is made with sweet apple puree, sweet cinnamon, whole wheat and whole grain Quaker oats to give you a scrumptious way to fuel your body.", 
+        "dpci": "071-20-1495", 
+        "brand": "Quaker", 
+        "tcin": "51714789", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51714789_Alt01", 
+                    "51714789_Alt02", 
+                    "51714789_Alt03", 
+                    "51714789_Alt04", 
+                    "51714789_Alt05"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51714789_Alt05", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714789", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714789_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714789_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714789_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714789_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51714789"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Quaker Breakfast Squares Apple Cinnamon - 5ct 10.5oz", 
+        "url": "/p/quaker-breakfast-squares-apple-cinnamon-5ct-10-5oz/-/A-51714789", 
+        "release_date": "", 
+        "upc": "030000560808", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "23g of fiber to keep you full throughout the day", 
+                "Deliciously sweet flavor satisfies your cravings", 
+                "Convenient and healthy snack to eat on the go"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> apple, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Belvita Vanilla Oat crunchy Breakfast Biscuits are lightly sweet, crunchy biscuits made with high-quality and wholesome ingredients. Specially baked to release 4 hours of nutritious steady energy to fuel you all morning long and portioned in convenient, individual packs to help you grab a breakfast option no matter what the morning brings. Each 50g serving is made with 21g of delicious whole-grain and 3g of fiber. Belvita contains no high-fructose corn syrup, no partially hydrogenated oils, and no artificial flavors or sweeteners. This order includes five 1.76oz packs of Belvita Breakfast Biscuits Vanilla Oat.", 
+        "dpci": "071-20-1266", 
+        "brand": "BelVita", 
+        "tcin": "53038935", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53038935_Alt01", 
+                    "53038935_Alt02", 
+                    "53038935_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53038935_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038935", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038935_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53038935_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53038935"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Belvita Vanilla Oat Breakfast Biscuits - 8.8oz", 
+        "url": "/p/belvita-vanilla-oat-breakfast-biscuits-8-8oz/-/A-53038935", 
+        "release_date": "", 
+        "upc": "044000055561", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Lightly sweet, crunchy breakfast biscuits", 
+                "Delicious Vanilla Oat flavor made with whole grain", 
+                "Provides 4 hours of nutritious steady energy", 
+                "No high-fructose corn syrup and no artificial flavors or sweeteners", 
+                "Five individually wrapped packs containing 4 biscuits each"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Chewy with a hint of crisp, the Special K Red Berries Bars are music to your taste buds. Each bar is made of real fruit pieces with flavors of berries and golden rolled oats you can feel good about.", 
+        "dpci": "071-20-0437", 
+        "brand": "Special K", 
+        "tcin": "12992716", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "12992716_Alt01", 
+                    "12992716_Alt02", 
+                    "12992716_Alt03", 
+                    "12992716_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "12992716_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992716_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992716", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992716_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "12992716_Alt04", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "12992716"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Special K Red Berries Chewy Snack Bars - 6pk - Kellogg's", 
+        "url": "/p/special-k-red-berries-chewy-snack-bars-6pk-kellogg-s/-/A-12992716", 
+        "release_date": "", 
+        "upc": "038000124204", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "90 Calories Per Bar", 
+                "6 Individually Wrapped Bars for on the go convenience", 
+                "No Artificial Flavors"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> berry"
+        ]
+    }, 
+    {
+        "description": "Nature's Bakery Gluten-Free Fig Bars are fuel for everyday life's great journeys. Made with wholesome and natural ingredients, our delicious soft-baked baked bars are filled with real fruit for an on-the-go snack that satisfies. Perfectly portioned in two bars, our twin-packs don't melt, crumble or break--they're the daily snack companion you can rely on to be there when you need them most. Finally, gluten-free snacks that don't compromise on taste!", 
+        "dpci": "071-20-1034", 
+        "brand": "Nature's Bakery", 
+        "tcin": "50307997", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "50307997", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50307997"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature's Bakery Gluten Free Fig Bar - 6ct", 
+        "url": "/p/nature-s-bakery-gluten-free-fig-bar-6ct/-/A-50307997", 
+        "release_date": "", 
+        "upc": "047495710625", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Gluten-Free Fig Bar, Fig", 
+                "Certified Gluten-Free; Made with special blend of ancient grains: Amaranth, Teff, Sorghum", 
+                "Non-GMO Project Verified, Certified Kosher, Certified Vegan, Soy-Free", 
+                "No artificial flavors, colors & no high fructose corn syrup", 
+                "12oz/6ct x 2oz Twin Packs per carton", 
+                "Manufactured in a Nut-Free Facility", 
+                "Flavor: Fig"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 6", 
+            "<B>Features:</B> no high fructose corn syrup, no preservatives, no artificial flavors, no artificial colors", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> fig"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-34-0133", 
+        "brand": "Perfect Bar", 
+        "tcin": "52573875", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52573875", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52573875"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Dark Chocolate Almond 2.3oz", 
+        "url": "/p/perfect-bar-dark-chocolate-almond-2-3oz/-/A-52573875", 
+        "release_date": "", 
+        "upc": "855569210205", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> soy free", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-0103", 
+        "brand": "Rice Krispies", 
+        "tcin": "16732207", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "16732207_Alt01", 
+                    "16732207_Alt02", 
+                    "16732207_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "16732207_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "16732207_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "16732207_Alt03", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "16732207"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Variety Pack bars - 16ct - Kellogg's", 
+        "url": "/p/rice-krispies-treats-variety-pack-bars-16ct-kellogg-s/-/A-16732207", 
+        "release_date": "", 
+        "upc": "038000156038", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Crisp rice cereal and marshmallow squares", 
+                "16 variety flavored bars", 
+                "No high fructose corn syrup."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1.000", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "This bar is a dreamy blend of creamy cashew butter, almond butter, bursting blueberries and a hint of vanilla. We're beyond excited to add another nut butter to the family, and with real blueberris and vanilla, it's truly our most delectable bar yet!", 
+        "dpci": "211-34-0030", 
+        "brand": "Starbucks Coffee", 
+        "tcin": "51599994", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51599994"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Blueberry Cashew 2.5 oz", 
+        "url": "/p/perfect-bar-blueberry-cashew-2-5-oz/-/A-51599994", 
+        "release_date": "", 
+        "upc": "855569210403", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> non-GE (genetically engineered), soy free", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> blueberry, Cashew"
+        ]
+    }, 
+    {
+        "description": "Maple plus Almond Butter equals perfection, eh? Delish for breakfast, dessert and every meal in between, it\u2019s the perfect bar for hiking adventures and cool-weather bonfires, or a great pick for your Sunday morning pancake fix. So much YES!", 
+        "dpci": "211-34-0024", 
+        "brand": "Starbucks Coffee", 
+        "tcin": "51599991", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51599991"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Maple Almond 2.5 oz", 
+        "url": "/p/perfect-bar-maple-almond-2-5-oz/-/A-51599991", 
+        "release_date": "", 
+        "upc": "855569210304", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> non-GE (genetically engineered), soy free", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> Maple, almond"
+        ]
+    }, 
+    {
+        "description": "The Quaker Peanut Butter Breakfast Squares are delicious, convenient and healthy bars to enjoy on the go. While they might be named breakfast squares, you can enjoy these as a pick-me-up snack anytime throughout the day. The peanut butter flavor pairs peanut butter, whole wheat and whole grain Quaker oats to give you a scrumptious way to fuel your body.", 
+        "dpci": "071-20-1496", 
+        "brand": "Quaker", 
+        "tcin": "51714792", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "51714792_Alt01", 
+                    "51714792_Alt02", 
+                    "51714792_Alt03", 
+                    "51714792_Alt04", 
+                    "51714792_Alt05"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "51714792_Alt05", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714792_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714792_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714792_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714792", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "51714792_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "51714792"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Quaker Breakfast Squares Peanut Butter - 5ct 10.5oz", 
+        "url": "/p/quaker-breakfast-squares-peanut-butter-5ct-10-5oz/-/A-51714792", 
+        "release_date": "", 
+        "upc": "030000561973", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "23g of fiber to keep you full throughout the day", 
+                "Deliciously sweet flavor satisfies your cravings", 
+                "Convenient and healthy snack to eat on the go"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "Whether you're looking for a guilt-free treat or a quick on-the-go breakfast option, just pick up a box of Biscuits with Peanut Butter from Nature Valley\u0099. Creamy peanut butter is layered between two honey biscuits, making them a delicious sweet treat you can have any time of the day.", 
+        "dpci": "071-20-0950", 
+        "brand": "Nature Valley", 
+        "tcin": "51535692", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "51535692", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51535692"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nature Valley&#153; Peanut Butter Biscuits Value Pack - 13.5oz - 10ct", 
+        "url": "/p/nature-valley-153-peanut-butter-biscuits-value-pack-13-5oz-10ct/-/A-51535692", 
+        "release_date": "", 
+        "upc": "016000491755", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Comes with 10 pouches", 
+                "Perfect to take on the go", 
+                "Made with peanut butter and whole grains"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 10", 
+            "<B>Features:</B> no high fructose corn syrup, no artificial flavors", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "Quaker Cranberry Almond Breakfast Flats offer a tarty sweet way to satisfy those taste buds without loading up on a bunch of unsatisfying fillers. Full of whole grains, tart cranberries and crunchy almonds, these bars are sure to hit the spot whether you enjoy them with your morning coffee or as a post-workout snack. Toss one in your purse or backpack or keep one in the car for an easy on-the-go snack.", 
+        "dpci": "071-20-1051", 
+        "brand": "Quaker", 
+        "tcin": "50080809", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "50080809_Alt01", 
+                    "50080809_Alt02", 
+                    "50080809_Alt03", 
+                    "50080809_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "50080809_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080809", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080809_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080809_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080809_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "50080809"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Quaker Breakfast Flats Cranberry Almond - 7oz", 
+        "url": "/p/quaker-breakfast-flats-cranberry-almond-7oz/-/A-50080809", 
+        "release_date": "", 
+        "upc": "030000322420", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Cranberry almond snack bars bring the perfect amount of sweetness to your day", 
+                "Crispy snack bars have a satisfying crunch you'll love", 
+                "&nbsp;Snack bars with no artificial flavors or colors let you feel good about what you're eating"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> cranberry, almond"
+        ]
+    }, 
+    {
+        "description": "Breakfast time with your little one will be a breeze when they get to eat these The Lion Guard Strawberry Breakfast Biscuit Bites from Pure Growth Organic\u00ae. They'll love the sweet, strawberry flavor, and you'll love that each serving has 20g of whole grains and that they have a good source of fiber. Keep a pack in your purse for when those midday hunger voids need to be filled.", 
+        "dpci": "071-20-1703", 
+        "brand": "Pure Growth Organic", 
+        "tcin": "52278116", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52278116", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52278116"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Pure Growth Organic Strawberry Breakfast Biscuit Bites - 6oz", 
+        "url": "/p/pure-growth-organic-strawberry-breakfast-biscuit-bites-6oz/-/A-52278116", 
+        "release_date": "", 
+        "upc": "854098006921", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Organic and no artificial flavors", 
+                "&nbsp;20g of whole grains and good source of fiber", 
+                "Easy to take on the go", 
+                "Delicious taste kids love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Quaker Banana Honey Nut Breakfast Flats offer a sweet way to satisfy those taste buds without loading up on a bunch of unsatisfying fillers. Full whole grains, real fruit, and crunchy nuts and seeds, these bars are sure to hit the spot whether you enjoy them with your morning coffee or as a post-workout snack. Toss one in your purse or backpack or keep one in the car for an easy on-the-go snack.", 
+        "dpci": "071-20-1050", 
+        "brand": "Quaker", 
+        "tcin": "50080810", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "50080810_Alt01", 
+                    "50080810_Alt02", 
+                    "50080810_Alt03", 
+                    "50080810_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "50080810_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080810_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080810", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080810_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "50080810_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "50080810"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Quaker Breakfast Flats Banana Honey Nut - 7oz", 
+        "url": "/p/quaker-breakfast-flats-banana-honey-nut-7oz/-/A-50080810", 
+        "release_date": "", 
+        "upc": "030000560112", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Banana honey snack bars bring the perfect amount of sweetness to your day", 
+                "Crispy snack bars have a satisfying crunch you'll love", 
+                "&nbsp;Snack bars with no artificial flavors or colors let you feel good about what you're eating"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> banana, honey"
+        ]
+    }, 
+    {
+        "description": "Breakfast time with your little one will be a breeze when they get to eat these PJ Masks Blueberry Breakfast Biscuits from Pure Growth Organic\u00ae. They'll love the yummy, blueberry flavor, and you'll love that each serving has 18g of whole grains and that they have a good source of fiber. Keep a pack in your purse for when those midday hunger voids need to be filled.", 
+        "dpci": "071-20-1704", 
+        "brand": "Pure Growth Organic", 
+        "tcin": "52278117", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52278117", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52278117"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Pure Growth Organic Blueberry Breakfast Biscuits - 6oz", 
+        "url": "/p/pure-growth-organic-blueberry-breakfast-biscuits-6oz/-/A-52278117", 
+        "release_date": "", 
+        "upc": "854098006884", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Organic and no artificial flavors", 
+                "&nbsp;18g of whole grains and good source of fiber", 
+                "Easy to take on the go", 
+                "Delicious taste kids love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> blueberry"
+        ]
+    }, 
+    {
+        "description": "Fresh Bar\u2019s Chocolate Peanut Butter Banana snack bar allows you to indulge in a rich blend of favorite flavors, while also offering the nutritional benefits of a hearty bowl of oatmeal. Because it\u2019s not dried out or loaded with preservatives, you\u2019ll find Fresh Bar sold in the refrigerated section of Target Stores, where it offers customers a naturally soft texture and a fresh flavor unlike any other bar. Fresh Bar\u2019s natural ingredients like oats, honey, fruit, milk, and nuts are simple and wholesome, granting every bar an invigorating, fresh flavor, along with plenty of whole-grains, protein, and fiber. Enjoy Fresh Bar as an afternoon snack, a healthy treat, or a satisfying, on-the-go breakfast!", 
+        "dpci": "211-34-0019", 
+        "brand": "Fresh Bar", 
+        "tcin": "51471106", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51471106"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Five Friends Food Fresh Bar Chocolate Peanut Butter 2.3 oz", 
+        "url": "/p/five-friends-food-fresh-bar-chocolate-peanut-butter-2-3-oz/-/A-51471106", 
+        "release_date": "", 
+        "upc": "854644006061", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Flavor:</B> chocolate, banana, peanut butter"
+        ]
+    }, 
+    {
+        "description": "Breakfast time with your little one will be a breeze when they get to eat these Paw Patrol Chocolate Breakfast Biscuits from Pure Growth Organic\u00ae. They'll love the delicious, chocolate flavor, and you'll love that each serving has 18g of whole grains and that they have a good source of fiber. Keep a pack in your purse for when those midday hunger voids need to be filled.", 
+        "dpci": "071-20-1705", 
+        "brand": "Pure Growth Organic", 
+        "tcin": "52278118", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52278118", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52278118"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Paw Patrol Pure Growth Organic Chocolate Breakfast Biscuits - 6oz", 
+        "url": "/p/paw-patrol-pure-growth-organic-chocolate-breakfast-biscuits-6oz/-/A-52278118", 
+        "release_date": "", 
+        "upc": "854098006860", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Organic and no artificial flavors", 
+                "&nbsp;18g of whole grains and good source of fiber", 
+                "Easy to take on the go", 
+                "Delicious taste kids love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> chocolate chip"
+        ]
+    }, 
+    {
+        "description": "Fresh Bar\u2019s Apple Almond Cinnamon snack bar tastes like a real apple pie! Plus, it\u2019s gluten-free and has all the nutrition of a hearty bowl of oatmeal. Because Fresh Bar isn\u2019t dried out or loaded with preservatives, you\u2019ll find it in the refrigerated section of Target Stores. Fresh Bar\u2019s simple ingredients like oats, honey, fruit, milk, and nuts grant every bar a rich, genuine flavor, along with plenty of whole-grains, protein, and fiber. Enjoy Fresh Bar as an afternoon snack, a healthy treat, or a satisfying, on-the-go breakfast!", 
+        "dpci": "211-34-0017", 
+        "brand": "Fresh Bar", 
+        "tcin": "51460294", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51460294"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Five Friends Food Fresh Bar Apple Almond Cinnamon 2.3 oz", 
+        "url": "/p/five-friends-food-fresh-bar-apple-almond-cinnamon-2-3-oz/-/A-51460294", 
+        "release_date": "", 
+        "upc": "854644006047", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Flavor:</B> apple, almond, cinnamon"
+        ]
+    }, 
+    {
+        "description": "Breakfast time with your little one will be a breeze when they get to eat these Mickey Mouse Apple Cinnamon Breakfast Biscuit Bites from Pure Growth Organic\u00ae. They'll love the apple cinnamon flavor, and you'll love that each serving has 20g of whole grains and that they have a good source of fiber. Keep a pack in your purse for when those midday hunger voids need to be filled.", 
+        "dpci": "071-20-1702", 
+        "brand": "Pure Growth Organic", 
+        "tcin": "52278115", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52278115", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52278115"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Pure Growth Organic Apple Cinnamon Breakfast Biscuit Bites - 6oz", 
+        "url": "/p/pure-growth-organic-apple-cinnamon-breakfast-biscuit-bites-6oz/-/A-52278115", 
+        "release_date": "", 
+        "upc": "854098006907", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Organic and no artificial flavors", 
+                "&nbsp;20g of whole grains and good source of fiber", 
+                "Easy to take on the go", 
+                "Delicious taste kids love"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> cinnamon"
+        ]
+    }, 
+    {
+        "description": "Kellogg's Cocoa Krispies Treats are a delicious chocolately snacks! Contains 28 individually wrapped mini's inside an easy Pantry Pack!", 
+        "dpci": "071-09-1055", 
+        "brand": "Rice Krispies", 
+        "tcin": "53092882", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53092882_Alt01", 
+                    "53092882_Alt02", 
+                    "53092882_Alt04"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53092882_Alt04", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53092882", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53092882_Alt01", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53092882_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53092882"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Cocoa Krispies Treats Chocolate Mini Squares - 28/0.39oz - Kellogg's", 
+        "url": "/p/cocoa-krispies-treats-chocolate-mini-squares-28-0-39oz-kellogg-s/-/A-53092882", 
+        "release_date": "", 
+        "upc": "038000175480", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Chocolate Mini Marshmallow Squares", 
+                "28 Servings per Container", 
+                "", 
+                ""
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 28", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "New! 22 g whole grain per 50 g serving. 4 hours of nutritious steady energy. Natural flavor with other natural flavor. A delicious start to a busy morning delivering 4 hours of nutritious steady energy belVita Bites, a nutritious, convenient, on-the-go breakfast choice that contains slow-release carbs from wholesome grains to help fuel your body for 4 hours. Check out the rest of the belVita Family! 22 g delicious whole grain per 50 g serving (about 46 biscuits). A good source of fiber. 8 g total fat per serving. No high fructose corn syrup. No partially hydrogenated oils. No artificial flavors or sweeteners. Whole Grain: 22 g or more per serving. Eat 48 g or more of whole grains daily.  22 g whole grain per 50 g serving. Nutrition experts recommend eating 48 g or more of whole grains throughout the day. Enjoy belVita Mini Breakfast Biscuits as part of a balanced breakfast with a serving of low-fat dairy and fruit.  Please have package available. Please recycle carton. Made in Mexico.", 
+        "dpci": "071-20-1154", 
+        "brand": "", 
+        "tcin": "51694248", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51694248"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Nabisco belVita Breakfast Bites Cinnamon Brown Sugar 5ct 8.8 oz", 
+        "url": "/p/nabisco-belvita-breakfast-bites-cinnamon-brown-sugar-5ct-8-8-oz/-/A-51694248", 
+        "release_date": "", 
+        "upc": "044000044442", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "No High Fructose Corn Syrup", 
+                "Good Source of Fiber", 
+                "No Artificial Flavors or Sweeteners", 
+                "Whole Grains"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 5", 
+            "<B>Flavor:</B> cinnamon, brown sugar"
+        ]
+    }, 
+    {
+        "description": "Nature\u2019s Best Kept Secret. You\u2019ll love this blend of creamy organic peanut butter, rich and velvety carob chips, organic honey and 20+ expertly-hidden superfoods. Fresh from the fridge and perfect on the go, it\u2019s hand-held nirvana. Find \u2018em in a Target fridge near you, next to the fresh produce!", 
+        "dpci": "211-34-0004", 
+        "brand": "Perfect Bar", 
+        "tcin": "51443660", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "51443660"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Perfect Bar Carob Chip 2.5 oz", 
+        "url": "/p/perfect-bar-carob-chip-2-5-oz/-/A-51443660", 
+        "release_date": "", 
+        "upc": "855569003043", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Refrigerated Nutrition Bar", 
+                "16g of Whole Food Protein", 
+                "USDA Certified Organic", 
+                "Non-GMO", 
+                "20+ Organic Superfoods", 
+                "Soy Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Features:</B> no preservatives", 
+            "<B>Nutrition Features:</B> gluten free", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }, 
+    {
+        "description": "Let us make your world a little sweeter-taste the sweet, crispy goodness of Rice Krispies Treats Original Bars. In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-1527", 
+        "brand": "Rice Krispies", 
+        "tcin": "14918464", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14918464"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Original Bar - 1.3oz - Kellogg's", 
+        "url": "/p/rice-krispies-treats-original-bar-1-3oz-kellogg-s/-/A-14918464", 
+        "release_date": "", 
+        "upc": "038000765414", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rice Krispies Treats Original Bars are a wholesome snack made without high-fructose corn syrup-perfect for brown-bag lunches, afternoon snacks and post-dinner treats. Ingredients contain milk and soy", 
+                "This product is 1, 1.3oz individually wrapped packages for freshness and great taste", 
+                "Satisfy your craving with the one-of-kind taste of sweet, crispy Rice Krispies Treats Original Bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 1", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "071-02-0191", 
+        "brand": "Rice Krispies", 
+        "tcin": "52336144", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52336144"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies Treats Big Bar - 2.2 oz - 12 ct", 
+        "url": "/p/rice-krispies-treats-big-bar-2-2-oz-12-ct/-/A-52336144", 
+        "release_date": "", 
+        "upc": "038000590986", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "Let us make your world a little sweeter-taste the sweet, crispy goodness of Rice Krispies Treats Original Bars. In 1906, W.K. Kellogg founded the Kellogg Company in Battle Creek, Michigan. Kellogg was strongly dedicated to nutrition, health and value-and for more than 100 years, his commitment to excellence has guided the company. As the first company to fortify its cereals and create boxes that offer prizes, coupons and games, Kellogg has historically been a leader in industry, innovation and marketing. Today, as a top producer of cereal and convenience foods, Kellogg is a company that you can always rely on for high quality and great taste.", 
+        "dpci": "071-20-0001", 
+        "brand": "Rice Krispies", 
+        "tcin": "47886300", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "47886300_Alt01", 
+                    "47886300_Alt02", 
+                    "47886300_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "47886300", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "47886300_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "47886300_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "47886300_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "47886300"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Rice Krispies The Original Treats Crispy Marshmallow Cereal Bars - 40ct - Kellogg's", 
+        "url": "/p/rice-krispies-the-original-treats-crispy-marshmallow-cereal-bars-40ct-kellogg-s/-/A-47886300", 
+        "release_date": "", 
+        "upc": "038000077814", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Rice Krispies Treats Original Bars are a wholesome snack made without high-fructose corn syrup-perfect for brown-bag lunches, afternoon snacks and post-dinner treats. Ingredients contain milk and soy", 
+                "This product is 40, 0.78oz individually wrapped packages in a 31.2oz box for freshness and great taste", 
+                "Satisfy your craving with the one-of-kind taste of sweet, crispy Rice Krispies Treats Original Bars"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> crunchy", 
+            "<B>Number of Units Per Package:</B> 40.000", 
+            "<B>Flavor:</B> marshmallow"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "071-02-0196", 
+        "brand": "Special K", 
+        "tcin": "52336405", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52336405"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Kellogg's Special K Chocolatey Dipped Mint Protein Bars - 12.7oz", 
+        "url": "/p/kellogg-s-special-k-chocolatey-dipped-mint-protein-bars-12-7oz/-/A-52336405", 
+        "release_date": "", 
+        "upc": "038000139734", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 8", 
+            "<B>Flavor:</B> chocolate"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "071-02-0263", 
+        "brand": "Candy.com Reserve", 
+        "tcin": "52338789", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52338789"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Breakfast Snack Box", 
+        "url": "/p/breakfast-snack-box/-/A-52338789", 
+        "release_date": "", 
+        "upc": "863686002153", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Flavor:</B> cinnamon", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Purchase By Weight:</B> no", 
+            "<B>Number of Containers Per Package:</B> 40"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "071-02-0200", 
+        "brand": "Pure Organic", 
+        "tcin": "52336507", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52336507"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Pure Organic Chocolate Brownie Bar - 1.5 oz - 12 ct", 
+        "url": "/p/pure-organic-chocolate-brownie-bar-1-5-oz-12-ct/-/A-52336507", 
+        "release_date": "", 
+        "upc": "854210001049", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Non GMO", 
+                "Gluten free", 
+                "Chocolate Brownie Bar"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Flavor:</B> chocolate"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "071-02-0195", 
+        "brand": "Pure Organic", 
+        "tcin": "52336422", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "52336422_Alt01", 
+                    "52336422_Alt02", 
+                    "52336422_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "52336422_Alt02", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52336422_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "52336422_Alt01", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "52336422"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Cookies, chips & snacks", 
+            "granola bars", 
+            "Breakfast & cereal bars"
+        ], 
+        "title": "Pure Organic Peanut Butter Chocolate - 14.76 oz - 12 ct", 
+        "url": "/p/pure-organic-peanut-butter-chocolate-14-76-oz-12-ct/-/A-52336422", 
+        "release_date": "", 
+        "upc": "854210001261", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Non GMO", 
+                "Gluten free", 
+                "Vegan", 
+                "Soy Free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Consistency:</B> chewy", 
+            "<B>Number of Units Per Package:</B> 12", 
+            "<B>Flavor:</B> peanut butter"
+        ]
+    }
+]

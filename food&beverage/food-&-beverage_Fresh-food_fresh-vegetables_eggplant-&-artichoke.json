@@ -1,0 +1,78 @@
+[
+    {
+        "description": "Eggplant from Pero Family Farms is great for roasting, grilling or frying. Lightly bread or saute it and you can use it in your favorite lasagna recipe in place of pasta! Low in cholesterol and fat, and high in dietary fiber, eggplant will add some texture to your next meal.", 
+        "dpci": "224-21-4081", 
+        "brand": "Pero Family Farms", 
+        "tcin": "13728566", 
+        "images": [
+            {
+                "swatch": "13728566_Swatch", 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13728566"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "eggplant & artichoke"
+        ], 
+        "title": "Fresh Eggplant", 
+        "url": "/p/fresh-eggplant/-/A-13728566", 
+        "release_date": "", 
+        "upc": "492242140819", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Fresh eggplant", 
+                "Rich in dietary fiber, vitamins and minerals", 
+                "Try it grilled or in a pasta dish"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "Add the perfect finishing touch to your meal tonight with an Artichoke. This tasty vegetable brings great flavor whether you roast it and eat the leaves or you get fancy and make some homemade spinach artichoke dip for your next party.", 
+        "dpci": "224-21-4084", 
+        "brand": "", 
+        "tcin": "15027749", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15027749"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "eggplant & artichoke"
+        ], 
+        "title": "Artichoke by ea", 
+        "url": "/p/artichoke-by-ea/-/A-15027749", 
+        "release_date": "", 
+        "upc": "204084000004", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Artichokes bring quick flavor to any meal", 
+                "Add it to a dip, meal or salad for great taste"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "description": "Avocados have quickly become one of the most popular fruits, due to their heart-healthy benefits and various uses. High in healthy fats, they'll keep you energized from breakfast until dinner no matter how you use them. Mix with lemon juice, olive oil, sea salt and cumin to make a flavorful avocado toast, top a sandwich or burger or whip up some classic guacamole \u2014 you'll love all the possibilities!", 
+        "dpci": "224-12-4770", 
+        "brand": "", 
+        "tcin": "47095644", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47095644"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "avocados"
+        ], 
+        "title": "Avocado ea", 
+        "url": "/p/avocado-ea/-/A-47095644", 
+        "release_date": "", 
+        "upc": "492241247700", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Contains a high dose of vitamins and nutrients", 
+                "Loaded with heart-healthy monounsaturated fatty acids", 
+                "Perfect for guacamole, taco toppings, sandwiches and avocado toast"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> no container"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "224-12-0021", 
+        "brand": "", 
+        "tcin": "47852966", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "47852966", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47852966"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "avocados"
+        ], 
+        "title": "Bagged Avocado 4ct", 
+        "url": "/p/bagged-avocado-4ct/-/A-47852966", 
+        "release_date": "", 
+        "upc": "761010401545", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-50-0036", 
+        "brand": "", 
+        "tcin": "16951566", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16951566"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "avocados"
+        ], 
+        "title": "Organic Avocado - 4ct", 
+        "url": "/p/organic-avocado-4ct/-/A-16951566", 
+        "release_date": "", 
+        "upc": "033383401614", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

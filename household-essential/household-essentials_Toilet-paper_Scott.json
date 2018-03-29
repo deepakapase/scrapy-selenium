@@ -1,0 +1,127 @@
+[
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "Scott", 
+        "tcin": "53402416", 
+        "images": [
+            {
+                "alternate_urls": [
+                    "53402416_Alt01", 
+                    "53402416_Alt02", 
+                    "53402416_Alt03"
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "content_labels": [
+                    {
+                        "image_url": "53402416_Alt03", 
+                        "displayed_in_image": {}
+                    }, 
+                    {
+                        "image_url": "53402416_Alt02", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "primary": "53402416"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Toilet paper", 
+            "Scott"
+        ], 
+        "title": "Scott 1000 Septic Safe Toilet Paper", 
+        "url": "/p/scott-1000-septic-safe-toilet-paper/-/A-53402416", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {}, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 15", 
+            "<B>Sheets Per Roll:</B> 1000", 
+            "<B>Features:</B> One-Ply"
+        ]
+    }, 
+    {
+        "description": "Scott Extra Soft Mega Roll Bath Tissue, our softest toilet paper ever. Scott Extra Soft bathroom tissue combines the right amount of softness with long-lasting toilet paper rolls to provide your family with a sensible combination of comfort and value. There\u2019s soft. Then there\u2019s Extra Soft.", 
+        "dpci": "253-06-0304", 
+        "brand": "Scott", 
+        "tcin": "52292163", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52292163", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52292163"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Toilet paper", 
+            "Scott"
+        ], 
+        "title": "Scott Extra Soft Toilet Paper - 12 Mega Rolls", 
+        "url": "/p/scott-extra-soft-toilet-paper-12-mega-rolls/-/A-52292163", 
+        "release_date": "", 
+        "upc": "054000475269", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Scott Extra Soft Toilet Paper Mega Rolls have 400 sheets per roll. Our longest-lasting toilet paper roll.", 
+                "Scott Extra Soft bath tissue is the perfect combination of comfort and value.", 
+                "Scott Extra Soft toilet paper is safe for sewers and septic systems.", 
+                "Scott Extra Soft Mega Roll bathroom tissue is soft and durable.", 
+                "Packaging may vary from image shown."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 12", 
+            "<B>Sheets Per Roll:</B> 400", 
+            "<B>Features:</B> Ultra Soft, One-Ply"
+        ]
+    }, 
+    {
+        "description": "Cushiony soft with no cardboard tube to toss, Scott coreless toilet paper gives you exactly what you need and nothing you don\u2019t. Scott Tube-Free unrolls like regular toilet paper, without leaving the last sheet stuck to the tube like you get with other toilet tissue products. Plus, Scott bathroom tissue is always safe for sewers and septic systems. With more than 17 billion toilet paper tubes used each year, choosing Scott Tube-Free Toilet Paper is an effortless way you can make an impact without sacrificing the quality and value you expect for your home and family. Toss the unnecessary tube for good, starting now.", 
+        "dpci": "253-06-0116", 
+        "brand": "Scott", 
+        "tcin": "50302943", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50302943"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "household essentials", 
+            "Toilet paper", 
+            "Scott"
+        ], 
+        "title": "Scott Tube Free Toilet Paper - 24 Double Rolls", 
+        "url": "/p/scott-tube-free-toilet-paper-24-double-rolls/-/A-50302943", 
+        "release_date": "", 
+        "upc": "054000448874", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Cushiony soft with no tube to toss", 
+                "Unrolls like regular toilet paper", 
+                "24 Double Rolls = 48 Regular Rolls", 
+                "Unscented 1-ply bath tissue is sewer-safe and septic-safe No more inconvenient store runs.", 
+                "No more wasteful TP tubes. Shop online and get Scott Tube-Free Toilet Paper conveniently delivered."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Rolls Per Pack:</B> 24", 
+            "<B>Sheets Per Roll:</B> 264"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "description": "", 
+        "dpci": "211-21-0012", 
+        "brand": "Archer Farms&#153;", 
+        "tcin": "15407763", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407763"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "asparagus"
+        ], 
+        "title": "Asparagus Spears - 8oz - Archer Farms&#153;", 
+        "url": "/p/asparagus-spears-8oz-archer-farms-153/-/A-15407763", 
+        "release_date": "", 
+        "upc": "885206001293", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "224-21-4080", 
+        "brand": "", 
+        "tcin": "14992445", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14992445"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "asparagus"
+        ], 
+        "title": "Asparagus per lb", 
+        "url": "/p/asparagus-per-lb/-/A-14992445", 
+        "release_date": "", 
+        "upc": "204080000008", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> yes", 
+            "<B>State of Readiness:</B> ingredient", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> no container"
+        ]
+    }
+]

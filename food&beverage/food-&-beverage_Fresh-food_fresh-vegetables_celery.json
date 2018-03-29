@@ -1,0 +1,127 @@
+[
+    {
+        "description": "", 
+        "dpci": "211-21-4070", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919691", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919691"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "celery"
+        ], 
+        "title": "Celery ea.", 
+        "url": "/p/celery-ea/-/A-14919691", 
+        "release_date": "", 
+        "upc": "033383653051", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-50-0023", 
+        "brand": "Veg-Land", 
+        "tcin": "15407758", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407758"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "celery"
+        ], 
+        "title": "Organic Celery", 
+        "url": "/p/organic-celery/-/A-15407758", 
+        "release_date": "", 
+        "upc": "073574800024", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Storage State:</B> refrigerated"
+        ]
+    }, 
+    {
+        "description": "For a tasty low-calorie addition to any meal, incorporate some fresh Organic Celery Hearts. Perfect cooked up as part of a stir fry or soup, celery also makes an easy snack \u2014\u00a0just top with peanut butter, hazelnut spread or cream cheese for a healthier snack option than chips or candy.", 
+        "dpci": "211-50-0017", 
+        "brand": "Foxy", 
+        "tcin": "15407761", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15407761"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "celery"
+        ], 
+        "title": "Organic Celery Hearts ea.", 
+        "url": "/p/organic-celery-hearts-ea/-/A-15407761", 
+        "release_date": "", 
+        "upc": "073574800017", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Low-calorie source of fiber", 
+                "Great in stir fry or with your favorite spread", 
+                "&nbsp;Quick and easy snack"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> refrigerated"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "211-21-4575", 
+        "brand": "GREEN GIANT", 
+        "tcin": "14919575", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14919575"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Fresh food", 
+            "fresh vegetables", 
+            "celery"
+        ], 
+        "title": "Celery Heart ea.", 
+        "url": "/p/celery-heart-ea/-/A-14919575", 
+        "release_date": "", 
+        "upc": "605806000324", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Purchase By Weight:</B> no", 
+            "<B>State of Readiness:</B> ready to eat", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }
+]

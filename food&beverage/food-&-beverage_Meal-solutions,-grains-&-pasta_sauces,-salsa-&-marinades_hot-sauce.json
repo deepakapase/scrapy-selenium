@@ -1,0 +1,1234 @@
+[
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "FRANK'S", 
+        "tcin": "53147665", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "53147665"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Frank's Red Hot Sauce Original", 
+        "url": "/p/frank-s-red-hot-sauce-original/-/A-53147665", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "", 
+        "dpci": "", 
+        "brand": "FRANK'S", 
+        "tcin": "53159795", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "53159795"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Frank's RedHot Buffalo Wing", 
+        "url": "/p/frank-s-redhot-buffalo-wing/-/A-53159795", 
+        "release_date": "", 
+        "upc": "", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Imported from Mexico. Made in Mexico.", 
+        "dpci": "212-04-0235", 
+        "brand": "Cholula", 
+        "tcin": "12992456", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "12992456"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Cholula Hot Sauce - 5oz", 
+        "url": "/p/cholula-hot-sauce-5oz/-/A-12992456", 
+        "release_date": "", 
+        "upc": "049733091015", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "Are you one of us? This is the genuine article. From the very beginning (1868, to be exact), we knew Tabasco Sauce was more than just heat. That's because, unlike other sauces that mask the flavor of food, Tabasco Original Red blends with every bite - allowing our aged red peppers to amplify each flavor so you taste more of your favorite foods. So whether you shake a little or splash a lot, you're ready to turn ordinary meals into extraordinary ones. Taste the difference Tabasco can make on pizza, eggs, seafood, salad dressing and more. Hungry for more? Visit Tabasco.com to purchase any of our pepper sauce family of flavors. Shake some on and make your pizza supreme. Dress up the dressing. Crack open the flavor.                                                                         Shake well.", 
+        "dpci": "212-04-0094", 
+        "brand": "McIlhenny", 
+        "tcin": "13207339", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13207339"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "McIlhenny.Co Tabasco&#174; Pepper Sauce - 5oz", 
+        "url": "/p/mcilhenny-co-tabasco-174-pepper-sauce-5oz/-/A-13207339", 
+        "release_date": "", 
+        "upc": "011210000155", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Aged red peppers amplify each flavor so you taste more of your favorite foods.", 
+                "Ready to turn ordinary meals into extraordinary ones."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Cholula - The original flavorful fire. Its delicious, exclusive blend of red & piquin peppers and signature spices excite the flavor in everything you eat - from dips, soups and sandwiches to eggs, pizza, chicken and even popcorn! Go ahead, give it a shake and take the ordinary to extraordinary!  Imported from Mexico. Made in Mexico.", 
+        "dpci": "212-04-0195", 
+        "brand": "Cholula", 
+        "tcin": "16261496", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16261496"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Cholula Original Hot Sauce - 12oz", 
+        "url": "/p/cholula-original-hot-sauce-12oz/-/A-16261496", 
+        "release_date": "", 
+        "upc": "049733123457", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Are you one of us? This is the genuine article. From the very beginning (1868, to be exact), we knew Tabasco Sauce was more than just heat. That's because, unlike other sauces that mask the flavor of food, Tabasco Original Red blends with every bite - allowing our aged red peppers to amplify each flavor so you taste more of your favorite foods. So whether you shake a little or splash a lot, you're ready to turn ordinary meals into extraordinary ones. Taste the difference Tabasco can make on pizza, eggs, seafood, salad dressing and more. Hungry for more? Visit Tabasco.com to purchase any of our pepper sauce family of flavors. Shake some on and make your pizza supreme. Dress up the dressing. Crack open the flavor. Shake well.", 
+        "dpci": "212-04-0092", 
+        "brand": "McIlhenny", 
+        "tcin": "13208099", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13208099"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "McIlhenny.Co Tabasco&#174; Pepper Sauce - 2oz", 
+        "url": "/p/mcilhenny-co-tabasco-174-pepper-sauce-2oz/-/A-13208099", 
+        "release_date": "", 
+        "upc": "011210000018", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Aged red peppers amplify each flavor so you taste more of your favorite foods.", 
+                "Ready to turn ordinary meals into extraordinary ones."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Smoked red jalapenos. This is the genuine article. Get the best of every bite. Before you light the grill, be sure to have a bottle of Tabasco brand Chipotle Pepper Sauce by your side.  It's also superb on sides like mac & cheese, potato salad and baked beans. Break out a bottle at your next backyard barbecue and share the secret to great, smoky flavor. Shake well.", 
+        "dpci": "212-04-0025", 
+        "brand": "McIlhenny", 
+        "tcin": "13207338", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13207338"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "McIlhenny Tabasco Chipotle Pepper Sauce - 5oz", 
+        "url": "/p/mcilhenny-tabasco-chipotle-pepper-sauce-5oz/-/A-13207338", 
+        "release_date": "", 
+        "upc": "011210007703", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Made from select, slow-smoked red jalapeno peppers, it's the ideal balance of flavor and heat.", 
+                "Pour it right out of the bottle to add rich, smoky flavor to burgers and ribs.", 
+                "Use a generous amount to marinate steak, pork and chicken."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Presenting to you, from an award winning bunch of sauces, spicy hot sauce from the house of Sweet Baby Ray's\u00ae. The sauce has been made using pure extracts as well as additional ingredients to make the perfect concoction. The sauce will add a deep, smoky flavor to your favorite chicken, pork or vegetable dish.", 
+        "dpci": "212-04-0087", 
+        "brand": "Sweet Baby Ray's", 
+        "tcin": "52120763", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52120763"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Sweet Baby Ray's&#174; Hot Sauce - 12 fl oz", 
+        "url": "/p/sweet-baby-ray-s-174-hot-sauce-12-fl-oz/-/A-52120763", 
+        "release_date": "", 
+        "upc": "013409516867", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Tangy, spicy hot sauce from Sweet Baby Ray's", 
+                "Gluten free", 
+                "Bottle of 12 oz"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "This is the genuine article. Get the best of every bite. When you want flavor, reach for Tabasco brand Green Jalapeno Pepper Sauce. Milder than our Original Red it's perfect for when you really want to pour it on. Top off nachos, tacos, enchiladas and all your favorite Mexican dishes. Give bite to a variety of veggies. Shake well.", 
+        "dpci": "212-04-0238", 
+        "brand": "McIlhenny", 
+        "tcin": "13207336", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13207336"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Tabasco Green Pepper Jalapeno Sauce - 5oz", 
+        "url": "/p/tabasco-green-pepper-jalapeno-sauce-5oz/-/A-13207336", 
+        "release_date": "", 
+        "upc": "011210009301", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Milder than original.", 
+                "Mix it in with guacamole, queso, salsas and dips for true south-of-the-border taste.", 
+                "Pour some pep on your favorite foods and turn any dish into a fiesta with genuine jalapeno flavor."
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Imported from Mexico. Made in Mexico.", 
+        "dpci": "212-04-0831", 
+        "brand": "Cholula", 
+        "tcin": "12992100", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "12992100"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Cholula Chili Garlic Hot Sauce - 5oz", 
+        "url": "/p/cholula-chili-garlic-hot-sauce-5oz/-/A-12992100", 
+        "release_date": "", 
+        "upc": "049733800112", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "With a bottle of Taco Bell Hot Sauce in your pantry or kitchen, your days of hoarding leftover packets are over. One bottle fits the sauce contents of 35 packets, which makes this way more convenient than the grab-and-stash method you've come to rely on \u2014 and it's ready for whenever you're hankering for a hit of hot sauce. Whether you're cooking Taco Bell-style tacos at home or you want to bring the signature zing to your other favorite foods, this hot sauce bottle gives you the heat you crave in a size you'll love.", 
+        "dpci": "212-26-1583", 
+        "brand": "Taco Bell", 
+        "tcin": "15367084", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15367084"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Taco Bell Hot Taco Sauce 7.5oz", 
+        "url": "/p/taco-bell-hot-taco-sauce-7-5oz/-/A-15367084", 
+        "release_date": "", 
+        "upc": "021000046935", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "7.5oz bottle of Taco Bell's signature Hot Sauce", 
+                "Bottle features iconic one-liners like packets in restaurant", 
+                "Great for topping foods like tacos and burritos or as a marinade for meats and veggies"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "The perfect hot sauce. One drop does it. Louisiana Hot Sauce is perfect for spicing up foods, sauces and drinks. Use it in your favorite recipes to enhance the flavor of meats, eggs and seafood. It's also excellent when used as a condiment right at the table, or dashed into a Bloody Mary for that extra zing. A few drops of Louisiana Hot Sauce will give your taco mucho macho, and sprinkled on your on your pizza gives it real pizzaz. For a rib-tickling treat, try the following recipe for delicious Bayou Beef Ribs. And for a special treat, Louisiana Popcorn. To your popcorn butter add two generous dashed of Louisiana Hot Sauce. Makes popcorn taste freshly done even when cold. All natural ingredients. Product of USA.", 
+        "dpci": "212-04-0292", 
+        "brand": "Louisiana", 
+        "tcin": "13473433", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13473433"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Louisiana The Perfect Hot Sauce - 12oz", 
+        "url": "/p/louisiana-the-perfect-hot-sauce-12oz/-/A-13473433", 
+        "release_date": "", 
+        "upc": "190298000254", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Add a Caribbean kick to your favorite dishes with this McIlhenny Tabasco Habanero Hot Sauce. Just a dash is enough to start a fire on your tastebuds. Add to salsa, tacos, kabobs and more for that unmistakeable blaze.", 
+        "dpci": "212-04-0381", 
+        "brand": "McIlhenny", 
+        "tcin": "14711326", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14711326"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "McIlhenny Tabasco Habanero Hot Sauce - 2oz", 
+        "url": "/p/mcilhenny-tabasco-habanero-hot-sauce-2oz/-/A-14711326", 
+        "release_date": "", 
+        "upc": "011210006096", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "&nbsp;Tabasco habanero hot sauce", 
+                "&nbsp;Hottest of the hot", 
+                "&nbsp;Jamaican-style sauce will add a kick to your dish"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Imported from Mexico. Made in Mexico.", 
+        "dpci": "212-04-0262", 
+        "brand": "Cholula", 
+        "tcin": "12992435", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "12992435"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Cholula Chipotle Hot Sauce - 5oz", 
+        "url": "/p/cholula-chipotle-hot-sauce-5oz/-/A-12992435", 
+        "release_date": "", 
+        "upc": "049733830119", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "Tapatio Salsa Picante Hot Sauce,", 
+        "dpci": "212-26-0133", 
+        "brand": "Tapatio", 
+        "tcin": "47111993", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47111993"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Tapatio Salsa Picante Hot Sauce 5 oz", 
+        "url": "/p/tapatio-salsa-picante-hot-sauce-5-oz/-/A-47111993", 
+        "release_date": "", 
+        "upc": "077885710614", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Hot and tangy green hot sauce from habanero peppers and spices. It is made with fresh green habanero peppers, garlic, select spices and seasonings. This special mix of ingredients give a homely and fresh flavor to your dishes.<br><br>Directions<br>Keep it in a fresh and dry place.", 
+        "dpci": "212-26-1071", 
+        "brand": "El Yucateco", 
+        "tcin": "13356399", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13356399"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "El Yucateco Green Chile Habanero Hot Sauce 4 oz", 
+        "url": "/p/el-yucateco-green-chile-habanero-hot-sauce-4-oz/-/A-13356399", 
+        "release_date": "", 
+        "upc": "816493010026", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Authentic Habanero sauce", 
+                "Spicy", 
+                "Fat free"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Get some extra hotness and spice up your meals with the Extra Hot Chile Habanero Sauce from El Yucateco. Add an extra kick of flavor to dinner or lunch with this chile habanero sauce made with crushed chili. The recipe is inspired from culinary traditions of the ancient Mayan civilization for a pure, rich and authentic taste. Your simple meals will be spruced up and full of flavor as you add this hot sauce to experience its fiery taste.", 
+        "dpci": "212-26-1181", 
+        "brand": "El Yucateco", 
+        "tcin": "50350777", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50350777"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "El Yucateco&#174; Extra Hot Chile Habanero Sauce 4 oz", 
+        "url": "/p/el-yucateco-174-extra-hot-chile-habanero-sauce-4-oz/-/A-50350777", 
+        "release_date": "", 
+        "upc": "816493010057", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Extra-hot habanero sauce gives a zesty kick to a variety of dishes", 
+                "Recipe taken from the ancient Mayan civilization for an authentic taste", 
+                "Great addition to tacos, burritos, stews and more"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "With a bottle of Taco Bell Fire Sauce in your pantry or kitchen, your days of hoarding leftover packets are over. One bottle fits the sauce contents of 35 packets, which makes this way more convenient than the grab-and-stash method you've come to rely on \u2014 and it's ready for whenever you're hankering for a hit of hot sauce. Whether you're cooking Taco Bell-style tacos at home or you want to bring the signature zing to your other favorite foods, this hot sauce bottle gives you the heat you crave in a size you'll love.", 
+        "dpci": "212-26-1584", 
+        "brand": "Taco Bell", 
+        "tcin": "15367085", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "15367085"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Taco Bell Fire Sauce 7.5oz", 
+        "url": "/p/taco-bell-fire-sauce-7-5oz/-/A-15367085", 
+        "release_date": "", 
+        "upc": "021000046904", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "7.5oz bottle of Taco Bell's signature Fire Sauce", 
+                "Bottle features iconic one-liners like packets in restaurant", 
+                "Great for topping foods like tacos and burritos or as a marinade for meats and veggies"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "For spice lovers, McIlhenny Tabasco Pepper Sauce is a staple condiment for almost any dish. Add mouthwatering spice to eggs, pizza, salads and meats of all kinds with this classic sauce.", 
+        "dpci": "212-04-0225", 
+        "brand": "McIlhenny", 
+        "tcin": "14778883", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14778883"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "McIlhenny Tabasco Pepper - 12oz", 
+        "url": "/p/mcilhenny-tabasco-pepper-12oz/-/A-14778883", 
+        "release_date": "", 
+        "upc": "011210000032", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Savory potato seasoning", 
+                "Uses rosemary, garlic, onion and other spices to add flavor to potatoes", 
+                "Natural ingredients"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "When you're ready for some real heat, reach for this Hot Sauce from Texas Pete\u00ae. With its hot and bold flavor, this hot sauce will spice up any dish without covering up the food's flavors. Add to anything from pizza to tacos when your meal needs an extra kick.", 
+        "dpci": "212-04-0193", 
+        "brand": "Texas Pete", 
+        "tcin": "14778651", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14778651"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Texas Pete Hot Sauce - 12oz", 
+        "url": "/p/texas-pete-hot-sauce-12oz/-/A-14778651", 
+        "release_date": "", 
+        "upc": "075500000027", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Original hot sauce flavor", 
+                "Add to barbecue sauce or wing sauce recipes for some extra heat", 
+                "Dash onto pizza or burgers"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Green pepper hot sauce from Cholula brings a zesty burst of jalapeno and poblano peppers to your kitchen. While Mexican favorites are popular, you can also use the sauce in salads, dips or even as a marinade. It's sure to be your new go-to ingredient. Uncap real flavors with this amazingly spicy sauce.", 
+        "dpci": "212-04-0006", 
+        "brand": "Cholula", 
+        "tcin": "16271103", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "16271103"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Cholula Green Pepper Hot Sauce - 5oz", 
+        "url": "/p/cholula-green-pepper-hot-sauce-5oz/-/A-16271103", 
+        "release_date": "", 
+        "upc": "049733950114", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Green pepper hot sauce", 
+                "Single bottle of 5oz", 
+                "Blend of jalapeno and poblano peppers"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Add a little bit of heat to your condiments selection with Bibigo Korean Gochujang Mayo Sauce. The perfect blend of sweet and spicy, this Korean mayonnaise offers a smooth, creamy texture you'll love on burgers, fries, chips, tacos and whatever else you can think of. For those who love a kick of spice with zesty flavor, keep this condiment within close reach for any meal.", 
+        "dpci": "212-30-0264", 
+        "brand": "Bibigo", 
+        "tcin": "50331997", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50331997"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Bibigo Korean Gochujang Sauce Mayo 11.46 oz", 
+        "url": "/p/bibigo-korean-gochujang-sauce-mayo-11-46-oz/-/A-50331997", 
+        "release_date": "", 
+        "upc": "807176711477", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Korean mayo sauce with a spicy kick", 
+                "Balanced blend of sweet and spicy with a smooth, creamy texture", 
+                "Perfect with burgers, fries, chips, tacos and more"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> plastic"
+        ]
+    }, 
+    {
+        "description": "If you consider yourself a wing aficionado, this Hot Buffalo Wings Sauce from Frank's RedHot is perfect for adding some serious heat to your dishes. This hot Buffalo sauce will bring a fiery flavor and authentic Buffalo taste to your foods - use for classic Buffalo chicken wings or for adding heat to your dips.", 
+        "dpci": "212-04-0096", 
+        "brand": "FRANK'S", 
+        "tcin": "13130096", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "13130096"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Frank's RedHot Hot Buffalo Wings Sauce - 12oz", 
+        "url": "/p/frank-s-redhot-hot-buffalo-wings-sauce-12oz/-/A-13130096", 
+        "release_date": "", 
+        "upc": "041500818436", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Buffalo wing sauce is perfect for adding heat to your foods", 
+                "If you love heat, this hot Buffalo is the perfect addition to your favorite dishes", 
+                "Use for adding flavor to chicken wings or try a delicious buffalo chicken dip"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass", 
+            "Style and color assortment may vary"
+        ]
+    }, 
+    {
+        "description": "Thanks to Taco Bell Diablo Sauce, you can bring the taste of beloved Taco Bell into your kitchen, without having to leave it. Add a dash \u2014 or more, if you can handle it! \u2014 of Diablo Sauce to your homemade tacos, burritos, nachos, enchiladas and more. Or add it to your actual Taco Bell meal when you forget to grab enough packets.", 
+        "dpci": "212-26-1220", 
+        "brand": "Taco Bell", 
+        "tcin": "50286790", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "50286790"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Taco Bell&#174; Diablo Sauce 7.5 oz", 
+        "url": "/p/taco-bell-174-diablo-sauce-7-5-oz/-/A-50286790", 
+        "release_date": "", 
+        "upc": "492122612207", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Taco Bell hot sauce is made with the restaurant recipe", 
+                "Features the same authentic taste you love", 
+                "7.5oz bottle adds intense heat to your favorite dishes"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Product of USA.", 
+        "dpci": "212-04-0201", 
+        "brand": "Florida's Natural", 
+        "tcin": "47110386", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47110386"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Crystal Louisiana's Pure Hot Sauce - 12 fl oz", 
+        "url": "/p/crystal-louisiana-s-pure-hot-sauce-12-fl-oz/-/A-47110386", 
+        "release_date": "", 
+        "upc": "048400000107", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Hot Sauce", 
+                "Louisiana's Pure"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "The original Tex-Mex salsa. Delicious on eggs, steak, chicken, in soups and gumbos, in all kinds of dips or whenever you want to spice up your food.<br><br>Directions<br>Refrigerate after opening.", 
+        "dpci": "212-26-2875", 
+        "brand": "IBERIA", 
+        "tcin": "47088225", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47088225"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "El Fenix Salsa Picante 16 oz", 
+        "url": "/p/el-fenix-salsa-picante-16-oz/-/A-47088225", 
+        "release_date": "", 
+        "upc": "075816111127", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "A source of lycopene", 
+                "Great on almost everything", 
+                "Open since 1918"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Directions<br>Once opened, place contents in another container and refrigerate.", 
+        "dpci": "212-26-1089", 
+        "brand": "La Costena", 
+        "tcin": "47087576", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47087576"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "La Costena&#174; Homestyle Mexican Hot Sauce 7 oz", 
+        "url": "/p/la-costena-174-homestyle-mexican-hot-sauce-7-oz/-/A-47087576", 
+        "release_date": "", 
+        "upc": "076397005072", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Since 1923", 
+                "Easy open", 
+                "No preservatives added", 
+                "Product of Mexico"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Enjoy the traditional spices of Jamaica with this classic Hot Sauce from Pickapeppa. The sweet, mellow flavor of cane vinegar makes it a delightful addition to any dish from appetizer to entr\u00e9e or even dessert.", 
+        "dpci": "212-04-0034", 
+        "brand": "Pickapeppa", 
+        "tcin": "14778303", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14778303"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Pickapeppa Hot Sauce - 5oz", 
+        "url": "/p/pickapeppa-hot-sauce-5oz/-/A-14778303", 
+        "release_date": "", 
+        "upc": "072155000051", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Classic spicy Jamaican hot sauce", 
+                "Sweet, mellow flavor of cane vinegar", 
+                "Perfect for any dish from appetizer to entr&#233;e to dessert"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> refrigerated", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Jerking is a traditional style of barbecuing. This paste when rubbed sparingly into meat should be left overnight for best results, then grilled or roasted slowly. Adjust amount used to your taste.", 
+        "dpci": "212-26-0486", 
+        "brand": "Walkerswood", 
+        "tcin": "47975596", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47975596"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Walkerswood Traditional Jamaican Jerk Seasoning Hot 10 oz", 
+        "url": "/p/walkerswood-traditional-jamaican-jerk-seasoning-hot-10-oz/-/A-47975596", 
+        "release_date": "", 
+        "upc": "015414541216", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Chicken", 
+                "Pork Fish", 
+                "Hamburgers", 
+                "Vegetables"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "If just hot doesn't cut it for you, this Xtra Hot Sauce from Frank's RedHot is perfect for you. The Xtra Hot Sauce is four times the heat of Frank's Original RedHot. This extra hot sauce is made with a blend of aged cayenne peppers for a flavor that packs a punch. If you think you can take the heat, this sauce is the perfect addition to your dishes for an unmistakable flavor.", 
+        "dpci": "212-04-0181", 
+        "brand": "FRANK'S", 
+        "tcin": "14393673", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14393673"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Frank's RedHot Xtra Hot Sauce - 12oz", 
+        "url": "/p/frank-s-redhot-xtra-hot-sauce-12oz/-/A-14393673", 
+        "release_date": "", 
+        "upc": "041500799537", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Hot sauce made with aged cayenne peppers for an extra spicy flavor", 
+                "4 times the heat of the original making it perfect for spice lovers", 
+                "Add to a variety of different dishes like wings and tacos"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Add an extra surge of flavor to your food with the Chile Lime Hot Sauce from Frank's RedHot. This hot sauce blends a heat wave of chile and spice with a burst of citrus, making it the perfect mix of flavors. Add some to your tacos, nachos or guacamole for a savory heat flavor with a tangy twist.", 
+        "dpci": "212-04-0071", 
+        "brand": "FRANK'S", 
+        "tcin": "14631621", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "14631621"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Frank's RedHot Chile Lime Hot Sauce - 12oz", 
+        "url": "/p/frank-s-redhot-chile-lime-hot-sauce-12oz/-/A-14631621", 
+        "release_date": "", 
+        "upc": "041500770734", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Chile lime hot sauce enhances the taste of your favorite foods", 
+                "Adds a savory heat with a touch of citrus to your food for the perfect balance of flavors", 
+                "Perfect for adding to a variety of different dishes like taco salads, burritos and guacamole"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Number of Containers Per Package:</B> 1.000", 
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "This hot yet distinctly flavored sauce has an unmistakable aroma. Scotch bonnet pepper has become a staple in Jamaican cuisine. This sauce should be used sparingly and can enhance almost any savory dish. Your Caribbean kitchen.", 
+        "dpci": "212-26-0404", 
+        "brand": "Walkerswood", 
+        "tcin": "47975813", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47975813"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Walkerswood Hot Jamaican Scotch Bonnet Pepper Sauce 6 oz", 
+        "url": "/p/walkerswood-hot-jamaican-scotch-bonnet-pepper-sauce-6-oz/-/A-47975813", 
+        "release_date": "", 
+        "upc": "015414542299", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": [], 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Add some heat to your next barbeque with this Spicy Jamaican Jerk Marinade from Walkerswood. This Jamaican marinade has the authentic and rich flavors of jerk seasoning. Give your meats a full, spicy flavor with this marinade that works great overnight or still packs a punch even if you're short on time.", 
+        "dpci": "212-26-0409", 
+        "brand": "Walkerswood", 
+        "tcin": "47975818", 
+        "images": [
+            {
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "47975818"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Walkerswood Spicy Jamaican Jerk Marinade 17 oz", 
+        "url": "/p/walkerswood-spicy-jamaican-jerk-marinade-17-oz/-/A-47975818", 
+        "release_date": "", 
+        "upc": "015414541315", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "Marinade features the authentic and bold flavor of Jamaican jerk seasoning", 
+                "Adds a real heat and spiciness to your favorite meats", 
+                "Works great for an overnight marinade or shorter marinade time"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Life is best lived on the wild side and not the mild side. So keep your cooking all natural and spicy with Royito's Original Hot Sauce. This gluten-free hot sauce is made with all natural ingredients and packs a powerful punch that will enhance all of your meals. Whether you blend it into your favorite chip dips or use it to add heat to your tacos and burritos, this delicious hot sauce offers a flavorful explosion your taste buds will love.", 
+        "dpci": "212-26-1209", 
+        "brand": "Royito's Hot Sauce", 
+        "tcin": "52820606", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52820606", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52820606"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Royito's&#174; Original Hot Sauce - 16oz", 
+        "url": "/p/royito-s-174-original-hot-sauce-16oz/-/A-52820606", 
+        "release_date": "", 
+        "upc": "854752002016", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "16oz of hot sauce for dipping, cooking and more", 
+                "Perfect for adding a touch of heat to all your favorite foods and dishes", 
+                "All natural ingredients, gluten free and no added sugar for a healthy choice"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }, 
+    {
+        "description": "Life is best lived on the wild side and not the mild side. So dial up the heat with Royito's Family Reserve Hotter Sauce for a spicy explosion that'll rock your taste buds. Made with all natural ingredients and double the serrano peppers, this gluten-free hot sauce packs twice the punch of the original recipe. Use it in anything and everything you serve from queso sauce to chicken casseroles for a flavor profile your whole family will love.", 
+        "dpci": "212-26-1198", 
+        "brand": "Royito's Hot Sauce", 
+        "tcin": "52820607", 
+        "images": [
+            {
+                "content_labels": [
+                    {
+                        "image_url": "52820607", 
+                        "displayed_in_image": {}
+                    }
+                ], 
+                "base_url": "https://target.scene7.com/is/image/Target/", 
+                "primary": "52820607"
+            }
+        ], 
+        "package_dimensions": "", 
+        "categories": [
+            "food & beverage", 
+            "Meal solutions, grains & pasta", 
+            "sauces, salsa & marinades", 
+            "hot sauce"
+        ], 
+        "title": "Royito's&#174; Family Reserve Hotter Sauce - 16oz", 
+        "url": "/p/royito-s-174-family-reserve-hotter-sauce-16oz/-/A-52820607", 
+        "release_date": "", 
+        "upc": "854752002023", 
+        "available_to_purchase_date_time": "", 
+        "soft_bullets": {
+            "bullets": [
+                "16oz of 2x hotter sauce for dipping, cooking and more", 
+                "Perfect for adding a touch of heat to all your favorite foods and dishes", 
+                "All natural ingredients, gluten free and no added sugar for a healthy choice"
+            ], 
+            "title": "highlights"
+        }, 
+        "bullet_description": [
+            "<B>Storage State:</B> room temperature", 
+            "<B>Container Material:</B> glass"
+        ]
+    }
+]
